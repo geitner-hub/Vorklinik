@@ -3,7 +3,7 @@
    Kern wird beim Installieren gespeichert; Kapitel, Tafeln und Bilder beim ersten Öffnen.
    Bei Änderungen an ausgelieferten Dateien VERSION erhöhen (werkzeuge/pruefen.py zeigt sie an).
    ═══════════════════════════════════════════════════════ */
-const VERSION = 'v2';
+const VERSION = 'v3';
 const CACHE = 'vorklinik-' + VERSION;
 const KERN = ['./', 'index.html', 'css/app.css', 'js/app.js', 'js/vendor/qrcode.js', 'struktur.json', 'manifest.webmanifest',
   'fonts/atkinson-hyperlegible-latin-400-normal.woff2', 'fonts/atkinson-hyperlegible-latin-700-normal.woff2', 'icons/icon-192.png'];
