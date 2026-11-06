@@ -1,0 +1,1868 @@
+{
+ "id": "obere-extremitaet",
+ "buch": "Prometheus LernAtlas – Allgemeine Anatomie und Bewegungssystem",
+ "teil": "Obere Extremität",
+ "titel": "Obere Extremität: Knochen, Bänder, Gelenke",
+ "seiten": "S. 250–309",
+ "bereiche": [
+  [
+   250,
+   309
+  ]
+ ],
+ "intro": "Schultergürtel und freie Gliedmaße: Knochen, die fünf Schultergelenke mit Bändern und Rotatorenmanschette, Ellenbogen, Radioulnargelenke, Handwurzel, Karpalkanal, Finger- und Daumensattelgelenk.",
+ "einheiten": [
+  {
+   "nr": "1.1",
+   "titel": "Obere Extremität als Ganzes",
+   "seite": 250
+  },
+  {
+   "nr": "1.2",
+   "titel": "Einbau des Schultergürtels in das Rumpfskelett",
+   "seite": 252
+  },
+  {
+   "nr": "1.3",
+   "titel": "Knochen des Schultergürtels",
+   "seite": 254
+  },
+  {
+   "nr": "1.4",
+   "titel": "Humerus als Ganzes",
+   "seite": 256
+  },
+  {
+   "nr": "1.5",
+   "titel": "Torsion des Humerus",
+   "seite": 258
+  },
+  {
+   "nr": "1.6",
+   "titel": "Radius und Ulna als Ganzes",
+   "seite": 260
+  },
+  {
+   "nr": "1.7",
+   "titel": "Gelenkflächen von Radius und Ulna",
+   "seite": 262
+  },
+  {
+   "nr": "1.8",
+   "titel": "Knochen der Hand",
+   "seite": 264
+  },
+  {
+   "nr": "1.9",
+   "titel": "Handwurzelknochen",
+   "seite": 266
+  },
+  {
+   "nr": "1.10",
+   "titel": "Radiokarpaler Übergang, Mittelhand, distale Radius- und Skaphoidfrakturen",
+   "seite": 268
+  },
+  {
+   "nr": "1.11",
+   "titel": "Schultergelenke: Überblick und Schlüsselbeingelenke",
+   "seite": 270
+  },
+  {
+   "nr": "1.12",
+   "titel": "Bänder der Schlüsselbeingelenke, Schulterblatt-Thorax-Gelenk",
+   "seite": 272
+  },
+  {
+   "nr": "1.13",
+   "titel": "Schultergelenk: Gelenkflächen, Kapsel, Gelenkhöhle",
+   "seite": 274
+  },
+  {
+   "nr": "1.14",
+   "titel": "Schultergelenk: Kapselbänder und Rotatorenintervall",
+   "seite": 276
+  },
+  {
+   "nr": "1.15",
+   "titel": "Subakromiales Nebengelenk",
+   "seite": 278
+  },
+  {
+   "nr": "1.16",
+   "titel": "Bursa subacromialis und subdeltoidea",
+   "seite": 280
+  },
+  {
+   "nr": "1.17",
+   "titel": "Arthroskopie der Schulter",
+   "seite": 282
+  },
+  {
+   "nr": "1.18",
+   "titel": "Röntgen- und Schnittbildanatomie der Schulter",
+   "seite": 284
+  },
+  {
+   "nr": "1.19",
+   "titel": "Bewegungen in Schultergürtel und Schultergelenk",
+   "seite": 286
+  },
+  {
+   "nr": "1.20",
+   "titel": "Ellenbogengelenk als Ganzes",
+   "seite": 288
+  },
+  {
+   "nr": "1.21",
+   "titel": "Ellenbogengelenk: Kapsel-Band-Apparat",
+   "seite": 290
+  },
+  {
+   "nr": "1.22",
+   "titel": "Bildgebung des Ellenbogengelenks",
+   "seite": 292
+  },
+  {
+   "nr": "1.23",
+   "titel": "Unterarm: Radioulnargelenke",
+   "seite": 294
+  },
+  {
+   "nr": "1.24",
+   "titel": "Bewegungen im Ellenbogen- und Radioulnargelenk",
+   "seite": 296
+  },
+  {
+   "nr": "1.25",
+   "titel": "Bandapparat der Hand",
+   "seite": 298
+  },
+  {
+   "nr": "1.26",
+   "titel": "Intrinsische Bänder, Gelenkkompartimente, ulnokarpaler Komplex",
+   "seite": 300
+  },
+  {
+   "nr": "1.27",
+   "titel": "Canalis carpi",
+   "seite": 302
+  },
+  {
+   "nr": "1.28",
+   "titel": "Bandapparat der Finger",
+   "seite": 304
+  },
+  {
+   "nr": "1.29",
+   "titel": "Daumensattelgelenk",
+   "seite": 306
+  },
+  {
+   "nr": "1.30",
+   "titel": "Bewegungen in Hand- und Fingergelenken",
+   "seite": 308
+  }
+ ],
+ "strukturen": {
+  "clavicula": {
+   "lat": "Clavicula",
+   "de": "Schlüsselbein",
+   "info": "S-förmig, beim Erwachsenen 12–15 cm lang und ganz tastbar; einziger Extremitätenknochen ohne knorpelige Vorstufe (desmale Ossifikation).",
+   "ref": "S. 254 A",
+   "rubrik": "knochen"
+  },
+  "extremitas-sternalis": {
+   "lat": "Extremitas sternalis claviculae",
+   "de": "sternales Ende des Schlüsselbeins",
+   "info": "Trägt eine sattelförmige Gelenkfläche für das Sternoklavikulargelenk.",
+   "ref": "S. 254 A",
+   "rubrik": "knochen"
+  },
+  "extremitas-acromialis": {
+   "lat": "Extremitas acromialis claviculae",
+   "de": "akromiales Ende des Schlüsselbeins",
+   "info": "Eher platt; Gelenkfläche für das Akromioklavikulargelenk.",
+   "ref": "S. 254 A",
+   "rubrik": "knochen"
+  },
+  "scapula": {
+   "lat": "Scapula",
+   "de": "Schulterblatt",
+   "info": "Liegt in Normalposition über der 2.–7. Rippe; bildet von kranial gesehen 30° mit der Frontalebene und 60° mit der Clavicula.",
+   "ref": "S. 252 A, 253 B",
+   "rubrik": "knochen"
+  },
+  "acromion": {
+   "lat": "Acromion",
+   "de": "Schulterhöhe",
+   "info": "Seitliches Ende der Spina scapulae; Teil des Schulterdachs und Gelenkpartner der Clavicula.",
+   "ref": "S. 255 B–D, 279 C",
+   "rubrik": "knochen"
+  },
+  "proc-coracoideus": {
+   "lat": "Processus coracoideus",
+   "de": "Rabenschnabelfortsatz",
+   "info": "Nach vorn ragender Fortsatz der Scapula; Ursprung des Lig. coracohumerale, Teil des Schulterdachs.",
+   "ref": "S. 255 C, 279 C",
+   "rubrik": "knochen"
+  },
+  "spina-scapulae": {
+   "lat": "Spina scapulae",
+   "de": "Schulterblattgräte",
+   "info": "Knochenleiste der Rückseite; liegt auf Höhe des Dornfortsatzes Th III.",
+   "ref": "S. 252 A, 255 D",
+   "rubrik": "knochen"
+  },
+  "cavitas-glenoidalis": {
+   "lat": "Cavitas glenoidalis",
+   "de": "Schultergelenkpfanne",
+   "info": "Drei- bis viermal kleiner als der Humeruskopf; bildet 30° mit der Sagittalebene.",
+   "ref": "S. 257 D, 274 A",
+   "rubrik": "knochen"
+  },
+  "incisura-scapulae": {
+   "lat": "Incisura scapulae",
+   "de": "Schulterblatteinschnitt",
+   "info": "Wird vom Lig. transversum scapulae superius überbrückt; Durchtritt des N. suprascapularis.",
+   "ref": "S. 255 E",
+   "rubrik": "knochen"
+  },
+  "angulus-inferior-scapulae": {
+   "lat": "Angulus inferior scapulae",
+   "de": "unterer Schulterblattwinkel",
+   "info": "Liegt auf Höhe des Dornfortsatzes Th VII; schwenkt beim Armheben nach lateral.",
+   "ref": "S. 252 A, 286 A",
+   "rubrik": "knochen"
+  },
+  "humerus": {
+   "lat": "Humerus",
+   "de": "Oberarmknochen",
+   "info": "Röhrenknochen des Oberarms; beim Erwachsenen um etwa 16° tordiert (Neugeborenes ca. 60°).",
+   "ref": "S. 256 A, 259 C",
+   "rubrik": "knochen"
+  },
+  "caput-humeri": {
+   "lat": "Caput humeri",
+   "de": "Oberarmkopf",
+   "info": "Kugelförmiger Gelenkkopf des Schultergelenks.",
+   "ref": "S. 256 A, 274 A",
+   "rubrik": "knochen"
+  },
+  "collum-anatomicum": {
+   "lat": "Collum anatomicum",
+   "de": "anatomischer Hals",
+   "info": "Grenze am Knorpelrand des Kopfes; Ort intraartikulärer proximaler Humerusfrakturen.",
+   "ref": "S. 258 A–B",
+   "rubrik": "knochen"
+  },
+  "collum-chirurgicum": {
+   "lat": "Collum chirurgicum",
+   "de": "chirurgischer Hals",
+   "info": "Unterhalb der Tubercula; bevorzugte Stelle extraartikulärer proximaler Humerusfrakturen.",
+   "ref": "S. 258 B",
+   "rubrik": "knochen"
+  },
+  "tuberculum-majus": {
+   "lat": "Tuberculum majus",
+   "de": "großer Oberarmhöcker",
+   "info": "Zeigt in Neutral-Null-Stellung nach lateral; Ansatz von Supra-, Infraspinatus und Teres minor.",
+   "ref": "S. 257 D, 278 A",
+   "rubrik": "knochen"
+  },
+  "tuberculum-minus": {
+   "lat": "Tuberculum minus",
+   "de": "kleiner Oberarmhöcker",
+   "info": "Zeigt nach ventral; Ansatz des M. subscapularis.",
+   "ref": "S. 257 D, 277 D",
+   "rubrik": "knochen"
+  },
+  "sulcus-intertubercularis": {
+   "lat": "Sulcus intertubercularis",
+   "de": "Rinne zwischen den Höckern",
+   "info": "Führt die lange Bizepssehne mit ihrer Sehnenscheide.",
+   "ref": "S. 257 D, 276 A",
+   "rubrik": "knochen"
+  },
+  "sulcus-n-radialis": {
+   "lat": "Sulcus nervi radialis",
+   "de": "Radialisrinne",
+   "info": "Rinne an der Rückseite des Schafts; bei Schaftfrakturen ist der N. radialis gefährdet.",
+   "ref": "S. 258 A–B",
+   "rubrik": "knochen"
+  },
+  "epicondylus-medialis": {
+   "lat": "Epicondylus medialis humeri",
+   "de": "innerer Oberarmknorren",
+   "info": "Medialer Knochenvorsprung am distalen Humerus; Teil des Hueter-Dreiecks.",
+   "ref": "S. 256 A, 290 B",
+   "rubrik": "knochen"
+  },
+  "epicondylus-lateralis": {
+   "lat": "Epicondylus lateralis humeri",
+   "de": "äußerer Oberarmknorren",
+   "info": "Lateraler Knochenvorsprung; Messpunkt für Ober- und Unterarmlänge.",
+   "ref": "S. 251 B, 290 B",
+   "rubrik": "knochen"
+  },
+  "trochlea-humeri": {
+   "lat": "Trochlea humeri",
+   "de": "Oberarmrolle",
+   "info": "Gelenkfläche für die Ulna im Humeroulnargelenk; ihre Form bedingt den Cubitus valgus.",
+   "ref": "S. 289 B, 296 B",
+   "rubrik": "knochen"
+  },
+  "capitulum-humeri": {
+   "lat": "Capitulum humeri",
+   "de": "Oberarmköpfchen",
+   "info": "Gelenkfläche für das Radiusköpfchen im Humeroradialgelenk.",
+   "ref": "S. 289 B",
+   "rubrik": "knochen"
+  },
+  "fossa-olecrani": {
+   "lat": "Fossa olecrani",
+   "de": "Olekranongrube",
+   "info": "Grube an der Rückseite des distalen Humerus, nimmt bei Streckung das Olecranon auf; dort liegt ein dorsales Fettpolster.",
+   "ref": "S. 256 A, 293 D",
+   "rubrik": "knochen"
+  },
+  "proc-supracondylaris": {
+   "lat": "Processus supracondylaris",
+   "de": "suprakondylärer Fortsatz",
+   "info": "Seltene atavistische Knochenvariante oberhalb des Epicondylus medialis.",
+   "ref": "S. 256 B",
+   "rubrik": "knochen"
+  },
+  "radius": {
+   "lat": "Radius",
+   "de": "Speiche",
+   "info": "Daumenseitiger Unterarmknochen; dreht sich bei der Pronation über die Ulna.",
+   "ref": "S. 260 A, 261 B",
+   "rubrik": "knochen"
+  },
+  "ulna": {
+   "lat": "Ulna",
+   "de": "Elle",
+   "info": "Kleinfingerseitiger Unterarmknochen; bildet mit der Trochlea humeri das Humeroulnargelenk.",
+   "ref": "S. 260 A",
+   "rubrik": "knochen"
+  },
+  "caput-radii": {
+   "lat": "Caput radii",
+   "de": "Radiusköpfchen",
+   "info": "Leicht oval; trägt die Circumferentia articularis und die Fovea articularis.",
+   "ref": "S. 263 D, 295 B",
+   "rubrik": "knochen"
+  },
+  "tuberositas-radii": {
+   "lat": "Tuberositas radii",
+   "de": "Speichenrauigkeit",
+   "info": "Ansatz der Bizepssehne; braucht bei Pronation Platz im Zwischenknochenraum.",
+   "ref": "S. 260 A, 295 B",
+   "rubrik": "knochen"
+  },
+  "olecranon": {
+   "lat": "Olecranon",
+   "de": "Ellenhaken",
+   "info": "Proximales Ende der Ulna; bildet mit den Epikondylen die Hueter-Linie bzw. das Hueter-Dreieck.",
+   "ref": "S. 290 B",
+   "rubrik": "knochen"
+  },
+  "proc-coronoideus-ulnae": {
+   "lat": "Processus coronoideus ulnae",
+   "de": "Kronenfortsatz der Elle",
+   "info": "Vorderer Teil der Incisura trochlearis; Fraktur Teil der „Terrible Triad“.",
+   "ref": "S. 260 A, 292 B",
+   "rubrik": "knochen"
+  },
+  "incisura-trochlearis": {
+   "lat": "Incisura trochlearis",
+   "de": "Ellenbogenpfanne",
+   "info": "Gelenkfläche der Ulna für die Trochlea humeri.",
+   "ref": "S. 260 A, 289 B",
+   "rubrik": "knochen"
+  },
+  "incisura-radialis": {
+   "lat": "Incisura radialis ulnae",
+   "de": "Radiusmulde der Elle",
+   "info": "Gelenkfläche für das Radiusköpfchen im proximalen Radioulnargelenk.",
+   "ref": "S. 260 A, 291 D",
+   "rubrik": "knochen"
+  },
+  "proc-styloideus-radii": {
+   "lat": "Processus styloideus radii",
+   "de": "Griffelfortsatz der Speiche",
+   "info": "Distaler Messpunkt der Unterarmlänge; liegt 9–12 mm weiter distal als die Gelenkfläche der Ulna.",
+   "ref": "S. 251 B, 268 B",
+   "rubrik": "knochen"
+  },
+  "proc-styloideus-ulnae": {
+   "lat": "Processus styloideus ulnae",
+   "de": "Griffelfortsatz der Elle",
+   "info": "Endpunkt der Pro-/Supinationsachse.",
+   "ref": "S. 294 A",
+   "rubrik": "knochen"
+  },
+  "ossa-carpi": {
+   "lat": "Ossa carpi",
+   "de": "Handwurzelknochen",
+   "info": "Acht Knochen in zwei Reihen; funktionell drei Säulen (Skaphoid-, Lunatum-, Triquetrumsäule).",
+   "ref": "S. 266 A",
+   "rubrik": "knochen"
+  },
+  "os-scaphoideum": {
+   "lat": "Os scaphoideum",
+   "de": "Kahnbein",
+   "info": "Radialer Knochen der proximalen Reihe; häufigste Handwurzelfraktur (ca. zwei Drittel).",
+   "ref": "S. 266 A, 269 D",
+   "rubrik": "knochen"
+  },
+  "os-lunatum": {
+   "lat": "Os lunatum",
+   "de": "Mondbein",
+   "info": "Mitte der proximalen Reihe; durch das Os lunatum läuft die quere Achse des proximalen Handgelenks; nicht tastbar.",
+   "ref": "S. 251 B, 309 B",
+   "rubrik": "knochen"
+  },
+  "os-triquetrum": {
+   "lat": "Os triquetrum",
+   "de": "Dreiecksbein",
+   "info": "Ulnarer Knochen der proximalen Reihe; Teil der Triquetrumsäule.",
+   "ref": "S. 266 A",
+   "rubrik": "knochen"
+  },
+  "os-pisiforme": {
+   "lat": "Os pisiforme",
+   "de": "Erbsenbein",
+   "info": "Sesambein in der Sehne des M. flexor carpi ulnaris; begrenzt den Karpalkanal ulnar.",
+   "ref": "S. 266 A, 303 C",
+   "rubrik": "knochen"
+  },
+  "os-trapezium": {
+   "lat": "Os trapezium",
+   "de": "großes Vieleckbein",
+   "info": "Gelenkpartner des Os metacarpi I im Daumensattelgelenk.",
+   "ref": "S. 306 B",
+   "rubrik": "knochen"
+  },
+  "os-trapezoideum": {
+   "lat": "Os trapezoideum",
+   "de": "kleines Vieleckbein",
+   "info": "Distale Reihe; wie das Os lunatum nicht tastbar.",
+   "ref": "S. 251 B, 266 A",
+   "rubrik": "knochen"
+  },
+  "os-capitatum": {
+   "lat": "Os capitatum",
+   "de": "Kopfbein",
+   "info": "Größter Handwurzelknochen; Achsen des distalen Handgelenks laufen durch ihn; verknöchert als erster.",
+   "ref": "S. 268 A, 309 B",
+   "rubrik": "knochen"
+  },
+  "os-hamatum": {
+   "lat": "Os hamatum",
+   "de": "Hakenbein",
+   "info": "Ulnare distale Reihe; sein Hamulus begrenzt den Karpalkanal.",
+   "ref": "S. 266 A, 303 C",
+   "rubrik": "knochen"
+  },
+  "ossa-metacarpi": {
+   "lat": "Ossa metacarpi I–V",
+   "de": "Mittelhandknochen",
+   "info": "Die Mittelhand ist die Schlüsselregion der Handarchitektur mit Längs- und zwei Querbögen.",
+   "ref": "S. 264 A, 268 A",
+   "rubrik": "knochen"
+  },
+  "phalanges": {
+   "lat": "Phalanges",
+   "de": "Fingerglieder",
+   "info": "Grund-, Mittel- und Endglied; dem Daumen fehlt das Mittelglied.",
+   "ref": "S. 264 A, 308 A",
+   "rubrik": "knochen"
+  },
+  "tabatiere": {
+   "lat": "Fovea radialis (Tabatière)",
+   "de": "Tabatière",
+   "info": "Grube an der radialen Handwurzel; Druckschmerz dort spricht für eine Skaphoidfraktur.",
+   "ref": "S. 269 D",
+   "rubrik": "weitere"
+  },
+  "art-sternoclavicularis": {
+   "lat": "Articulatio sternoclavicularis",
+   "de": "mediales Schlüsselbeingelenk",
+   "info": "Sattelgelenk mit Discus articularis; funktionell durch die Eigenrotation der Clavicula ein Kugelgelenk.",
+   "ref": "S. 271 B, 286 C",
+   "rubrik": "gelenk"
+  },
+  "art-acromioclavicularis": {
+   "lat": "Articulatio acromioclavicularis",
+   "de": "Schultereckgelenk",
+   "info": "Planes Gelenk, durch straffe Bänder wenig beweglich; selten mit Discus.",
+   "ref": "S. 271 C",
+   "rubrik": "gelenk"
+  },
+  "art-humeri": {
+   "lat": "Articulatio humeri (glenohumeralis)",
+   "de": "Schultergelenk",
+   "info": "Kugelgelenk mit drei Freiheitsgraden; beweglichstes, aber auch instabilstes Gelenk – gesichert vor allem durch Muskeln.",
+   "ref": "S. 274 A, 287 D",
+   "rubrik": "gelenk"
+  },
+  "subakromiales-nebengelenk": {
+   "lat": "Articulatio subacromialis (Nebengelenk)",
+   "de": "subakromiales Nebengelenk",
+   "info": "Gleitlager aus Bursa subacromialis und subdeltoidea zwischen Schulterdach und Rotatorenmanschette.",
+   "ref": "S. 270 A, 278 A",
+   "rubrik": "gelenk"
+  },
+  "schulterblatt-thorax-gelenk": {
+   "lat": "Articulatio scapulothoracica (Nebengelenk)",
+   "de": "Schulterblatt-Thorax-Gelenk",
+   "info": "Gleitschicht aus lockerem Bindegewebe zwischen M. subscapularis und M. serratus anterior; dieser teilt sie in zwei Teile.",
+   "ref": "S. 273 C–D",
+   "rubrik": "gelenk"
+  },
+  "labrum-glenoidale": {
+   "lat": "Labrum glenoidale",
+   "de": "Pfannenlippe",
+   "info": "Faserknorpelige Lippe am Pfannenrand, an der Basis ca. 5 mm breit; vergrößert die Pfanne nur wenig.",
+   "ref": "S. 274 A, 278 B",
+   "rubrik": "gelenk"
+  },
+  "recessus-axillaris": {
+   "lat": "Recessus axillaris",
+   "de": "Achselrezessus",
+   "info": "Reservefalte der Kapsel unten; verklebt bei längerer Schonhaltung (Bewegungseinschränkung).",
+   "ref": "S. 275 C",
+   "rubrik": "gelenk"
+  },
+  "bursa-subacromialis": {
+   "lat": "Bursa subacromialis",
+   "de": "Schleimbeutel unter dem Schulterdach",
+   "info": "Liegt zwischen Fornix humeri und Supraspinatussehne; kommuniziert meist mit der Bursa subdeltoidea.",
+   "ref": "S. 278 A–B, 279 D",
+   "rubrik": "gelenk"
+  },
+  "bursa-subtendinea-subscapularis": {
+   "lat": "Bursa subtendinea m. subscapularis",
+   "de": "Schleimbeutel unter der Subscapularissehne",
+   "info": "Steht regelmäßig mit der Gelenkhöhle in Verbindung, ebenso die Bursa subcoracoidea.",
+   "ref": "S. 275 C, 280 A",
+   "rubrik": "gelenk"
+  },
+  "fornix-humeri": {
+   "lat": "Fornix humeri",
+   "de": "Schulterdach",
+   "info": "Gebildet von Acromion, Proc. coracoideus und Lig. coracoacromiale; begrenzt den Humerus nach kranial.",
+   "ref": "S. 275 C, 279 C",
+   "rubrik": "gelenk"
+  },
+  "lig-costoclaviculare": {
+   "lat": "Ligamentum costoclaviculare",
+   "de": "Schlüsselbein-Rippen-Band",
+   "info": "Bandhaft zwischen Clavicula und 1. Rippe.",
+   "ref": "S. 270 A",
+   "rubrik": "band"
+  },
+  "lig-coracoclaviculare": {
+   "lat": "Ligamentum coracoclaviculare",
+   "de": "Rabenschnabel-Schlüsselbein-Band",
+   "info": "Bandhaft zwischen Clavicula und Proc. coracoideus; reißt bei Tossy III.",
+   "ref": "S. 270 A, 272 B",
+   "rubrik": "band"
+  },
+  "lig-acromioclaviculare": {
+   "lat": "Ligamentum acromioclaviculare",
+   "de": "Schultereckband",
+   "info": "Hält das Schultereckgelenk zusammen; reißt bei Tossy II.",
+   "ref": "S. 271 C, 272 B",
+   "rubrik": "band"
+  },
+  "lig-coracoacromiale": {
+   "lat": "Ligamentum coracoacromiale",
+   "de": "Rabenschnabel-Schulterhöhen-Band",
+   "info": "Spannt sich zwischen Proc. coracoideus und Acromion; Teil des Schulterdachs.",
+   "ref": "S. 275 C, 279 C",
+   "rubrik": "band"
+  },
+  "lig-sternoclaviculare-anterius": {
+   "lat": "Ligamentum sternoclaviculare anterius",
+   "de": "vorderes Brustbein-Schlüsselbein-Band",
+   "info": "Verstärkt das mediale Schlüsselbeingelenk.",
+   "ref": "S. 271 B, 272 A",
+   "rubrik": "band"
+  },
+  "lig-coracohumerale": {
+   "lat": "Ligamentum coracohumerale",
+   "de": "Rabenschnabel-Oberarm-Band",
+   "info": "Von der Basis des Proc. coracoideus mit zwei Zügeln zu beiden Tubercula; Dach der Bizepssehnen-Schlinge.",
+   "ref": "S. 276 A, 277 D",
+   "rubrik": "band"
+  },
+  "ligg-glenohumeralia": {
+   "lat": "Ligamenta glenohumeralia superius, medium, inferius",
+   "de": "glenohumerale Bänder",
+   "info": "Verstärken die vordere Kapsel; meist nur von innen (arthroskopisch) erkennbar. Das untere hat einen vorderen und hinteren Zug mit Recessus axillaris dazwischen.",
+   "ref": "S. 276 B, 277 C",
+   "rubrik": "band"
+  },
+  "lig-transversum-scapulae-superius": {
+   "lat": "Ligamentum transversum scapulae superius",
+   "de": "oberes queres Schulterblattband",
+   "info": "Überbrückt die Incisura scapulae; verknöchert entsteht ein Foramen scapulae (Engpass für den N. suprascapularis).",
+   "ref": "S. 255 E",
+   "rubrik": "band"
+  },
+  "rotatorenintervall": {
+   "lat": "Intervallum rotatorum",
+   "de": "Rotatorenintervall",
+   "info": "Kapsellücke zwischen Subscapularis und Supraspinatus; Lig. glenohumerale superius (Boden) und Lig. coracohumerale (Dach) bilden die Bizepssehnen-Schlinge (Pulley).",
+   "ref": "S. 277 D",
+   "rubrik": "band"
+  },
+  "rotatorenmanschette": {
+   "lat": "Cuff rotatorum (Rotatorenmanschette)",
+   "de": "Rotatorenmanschette",
+   "info": "Sehnen von Supraspinatus, Infraspinatus, Teres minor und Subscapularis; pressen den Humeruskopf in die Pfanne.",
+   "ref": "S. 270 A, 278 A–B",
+   "rubrik": "sehne"
+  },
+  "supraspinatussehne": {
+   "lat": "Tendo musculi supraspinati",
+   "de": "Supraspinatussehne",
+   "info": "Im distalen Abschnitt Gleitsehne mit gefäßfreier Faserknorpelzone 1–2 cm vor dem Ansatz; anfällig für Verkalkung und Riss.",
+   "ref": "S. 281 C–D",
+   "rubrik": "sehne"
+  },
+  "lange-bizepssehne": {
+   "lat": "Tendo capitis longi musculi bicipitis brachii",
+   "de": "lange Bizepssehne",
+   "info": "Läuft durch das Gelenk und den Sulcus intertubercularis; ihre Sehnenscheide steht mit der Gelenkhöhle in Verbindung.",
+   "ref": "S. 257 D, 275 C, 276 A",
+   "rubrik": "sehne"
+  },
+  "vagina-tendinis-intertubercularis": {
+   "lat": "Vagina tendinis intertubercularis",
+   "de": "Bizepssehnenscheide",
+   "info": "Sehnenscheide der langen Bizepssehne im Sulcus intertubercularis; mit der Gelenkhöhle verbunden.",
+   "ref": "S. 275 C, 278 A",
+   "rubrik": "sehne"
+  },
+  "art-cubiti": {
+   "lat": "Articulatio cubiti",
+   "de": "Ellenbogengelenk",
+   "info": "Zusammengesetztes Gelenk aus Humeroulnar-, Humeroradial- und proximalem Radioulnargelenk in einer Kapsel.",
+   "ref": "S. 288 A, 291 C",
+   "rubrik": "gelenk"
+  },
+  "art-humeroulnaris": {
+   "lat": "Articulatio humeroulnaris",
+   "de": "Oberarm-Ellen-Gelenk",
+   "info": "Trochlea humeri mit Incisura trochlearis; Scharniergelenk für Beugung und Streckung.",
+   "ref": "S. 288 A, 289 B",
+   "rubrik": "gelenk"
+  },
+  "art-humeroradialis": {
+   "lat": "Articulatio humeroradialis",
+   "de": "Oberarm-Speichen-Gelenk",
+   "info": "Capitulum humeri mit der Fovea articularis des Radiusköpfchens.",
+   "ref": "S. 288 A, 289 B",
+   "rubrik": "gelenk"
+  },
+  "art-radioulnaris-proximalis": {
+   "lat": "Articulatio radioulnaris proximalis",
+   "de": "oberes Speichen-Ellen-Gelenk",
+   "info": "Circumferentia articularis radii in der Incisura radialis ulnae, gesichert durch das Ringband.",
+   "ref": "S. 288 A, 291 D",
+   "rubrik": "gelenk"
+  },
+  "art-radioulnaris-distalis": {
+   "lat": "Articulatio radioulnaris distalis",
+   "de": "unteres Speichen-Ellen-Gelenk",
+   "info": "Mit dem proximalen über die Membrana interossea gekoppelt; Gelenkflächen nur in Semipronation kongruent.",
+   "ref": "S. 294 A, 295 C",
+   "rubrik": "gelenk"
+  },
+  "recessus-sacciformis": {
+   "lat": "Recessus sacciformis",
+   "de": "Kapselaussackung am Radiushals",
+   "info": "Reservefalte unterhalb des Ringbands für Pro- und Supination.",
+   "ref": "S. 291 C",
+   "rubrik": "gelenk"
+  },
+  "lig-collaterale-ulnare": {
+   "lat": "Ligamentum collaterale ulnare",
+   "de": "ellenseitiges Seitenband (MCL)",
+   "info": "Fächerförmig, verstärkt die Kapsel medial; gibt in jeder Stellung seitlichen Halt.",
+   "ref": "S. 290 A, 293 F",
+   "rubrik": "band"
+  },
+  "lig-collaterale-radiale": {
+   "lat": "Ligamentum collaterale radiale",
+   "de": "speichenseitiges Seitenband (RCL)",
+   "info": "Fächerförmig, verstärkt die Kapsel lateral und strahlt ins Ringband ein.",
+   "ref": "S. 290 A, 293 F",
+   "rubrik": "band"
+  },
+  "lig-anulare-radii": {
+   "lat": "Ligamentum anulare radii",
+   "de": "Ringband",
+   "info": "Zieht vom vorderen zum hinteren Rand der Incisura radialis, umgreift das Radiusköpfchen; innen gleitsehnenartig mit Faserknorpel.",
+   "ref": "S. 290 A, 291 D",
+   "rubrik": "band"
+  },
+  "membrana-interossea-antebrachii": {
+   "lat": "Membrana interossea antebrachii",
+   "de": "Zwischenknochenmembran des Unterarms",
+   "info": "Koppelt proximales und distales Radioulnargelenk funktionell.",
+   "ref": "S. 263 C, 294 A",
+   "rubrik": "band"
+  },
+  "hueter-dreieck": {
+   "lat": "Trigonum Hueteri",
+   "de": "Hueter-Dreieck",
+   "info": "Gestreckt liegen beide Epikondylen und die Olekranonspitze auf einer Linie, gebeugt (von dorsal) bilden sie ein gleichschenkliges Dreieck; Frakturen und Luxationen verzerren es.",
+   "ref": "S. 290 B",
+   "rubrik": "weitere"
+  },
+  "fettpolsterzeichen": {
+   "lat": "Signum corporis adiposi",
+   "de": "Fettpolsterzeichen (fat pad sign)",
+   "info": "Erguss hebt die subintimalen Fettpolster vom Knochen ab; das sonst verborgene dorsale wird im seitlichen Röntgenbild sichtbar.",
+   "ref": "S. 293 D",
+   "rubrik": "weitere"
+  },
+  "art-radiocarpalis": {
+   "lat": "Articulatio radiocarpalis",
+   "de": "proximales Handgelenk",
+   "info": "Ei- bzw. Ellipsoidgelenk zwischen Radius/Discus ulnocarpalis und proximaler Handwurzelreihe; radiales und ulnares Kompartiment.",
+   "ref": "S. 267 C, 308 A",
+   "rubrik": "gelenk"
+  },
+  "art-mediocarpalis": {
+   "lat": "Articulatio mediocarpalis",
+   "de": "distales Handgelenk",
+   "info": "Verzahntes Scharniergelenk mit S-förmigem Spalt zwischen proximaler und distaler Reihe.",
+   "ref": "S. 267 B, 308 A",
+   "rubrik": "gelenk"
+  },
+  "artt-carpometacarpales": {
+   "lat": "Articulationes carpometacarpales II–V",
+   "de": "Handwurzel-Mittelhand-Gelenke",
+   "info": "Straffe Gelenke (Amphiarthrosen) – außer dem Daumensattelgelenk.",
+   "ref": "S. 308 A",
+   "rubrik": "gelenk"
+  },
+  "art-carpometacarpalis-pollicis": {
+   "lat": "Articulatio carpometacarpalis pollicis",
+   "de": "Daumensattelgelenk",
+   "info": "Sattelgelenk zwischen Os trapezium und Os metacarpi I; Opposition als Rotation (3. Freiheitsgrad) mit kleiner Kontaktfläche → Rhizarthrose.",
+   "ref": "S. 306 A–B, 307 F",
+   "rubrik": "gelenk"
+  },
+  "artt-metacarpophalangeae": {
+   "lat": "Articulationes metacarpophalangeae (MCP)",
+   "de": "Fingergrundgelenke",
+   "info": "Morphologisch Kugelgelenke; Rotation durch Kollateralbänder gesperrt → zwei Freiheitsgrade.",
+   "ref": "S. 308 A, 309 D",
+   "rubrik": "gelenk"
+  },
+  "artt-interphalangeae": {
+   "lat": "Articulationes interphalangeae (PIP, DIP)",
+   "de": "Fingermittel- und -endgelenke",
+   "info": "Reine Scharniergelenke mit einem Freiheitsgrad.",
+   "ref": "S. 308 A, 309 D",
+   "rubrik": "gelenk"
+  },
+  "discus-ulnocarpalis": {
+   "lat": "Discus ulnocarpalis (triangularis)",
+   "de": "Discus ulnocarpalis",
+   "info": "Faserknorpelscheibe zwischen Ulna und Handwurzel; Kern des ulnokarpalen Komplexes; degeneriert schon ab dem 3. Lebensjahrzehnt.",
+   "ref": "S. 267 C, 300 A, 301 B",
+   "rubrik": "gelenk"
+  },
+  "tfcc": {
+   "lat": "Complexus ulnocarpalis (TFCC)",
+   "de": "ulnokarpaler Komplex",
+   "info": "Band-Diskus-Komplex aus Discus ulnocarpalis, Ligg. radioulnaria, ulnolunatum, ulnotriquetrum, Meniscus ulnocarpalis und ulnarem Kollateralband.",
+   "ref": "S. 301 B",
+   "rubrik": "band"
+  },
+  "lig-scapholunatum": {
+   "lat": "Ligamentum scapholunatum",
+   "de": "Kahnbein-Mondbein-Band",
+   "info": "Klinisch wichtiges interossäres Band der proximalen Reihe (wie das Lig. lunotriquetrum).",
+   "ref": "S. 300 A",
+   "rubrik": "band"
+  },
+  "extrinsische-baender": {
+   "lat": "Ligamenta carpi extrinseca",
+   "de": "extrinsische Handwurzelbänder",
+   "info": "Oberflächlich, mit der Kapsel verwoben, stabilisieren sie das Handgelenk (z. B. Ligg. radiocarpalia, ulnocarpalia).",
+   "ref": "S. 298 A",
+   "rubrik": "band"
+  },
+  "intrinsische-baender": {
+   "lat": "Ligamenta carpi intrinseca (interossea)",
+   "de": "intrinsische Handwurzelbänder",
+   "info": "In der Tiefe zwischen den Handwurzelknochen; teilen den Gelenkraum in Kompartimente.",
+   "ref": "S. 300 A",
+   "rubrik": "band"
+  },
+  "lig-collaterale-carpi": {
+   "lat": "Ligamenta collateralia carpi radiale et ulnare",
+   "de": "Handgelenk-Seitenbänder",
+   "info": "Seitliche Bänder zwischen Griffelfortsätzen und Handwurzel.",
+   "ref": "S. 298 A, 299",
+   "rubrik": "band"
+  },
+  "retinaculum-flexorum": {
+   "lat": "Retinaculum musculorum flexorum (Lig. carpi transversum)",
+   "de": "Beugerhalteband",
+   "info": "Schließt die palmare Handwurzelrinne zum Karpalkanal; spannt sich zwischen Eminentia carpi radialis und ulnaris.",
+   "ref": "S. 302 A, 303 C",
+   "rubrik": "band"
+  },
+  "canalis-carpi": {
+   "lat": "Canalis carpi",
+   "de": "Karpalkanal",
+   "info": "Osteofibröser Kanal mit zehn Beugersehnen und N. medianus; engste Stelle ca. 10 mm über der distalen Reihe, Querschnitt ca. 1,6 cm².",
+   "ref": "S. 302 A, 303 D",
+   "rubrik": "weitere"
+  },
+  "ligg-collateralia-mcp": {
+   "lat": "Ligamenta collateralia articulationum metacarpophalangearum",
+   "de": "Seitenbänder der Grundgelenke",
+   "info": "In Streckung entspannt, in Beugung gespannt – deshalb Ruhigstellung in Funktionsstellung (Grundgelenke 50–60° gebeugt).",
+   "ref": "S. 305 D",
+   "rubrik": "band"
+  },
+  "lig-palmare": {
+   "lat": "Ligamentum palmare (palmare Platte)",
+   "de": "palmare Platte",
+   "info": "Faserknorpelplatte, die die palmare Gelenkfläche nach proximal vergrößert; Boden der Sehnenscheide.",
+   "ref": "S. 305 C, E",
+   "rubrik": "band"
+  },
+  "lig-metacarpale-transversum-profundum": {
+   "lat": "Ligamentum metacarpale transversum profundum",
+   "de": "tiefes queres Mittelhandband",
+   "info": "Verbindet die palmaren Platten II–V; stabilisiert den queren Mittelhandbogen.",
+   "ref": "S. 305 E",
+   "rubrik": "band"
+  },
+  "ligg-anularia": {
+   "lat": "Ligamenta anularia (A1–A5)",
+   "de": "Ringbänder",
+   "info": "Verstärken die Fingersehnenscheide: A1 am Grundgelenk, A2 Grundglied, A3 PIP, A4 Mittelglied, A5 DIP.",
+   "ref": "S. 304 A–B",
+   "rubrik": "sehne"
+  },
+  "ligg-obliqua": {
+   "lat": "Ligamenta obliqua/cruciata (C1–C3)",
+   "de": "Kreuzbänder der Sehnenscheide",
+   "info": "Variabler verlaufende Verstärkungen zwischen den Ringbändern; die Lücken erlauben das Beugen.",
+   "ref": "S. 304 B",
+   "rubrik": "sehne"
+  },
+  "vagina-synovialis-digitorum": {
+   "lat": "Vagina synovialis digitorum manus",
+   "de": "Fingersehnenscheide",
+   "info": "Gemeinsame Sehnenscheide der oberflächlichen und tiefen Beugersehnen; außen Stratum fibrosum.",
+   "ref": "S. 304 A",
+   "rubrik": "sehne"
+  },
+  "sehnen-flexor-digitorum": {
+   "lat": "Tendines mm. flexorum digitorum superficialis et profundi",
+   "de": "lange Fingerbeugesehnen",
+   "info": "Laufen palmar in der Fingersehnenscheide und durch den Karpalkanal.",
+   "ref": "S. 302 A, 304 A",
+   "rubrik": "sehne"
+  },
+  "dorsalaponeurose": {
+   "lat": "Aponeurosis dorsalis",
+   "de": "Dorsalaponeurose",
+   "info": "Strecksehnenplatte des M. extensor digitorum auf dem Fingerrücken.",
+   "ref": "S. 305 C–D",
+   "rubrik": "sehne"
+  },
+  "sehne-fcu": {
+   "lat": "Tendo musculi flexoris carpi ulnaris",
+   "de": "Sehne des ellenseitigen Handbeugers",
+   "info": "Enthält das Os pisiforme als Sesambein.",
+   "ref": "S. 266 A, 299",
+   "rubrik": "sehne"
+  }
+ },
+ "karten": [
+  {
+   "id": "k0",
+   "f": "Woraus besteht das Skelett der oberen Extremität?",
+   "a": "Aus dem Schultergürtel (Clavicula, Scapula) und der freien Gliedmaße (Oberarm, Unterarm, Hand).",
+   "e": "1.1",
+   "ref": "S. 250 A"
+  },
+  {
+   "id": "k1",
+   "f": "Welche Knochen der oberen Extremität sind nicht tastbar?",
+   "a": "Nur Os lunatum und Os trapezoideum – alle anderen zumindest teilweise.",
+   "e": "1.1",
+   "ref": "S. 251 B"
+  },
+  {
+   "id": "k2",
+   "f": "Zwischen welchen Punkten misst man Ober-, Unterarm- und Handlänge?",
+   "a": "Acromion–Epicondylus lateralis; Epicondylus lateralis–Proc. styloideus radii; Proc. styloideus radii–Spitze des 3. Fingers.",
+   "e": "1.1",
+   "ref": "S. 251 B"
+  },
+  {
+   "id": "k3",
+   "f": "Wo liegt die Scapula in Normalposition?",
+   "a": "Über der 2.–7. Rippe; Angulus inferior auf Höhe Th VII, Spina scapulae auf Höhe Th III; Margo medialis 3–5° zur Dornfortsatzreihe.",
+   "e": "1.2",
+   "ref": "S. 252 A"
+  },
+  {
+   "id": "k4",
+   "f": "Welche Winkel bilden Scapula, Clavicula und Frontalebene?",
+   "a": "Scapula zur Frontalebene 30°, Scapula zur Clavicula 60° – so liegt das Bewegungsfeld der Arme im Blickfeld.",
+   "e": "1.2",
+   "ref": "S. 253 B"
+  },
+  {
+   "id": "k5",
+   "f": "Warum ist der Beckengürtel fest, der Schultergürtel beweglich eingebaut?",
+   "a": "Das Becken trägt über das ISG die Rumpflast; der Arm ist von Stützfunktionen frei und dient dem Greifen und Tasten.",
+   "e": "1.2",
+   "ref": "S. 253 C"
+  },
+  {
+   "id": "k6",
+   "f": "Was ist besonders an der Entwicklung der Clavicula?",
+   "a": "Sie verknöchert als einziger Extremitätenknochen desmal; Fehlbildung: Dysostosis cleidocranialis.",
+   "e": "1.3",
+   "ref": "S. 254 A"
+  },
+  {
+   "id": "k7",
+   "f": "Was ist ein Foramen scapulae und welche Folge kann es haben?",
+   "a": "Verknöchertes Lig. transversum scapulae superius; der N. suprascapularis wird eingeengt (Schwäche/Atrophie von Supra- und Infraspinatus).",
+   "e": "1.3",
+   "ref": "S. 255 E"
+  },
+  {
+   "id": "k8",
+   "f": "Wie ist der Sulcus intertubercularis ausgerichtet?",
+   "a": "Tuberculum majus zeigt lateral, minus ventral; dazwischen läuft die lange Bizepssehne.",
+   "e": "1.4",
+   "ref": "S. 257 D"
+  },
+  {
+   "id": "k9",
+   "f": "Collum anatomicum vs. chirurgicum – welche Frakturen?",
+   "a": "Anatomicum: intraartikulär; chirurgicum: Prädilektionsstelle extraartikulärer Frakturen. Beide gefährden die Aa. circumflexae humeri (Kopfnekrose).",
+   "e": "1.5",
+   "ref": "S. 258 B"
+  },
+  {
+   "id": "k10",
+   "f": "Welcher Nerv ist bei Humerusschaftfrakturen gefährdet?",
+   "a": "Der N. radialis im Sulcus n. radialis.",
+   "e": "1.5",
+   "ref": "S. 258 B"
+  },
+  {
+   "id": "k11",
+   "f": "Wie groß ist der Torsionswinkel des Humerus?",
+   "a": "Erwachsener ca. 16°, Neugeborenes ca. 60°; die Abnahme gleicht die Stellungsänderung der Scapula aus.",
+   "e": "1.5",
+   "ref": "S. 259 C"
+  },
+  {
+   "id": "k12",
+   "f": "Wie stehen Radius und Ulna in Supination und Pronation?",
+   "a": "Supination: parallel. Pronation: der Radius überkreuzt die Ulna.",
+   "e": "1.6",
+   "ref": "S. 261 B"
+  },
+  {
+   "id": "k13",
+   "f": "Welche drei Säulen bilden die Handwurzelknochen?",
+   "a": "Radiale Skaphoidsäule (Scaphoideum, Trapezium, Trapezoideum), zentrale Lunatumsäule (Lunatum, Capitatum), ulnare Triquetrumsäule (Triquetrum, Hamatum).",
+   "e": "1.9",
+   "ref": "S. 266 A"
+  },
+  {
+   "id": "k14",
+   "f": "Welche Kompartimente hat das proximale Handgelenk?",
+   "a": "Radial artikuliert der Radius, ulnar Caput ulnae bzw. Discus ulnocarpalis mit der proximalen Reihe.",
+   "e": "1.9",
+   "ref": "S. 267 C"
+  },
+  {
+   "id": "k15",
+   "f": "Wohin konvergieren die Fingerachsen?",
+   "a": "Gespreizt auf das Os capitatum, gebeugt auf das Os scaphoideum – wichtig, um Rotationsfehlstellungen zu erkennen.",
+   "e": "1.10",
+   "ref": "S. 268 A"
+  },
+  {
+   "id": "k16",
+   "f": "Welche Neigungswinkel hat die distale Radiusgelenkfläche?",
+   "a": "Ulnarinklination 20–25° (Böhler I), Palmarinklination 10–15° (Böhler II); Radius 9–12 mm länger als die Ulna.",
+   "e": "1.10",
+   "ref": "S. 268 B"
+  },
+  {
+   "id": "k17",
+   "f": "Was ist die häufigste Fraktur des Menschen?",
+   "a": "Die distale Radiusfraktur (20–25 %), meist Extensionsfraktur (Colles, 90 %), seltener Flexionsfraktur (Smith, 10 %).",
+   "e": "1.10",
+   "ref": "S. 269 C"
+  },
+  {
+   "id": "k18",
+   "f": "Wie geht man bei Verdacht auf Skaphoidfraktur vor?",
+   "a": "Röntgen in vier Ebenen (Skaphoidquartett); bei unauffälligem Bild nach Ruhigstellung Kontrolle nach 10–14 Tagen.",
+   "e": "1.10",
+   "ref": "S. 269 D"
+  },
+  {
+   "id": "k19",
+   "f": "Welche fünf Gelenke gehören zur Schulter?",
+   "a": "Echt: Sternoklavikular-, Akromioklavikular-, Schultergelenk. Neben-: subakromiales Nebengelenk und Schulterblatt-Thorax-Gelenk.",
+   "e": "1.11",
+   "ref": "S. 270 A"
+  },
+  {
+   "id": "k20",
+   "f": "Was gleicht im Sternoklavikulargelenk die Inkongruenz aus?",
+   "a": "Ein faserknorpeliger Discus articularis zwischen den sattelförmigen Flächen.",
+   "e": "1.11",
+   "ref": "S. 271 B"
+  },
+  {
+   "id": "k21",
+   "f": "Einteilung der Schultereckgelenkverletzungen nach Tossy?",
+   "a": "I: Überdehnung der Bänder. II: Riss des Lig. acromioclaviculare, Subluxation. III: alle Bänder gerissen, vollständige Luxation.",
+   "e": "1.12",
+   "ref": "S. 272 B"
+  },
+  {
+   "id": "k22",
+   "f": "Was ist das „Klaviertastenphänomen“?",
+   "a": "Das hochstehende laterale Klavikulaende lässt sich herunterdrücken, federt aber wieder hoch.",
+   "e": "1.12",
+   "ref": "S. 272 B"
+  },
+  {
+   "id": "k23",
+   "f": "Wohin luxiert der Humeruskopf meist?",
+   "a": "Nach vorn bzw. vorn-unten, bei gewaltsamer Außenrotation des erhobenen Arms; ca. 45 % aller Luxationen betreffen die Schulter.",
+   "e": "1.13",
+   "ref": "S. 274 A"
+  },
+  {
+   "id": "k24",
+   "f": "Welche Schleimbeutel stehen regelmäßig mit der Schultergelenkhöhle in Verbindung?",
+   "a": "Bursa subtendinea m. subscapularis und Bursa subcoracoidea; außerdem die Sehnenscheide der langen Bizepssehne.",
+   "e": "1.13",
+   "ref": "S. 275 C"
+  },
+  {
+   "id": "k25",
+   "f": "Was bildet das Schulterdach (Fornix humeri)?",
+   "a": "Acromion, Proc. coracoideus und Lig. coracoacromiale.",
+   "e": "1.13",
+   "ref": "S. 275 C, 279 C"
+  },
+  {
+   "id": "k26",
+   "f": "Was ist das Rotatorenintervall?",
+   "a": "Kapsellücke zwischen Subscapularis und Supraspinatus; Lig. glenohumerale superius und Lig. coracohumerale bilden dort die Schlinge um die lange Bizepssehne.",
+   "e": "1.14",
+   "ref": "S. 277 D"
+  },
+  {
+   "id": "k27",
+   "f": "Was ist der „schmerzhafte Bogen“?",
+   "a": "Schmerz bei Abduktion zwischen 60 und 120°, wenn eine verdickte Supraspinatussehne unter dem Schulterdach eingeengt wird (Impingement).",
+   "e": "1.16",
+   "ref": "S. 280 B"
+  },
+  {
+   "id": "k28",
+   "f": "Welche Sehne ist bei der Rotatorenmanschettenruptur fast immer beteiligt?",
+   "a": "Die Supraspinatussehne (95 %); dann kommunizieren die Bursen mit der Gelenkhöhle.",
+   "e": "1.16",
+   "ref": "S. 281 D"
+  },
+  {
+   "id": "k29",
+   "f": "Was ist der humeroskapulare Rhythmus?",
+   "a": "Bei Abduktion bewegen sich Arm und Scapula 2 : 1 – z. B. 90° = 60° im Schultergelenk + 30° Schultergürtel.",
+   "e": "1.19",
+   "ref": "S. 287 E"
+  },
+  {
+   "id": "k30",
+   "f": "Warum rotiert der Arm ab 80–90° Abduktion nach außen?",
+   "a": "Damit das Tuberculum majus nicht gegen das Schulterdach stößt; in Innenrotation sind nur ca. 60° möglich.",
+   "e": "1.19",
+   "ref": "S. 287 D"
+  },
+  {
+   "id": "k31",
+   "f": "Welche drei Teilgelenke hat das Ellenbogengelenk?",
+   "a": "Humeroulnar-, Humeroradial- und proximales Radioulnargelenk – in einer gemeinsamen Kapsel.",
+   "e": "1.20",
+   "ref": "S. 288 A"
+  },
+  {
+   "id": "k32",
+   "f": "Was ist das Hueter-Dreieck?",
+   "a": "Bei gebeugtem Ellenbogen bilden beide Epikondylen und die Olekranonspitze von dorsal ein gleichschenkliges Dreieck; gestreckt eine Linie.",
+   "e": "1.21",
+   "ref": "S. 290 B"
+  },
+  {
+   "id": "k33",
+   "f": "Was sichert das proximale Radioulnargelenk?",
+   "a": "Das Lig. anulare radii, das das Radiusköpfchen in die Incisura radialis ulnae drückt.",
+   "e": "1.21",
+   "ref": "S. 291 D"
+  },
+  {
+   "id": "k34",
+   "f": "Was zeigt das Fettpolsterzeichen?",
+   "a": "Einen Gelenkerguss (z. B. bei Fraktur): ventrales Fettpolster abgehoben, dorsales sichtbar.",
+   "e": "1.22",
+   "ref": "S. 293 D"
+  },
+  {
+   "id": "k35",
+   "f": "Was ist die häufigste Ellenbogenverletzung des Erwachsenen?",
+   "a": "Radiusköpfchen- und -halsfrakturen (ca. 50 %); Mason-Typ I oft nur in der 45°-Zielaufnahme sichtbar.",
+   "e": "1.22",
+   "ref": "S. 293 C"
+  },
+  {
+   "id": "k36",
+   "f": "Wie verläuft die Pro-/Supinationsachse?",
+   "a": "Vom Capitulum humeri durch das Radiusköpfchen schräg zum Proc. styloideus ulnae.",
+   "e": "1.23",
+   "ref": "S. 294 A"
+  },
+  {
+   "id": "k37",
+   "f": "Wie groß ist der Kubitalwinkel?",
+   "a": "Etwa 170° – physiologische Valgusstellung (Cubitus valgus) durch die Form der Trochlea.",
+   "e": "1.24",
+   "ref": "S. 296 B"
+  },
+  {
+   "id": "k38",
+   "f": "Bewegungsausmaß im Ellenbogen?",
+   "a": "Flexion bis ca. 150°, Extension bis ca. 10°; begrenzt durch Weichteile oder das Olecranon.",
+   "e": "1.24",
+   "ref": "S. 297 C"
+  },
+  {
+   "id": "k39",
+   "f": "Was ist die Pronatio dolorosa?",
+   "a": "Subluxation des Radiusköpfchens unter das Ringband durch Zug am Arm bei Kleinkindern; Reposition durch Supination und Streckung.",
+   "e": "1.24",
+   "ref": "S. 297 E"
+  },
+  {
+   "id": "k40",
+   "f": "Extrinsische vs. intrinsische Handwurzelbänder?",
+   "a": "Extrinsisch: oberflächlich, mit der Kapsel verwoben. Intrinsisch: interossär in der Tiefe, teilen den Gelenkraum in Kompartimente.",
+   "e": "1.25",
+   "ref": "S. 298 A, 300 A"
+  },
+  {
+   "id": "k41",
+   "f": "Was gehört zum ulnokarpalen Komplex (TFCC)?",
+   "a": "Discus ulnocarpalis, Ligg. radioulnaria dorsale/palmare, ulnolunatum, ulnotriquetrum, Meniscus ulnocarpalis, ulnares Kollateralband, Lig. radiotriquetrum.",
+   "e": "1.26",
+   "ref": "S. 301 B"
+  },
+  {
+   "id": "k42",
+   "f": "Was verläuft durch den Karpalkanal?",
+   "a": "Zehn Beugersehnen in Sehnenscheiden und der N. medianus.",
+   "e": "1.27",
+   "ref": "S. 302 A"
+  },
+  {
+   "id": "k43",
+   "f": "Wie heißen und wo liegen die Ringbänder der Fingersehnenscheide?",
+   "a": "A1 Grundgelenk, A2 Grundglied, A3 PIP, A4 Mittelglied, A5 DIP; dazwischen Kreuzbänder C1–C3.",
+   "e": "1.28",
+   "ref": "S. 304 B"
+  },
+  {
+   "id": "k44",
+   "f": "Warum ruhigstellen in Funktionsstellung (Grundgelenke 50–60° gebeugt)?",
+   "a": "Die Kollateralbänder der Grundgelenke sind in Streckung entspannt und würden schrumpfen – die Finger ließen sich nicht mehr beugen.",
+   "e": "1.28",
+   "ref": "S. 305 D"
+  },
+  {
+   "id": "k45",
+   "f": "Warum entsteht die Rhizarthrose?",
+   "a": "Bei Opposition rotiert das Os metacarpi I, die tragende Gelenkfläche wird sehr klein – hohe Druckbelastung.",
+   "e": "1.29",
+   "ref": "S. 307 F"
+  },
+  {
+   "id": "k46",
+   "f": "Welche vier primären Greifformen gibt es?",
+   "a": "Spitz-/Feingriff, Breit-/Grobgriff, Schlüssel-/Klemmgriff, Hakengriff.",
+   "e": "1.29",
+   "ref": "S. 306 C"
+  },
+  {
+   "id": "k47",
+   "f": "Welche Bewegungen in welchem Handgelenk?",
+   "a": "Palmarflexion/Dorsalextension in beiden Handgelenken; Radial- und Ulnarabduktion nur im proximalen.",
+   "e": "1.30",
+   "ref": "S. 309 B"
+  },
+  {
+   "id": "k48",
+   "f": "Wie viele Freiheitsgrade haben MCP, PIP und DIP?",
+   "a": "MCP zwei (Rotation durch Kollateralbänder gesperrt), PIP und DIP je einer.",
+   "e": "1.30",
+   "ref": "S. 309 D"
+  }
+ ],
+ "fragen": [
+  {
+   "id": "f0",
+   "f": "Welcher Knochen der oberen Extremität verknöchert desmal?",
+   "o": [
+    "Humerus",
+    "Clavicula",
+    "Scapula",
+    "Radius"
+   ],
+   "r": 1,
+   "x": "Einziger Extremitätenknochen ohne knorpelige Vorstufe.",
+   "e": "1.3",
+   "ref": "S. 254 A"
+  },
+  {
+   "id": "f1",
+   "f": "Auf Höhe welches Dornfortsatzes liegt der Angulus inferior scapulae?",
+   "o": [
+    "Th III",
+    "Th V",
+    "Th VII",
+    "Th XII"
+   ],
+   "r": 2,
+   "x": "Die Spina scapulae liegt auf Höhe Th III.",
+   "e": "1.2",
+   "ref": "S. 252 A"
+  },
+  {
+   "id": "f2",
+   "f": "Welcher Nerv wird bei einem Foramen scapulae eingeengt?",
+   "o": [
+    "N. axillaris",
+    "N. suprascapularis",
+    "N. radialis",
+    "N. medianus"
+   ],
+   "r": 1,
+   "x": "Folge: Schwäche von Supra- und Infraspinatus.",
+   "e": "1.3",
+   "ref": "S. 255 E"
+  },
+  {
+   "id": "f3",
+   "f": "Wie groß ist der Torsionswinkel des erwachsenen Humerus etwa?",
+   "o": [
+    "5°",
+    "16°",
+    "30°",
+    "60°"
+   ],
+   "r": 1,
+   "x": "Beim Neugeborenen ca. 60°.",
+   "e": "1.5",
+   "ref": "S. 259 C"
+  },
+  {
+   "id": "f4",
+   "f": "Welche Struktur ist bei Humerusschaftfrakturen besonders gefährdet?",
+   "o": [
+    "N. ulnaris",
+    "N. radialis",
+    "A. brachialis",
+    "N. medianus"
+   ],
+   "r": 1,
+   "x": "Er liegt im Sulcus n. radialis dem Knochen an.",
+   "e": "1.5",
+   "ref": "S. 258 B"
+  },
+  {
+   "id": "f5",
+   "f": "Welche Knochen sind beide nicht tastbar?",
+   "o": [
+    "Os lunatum und Os trapezoideum",
+    "Os scaphoideum und Os pisiforme",
+    "Os capitatum und Os hamatum",
+    "Os trapezium und Os triquetrum"
+   ],
+   "r": 0,
+   "x": "Alle anderen Knochen sind zumindest teilweise tastbar.",
+   "e": "1.1",
+   "ref": "S. 251 B"
+  },
+  {
+   "id": "f6",
+   "f": "Zu welcher Säule gehört das Os capitatum?",
+   "o": [
+    "Skaphoidsäule",
+    "Lunatumsäule",
+    "Triquetrumsäule",
+    "keiner"
+   ],
+   "r": 1,
+   "x": "Lunatumsäule = Os lunatum + Os capitatum.",
+   "e": "1.9",
+   "ref": "S. 266 A"
+  },
+  {
+   "id": "f7",
+   "f": "Wie groß ist die Ulnarinklination des distalen Radius?",
+   "o": [
+    "5–10°",
+    "10–15°",
+    "20–25°",
+    "35–40°"
+   ],
+   "r": 2,
+   "x": "Die Palmarinklination beträgt 10–15°.",
+   "e": "1.10",
+   "ref": "S. 268 B"
+  },
+  {
+   "id": "f8",
+   "f": "Typische Lokalisation der Colles-Fraktur?",
+   "o": [
+    "Collum chirurgicum humeri",
+    "distaler Radius (Extension)",
+    "Os scaphoideum",
+    "Radiusköpfchen"
+   ],
+   "r": 1,
+   "x": "Extensionsfraktur „loco typico“, 90 % der distalen Radiusfrakturen.",
+   "e": "1.10",
+   "ref": "S. 269 C"
+  },
+  {
+   "id": "f9",
+   "f": "Was gehört NICHT zu den echten Schultergelenken?",
+   "o": [
+    "Art. sternoclavicularis",
+    "Art. acromioclavicularis",
+    "Art. humeri",
+    "Schulterblatt-Thorax-Gelenk"
+   ],
+   "r": 3,
+   "x": "Es ist ein Nebengelenk (Gleitschicht).",
+   "e": "1.11",
+   "ref": "S. 270 A"
+  },
+  {
+   "id": "f10",
+   "f": "Welche Gelenkform hat das Akromioklavikulargelenk?",
+   "o": [
+    "Kugelgelenk",
+    "Sattelgelenk",
+    "planes Gelenk",
+    "Scharniergelenk"
+   ],
+   "r": 2,
+   "x": "Daher straffe Bänder und geringe Beweglichkeit.",
+   "e": "1.11",
+   "ref": "S. 271 C"
+  },
+  {
+   "id": "f11",
+   "f": "Tossy III bedeutet …",
+   "o": [
+    "nur Überdehnung",
+    "Riss des Lig. acromioclaviculare, Subluxation",
+    "kompletter Bandriss mit Luxation",
+    "Abriss des M. trapezius"
+   ],
+   "r": 2,
+   "x": "Rockwood ergänzt die Typen IV–VI.",
+   "e": "1.12",
+   "ref": "S. 272 B"
+  },
+  {
+   "id": "f12",
+   "f": "Was bildet NICHT das Schulterdach?",
+   "o": [
+    "Acromion",
+    "Proc. coracoideus",
+    "Lig. coracoacromiale",
+    "Lig. coracohumerale"
+   ],
+   "r": 3,
+   "x": "Das Lig. coracohumerale verstärkt die Kapsel.",
+   "e": "1.13",
+   "ref": "S. 279 C"
+  },
+  {
+   "id": "f13",
+   "f": "In welche Richtung luxiert der Humeruskopf am häufigsten?",
+   "o": [
+    "nach hinten",
+    "nach vorn/vorn-unten",
+    "nach oben",
+    "nach medial-hinten"
+   ],
+   "r": 1,
+   "x": "Typisch bei Außenrotation des erhobenen Arms.",
+   "e": "1.13",
+   "ref": "S. 274 A"
+  },
+  {
+   "id": "f14",
+   "f": "Welche Bänder bilden die Bizepssehnen-Schlinge (Pulley)?",
+   "o": [
+    "Lig. glenohumerale inferius und medium",
+    "Lig. glenohumerale superius und Lig. coracohumerale",
+    "Lig. coracoacromiale und Lig. transversum humeri",
+    "Lig. coracoclaviculare und Lig. acromioclaviculare"
+   ],
+   "r": 1,
+   "x": "Superius = Boden, coracohumerale = Dach.",
+   "e": "1.14",
+   "ref": "S. 277 D"
+  },
+  {
+   "id": "f15",
+   "f": "In welchem Abduktionsbereich schmerzt der „schmerzhafte Bogen“?",
+   "o": [
+    "0–30°",
+    "30–60°",
+    "60–120°",
+    "150–180°"
+   ],
+   "r": 2,
+   "x": "Einengung der Supraspinatussehne unter dem Schulterdach.",
+   "e": "1.16",
+   "ref": "S. 280 B"
+  },
+  {
+   "id": "f16",
+   "f": "Humeroskapularer Rhythmus bei 90° Abduktion?",
+   "o": [
+    "90° Schulter, 0° Scapula",
+    "60° Schulter, 30° Scapula",
+    "45° : 45°",
+    "30° Schulter, 60° Scapula"
+   ],
+   "r": 1,
+   "x": "Verhältnis 2 : 1.",
+   "e": "1.19",
+   "ref": "S. 287 E"
+  },
+  {
+   "id": "f17",
+   "f": "Welches Band sichert das proximale Radioulnargelenk vor allem?",
+   "o": [
+    "Lig. collaterale ulnare",
+    "Lig. anulare radii",
+    "Membrana interossea",
+    "Lig. quadratum"
+   ],
+   "r": 1,
+   "x": "Es umgreift das Radiusköpfchen.",
+   "e": "1.21",
+   "ref": "S. 291 D"
+  },
+  {
+   "id": "f18",
+   "f": "Wie groß ist der Kubitalwinkel etwa?",
+   "o": [
+    "150°",
+    "170°",
+    "180°",
+    "190°"
+   ],
+   "r": 1,
+   "x": "Physiologischer Cubitus valgus.",
+   "e": "1.24",
+   "ref": "S. 296 B"
+  },
+  {
+   "id": "f19",
+   "f": "Pronatio dolorosa – was passiert?",
+   "o": [
+    "Radiusköpfchenfraktur",
+    "Radiusköpfchen rutscht unter das Ringband",
+    "Olekranonfraktur",
+    "Ulnarisläsion"
+   ],
+   "r": 1,
+   "x": "Typisch bei Kleinkindern nach Zug am Arm.",
+   "e": "1.24",
+   "ref": "S. 297 E"
+  },
+  {
+   "id": "f20",
+   "f": "Was ist der Kern des ulnokarpalen Komplexes?",
+   "o": [
+    "Lig. scapholunatum",
+    "Discus ulnocarpalis",
+    "Retinaculum flexorum",
+    "Os pisiforme"
+   ],
+   "r": 1,
+   "x": "Der Discus triangularis aus Faserknorpel.",
+   "e": "1.26",
+   "ref": "S. 301 B"
+  },
+  {
+   "id": "f21",
+   "f": "Wie viele Beugersehnen ziehen durch den Karpalkanal?",
+   "o": [
+    "4",
+    "8",
+    "10",
+    "12"
+   ],
+   "r": 2,
+   "x": "Dazu der N. medianus.",
+   "e": "1.27",
+   "ref": "S. 302 A"
+  },
+  {
+   "id": "f22",
+   "f": "Wo liegt das Ringband A3?",
+   "o": [
+    "am Grundgelenk",
+    "am Grundglied",
+    "am PIP-Gelenk",
+    "am DIP-Gelenk"
+   ],
+   "r": 2,
+   "x": "A1 Grundgelenk, A2 Grundglied, A4 Mittelglied, A5 DIP.",
+   "e": "1.28",
+   "ref": "S. 304 B"
+  },
+  {
+   "id": "f23",
+   "f": "Wann sind die Kollateralbänder der Grundgelenke gespannt?",
+   "o": [
+    "in Streckung",
+    "in Beugung",
+    "immer",
+    "nie"
+   ],
+   "r": 1,
+   "x": "Deshalb Ruhigstellung in Beugung.",
+   "e": "1.28",
+   "ref": "S. 305 D"
+  },
+  {
+   "id": "f24",
+   "f": "Welche Gelenkform hat das proximale Handgelenk?",
+   "o": [
+    "Kugelgelenk",
+    "Eigelenk",
+    "Sattelgelenk",
+    "planes Gelenk"
+   ],
+   "r": 1,
+   "x": "Das distale ist ein verzahntes Scharniergelenk.",
+   "e": "1.30",
+   "ref": "S. 308 A"
+  },
+  {
+   "id": "f25",
+   "f": "Wo ist Radial- und Ulnarabduktion möglich?",
+   "o": [
+    "nur im distalen Handgelenk",
+    "nur im proximalen Handgelenk",
+    "in beiden",
+    "in den Karpometakarpalgelenken"
+   ],
+   "r": 1,
+   "x": "Flexion/Extension dagegen in beiden.",
+   "e": "1.30",
+   "ref": "S. 309 B"
+  }
+ ],
+ "sortieren": {
+  "titel": "Knochen, Band, Sehne oder Gelenk?",
+  "ref": "S. 250–309",
+  "kategorien": [
+   "Knochen",
+   "Band",
+   "Sehne/Sehnenscheide",
+   "Gelenk"
+  ],
+  "items": [
+   {
+    "id": "s0",
+    "t": "Os lunatum",
+    "k": 0
+   },
+   {
+    "id": "s1",
+    "t": "Proc. coracoideus",
+    "k": 0
+   },
+   {
+    "id": "s2",
+    "t": "Tuberculum majus",
+    "k": 0
+   },
+   {
+    "id": "s3",
+    "t": "Olecranon",
+    "k": 0
+   },
+   {
+    "id": "s4",
+    "t": "Hamulus ossis hamati",
+    "k": 0
+   },
+   {
+    "id": "s5",
+    "t": "Lig. coracoacromiale",
+    "k": 1
+   },
+   {
+    "id": "s6",
+    "t": "Lig. anulare radii",
+    "k": 1
+   },
+   {
+    "id": "s7",
+    "t": "Lig. glenohumerale inferius",
+    "k": 1
+   },
+   {
+    "id": "s8",
+    "t": "Retinaculum mm. flexorum",
+    "k": 1
+   },
+   {
+    "id": "s9",
+    "t": "Lig. scapholunatum",
+    "k": 1
+   },
+   {
+    "id": "s10",
+    "t": "Supraspinatussehne",
+    "k": 2
+   },
+   {
+    "id": "s11",
+    "t": "lange Bizepssehne",
+    "k": 2
+   },
+   {
+    "id": "s12",
+    "t": "Ringband A2",
+    "k": 2
+   },
+   {
+    "id": "s13",
+    "t": "Dorsalaponeurose",
+    "k": 2
+   },
+   {
+    "id": "s14",
+    "t": "Art. radiocarpalis",
+    "k": 3
+   },
+   {
+    "id": "s15",
+    "t": "Daumensattelgelenk",
+    "k": 3
+   },
+   {
+    "id": "s16",
+    "t": "Art. humeroradialis",
+    "k": 3
+   },
+   {
+    "id": "s17",
+    "t": "subakromiales Nebengelenk",
+    "k": 3
+   }
+  ]
+ },
+ "tabellen": [
+  {
+   "id": "gelenkformen",
+   "titel": "Gelenkformen der oberen Extremität",
+   "ref": "S. 271–309",
+   "einheit": "1.30",
+   "spalten": [
+    "Gelenkform",
+    "Freiheitsgrade"
+   ],
+   "zeilen": [
+    [
+     "Schultergelenk",
+     [
+      "Kugelgelenk",
+      "3"
+     ]
+    ],
+    [
+     "Akromioklavikulargelenk",
+     [
+      "planes Gelenk",
+      "–"
+     ]
+    ],
+    [
+     "proximales Handgelenk",
+     [
+      "Eigelenk",
+      "2"
+     ]
+    ],
+    [
+     "Daumensattelgelenk",
+     [
+      "Sattelgelenk",
+      "2"
+     ]
+    ],
+    [
+     "Fingergrundgelenk (MCP)",
+     [
+      "Kugelgelenk",
+      "2"
+     ]
+    ],
+    [
+     "PIP- und DIP-Gelenk",
+     [
+      "Scharniergelenk",
+      "1"
+     ]
+    ]
+   ],
+   "fuss": "MCP: morphologisch Kugelgelenk, Rotation durch Kollateralbänder gesperrt. Daumensattelgelenk: Opposition als zusätzliche Rotation."
+  },
+  {
+   "id": "winkel",
+   "titel": "Winkel und Maße",
+   "ref": "S. 253 B, 259 C, 268 B, 296 B, 297 C",
+   "einheit": "1.24",
+   "spalten": [
+    "Wert"
+   ],
+   "zeilen": [
+    [
+     "Scapula zur Frontalebene (°)",
+     [
+      "30"
+     ]
+    ],
+    [
+     "Scapula zur Clavicula (°)",
+     [
+      "60"
+     ]
+    ],
+    [
+     "Humerustorsion Erwachsener (°)",
+     [
+      "16"
+     ]
+    ],
+    [
+     "Ulnarinklination Radius (°)",
+     [
+      "20–25"
+     ]
+    ],
+    [
+     "Palmarinklination Radius (°)",
+     [
+      "10–15"
+     ]
+    ],
+    [
+     "Kubitalwinkel (°)",
+     [
+      "170"
+     ]
+    ],
+    [
+     "Flexion Ellenbogen max. (°)",
+     [
+      "150"
+     ]
+    ],
+    [
+     "Länge der Clavicula (cm)",
+     [
+      "12–15"
+     ]
+    ]
+   ],
+   "fuss": "Bereiche mit Bindestrich eingeben, z. B. 20-25."
+  },
+  {
+   "id": "ringbaender",
+   "titel": "Ringbänder der Fingersehnenscheide",
+   "ref": "S. 304 B",
+   "einheit": "1.28",
+   "spalten": [
+    "Lage"
+   ],
+   "zeilen": [
+    [
+     "A1",
+     [
+      "Grundgelenk"
+     ]
+    ],
+    [
+     "A2",
+     [
+      "Grundglied"
+     ]
+    ],
+    [
+     "A3",
+     [
+      "PIP"
+     ]
+    ],
+    [
+     "A4",
+     [
+      "Mittelglied"
+     ]
+    ],
+    [
+     "A5",
+     [
+      "DIP"
+     ]
+    ]
+   ],
+   "fuss": "PIP/DIP = proximales/distales Interphalangealgelenk."
+  }
+ ]
+}

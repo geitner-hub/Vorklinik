@@ -45,6 +45,17 @@
     else delete document.documentElement.dataset.thema;
   };
   setzeThema(alles.thema);
+  // Sichtbarer Schalter in der Kopfleiste: wechselt zwischen hell und dunkel (ausgehend von der aktuellen Darstellung)
+  const istDunkel = () => alles.thema === 'dunkel' || (alles.thema !== 'hell' && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches);
+  const zeigeThemaKnopf = () => {
+    const d = istDunkel(), k = $('#themaKnopf');
+    k.textContent = d ? '☀' : '☾';
+    k.setAttribute('aria-label', d ? 'Helle Darstellung' : 'Dunkle Darstellung');
+    k.title = d ? 'Hell' : 'Dunkel';
+  };
+  $('#themaKnopf').onclick = () => { alles.thema = istDunkel() ? 'hell' : 'dunkel'; save(); setzeThema(alles.thema); zeigeThemaKnopf(); };
+  if (window.matchMedia) matchMedia('(prefers-color-scheme: dark)').addEventListener('change', zeigeThemaKnopf);
+  zeigeThemaKnopf();
 
   /* ---------- Daten laden ---------- */
   let STRUKTUR = null;
@@ -95,6 +106,15 @@
     return null;
   }
 
+  /* Inhaltsverzeichnis: je Kapitel ein Aufklappmenü mit den Lerneinheiten und ihren Startseiten */
+  function inhaltsverzeichnis(ks, offenId) {
+    return `<div class="toc">${STRUKTUR.themengebiete.map(t => t.gruppen.map(g => g.kapitel.map(id => {
+      const K = ks.find(k => k && k.id === id); if (!K) return '';
+      return `<details class="toc-kap"${id === offenId ? ' open' : ''}><summary><span class="seiten">${esc(K.seiten)}</span><span>${esc(K.titel)}</span><span class="toc-pfeil" aria-hidden="true">▾</span></summary>
+        <ul>${K.einheiten.map(u => `<li><a href="#/k/${esc(id)}/uebersicht?seite=${u.seite}"><span class="pg">S. ${u.seite}</span><span class="nr">${esc(u.nr)}</span><span>${esc(u.titel)}</span></a></li>`).join('')}</ul></details>`;
+    }).join('')).join('')).join('')}</div>`;
+  }
+
   /* ---------- Blatt (Dialog von unten) ---------- */
   let blattZurueck = null;
   function oeffneBlatt(titel, html, beiOeffnen) {
@@ -120,14 +140,8 @@
       const K = ks.find(k => k && k.id === id); if (!K) return '';
       return `<li><a href="#/k/${esc(id)}/uebersicht" aria-current="${id === aktuell}"><span class="seiten">${esc(K.seiten)}</span><span>${esc(K.titel)}</span><span class="pz">${Math.round(fortschritt(K) * 100)}%</span></a></li>`;
     }).join('')}</ul>`).join('')).join('');
-    oeffneBlatt('Kapitel wechseln', `<form class="seitensprung" id="blattSprung" style="margin-bottom:6px"><label for="blattSeite">Buchseite</label><input id="blattSeite" type="number" inputmode="numeric" min="1" max="999" placeholder="130"><button class="knopf haupt klein" type="submit">Los</button></form><div class="sprung-info" id="blattSprungInfo"></div>${html}`, inh => {
+    oeffneBlatt('Kapitel wechseln', `${html}<h3>Nach Buchseiten</h3>${inhaltsverzeichnis(ks, aktuell)}`, inh => {
       $$('a', inh).forEach(a => a.addEventListener('click', schliesseBlatt));
-      $('#blattSprung', inh).onsubmit = e => {
-        e.preventDefault();
-        const n = +$('#blattSeite', inh).value, f = findeSeite(n, ks.filter(Boolean));
-        if (!f) { $('#blattSprungInfo', inh).textContent = `S. ${n} ist in keinem Kapitel enthalten.`; return; }
-        schliesseBlatt(); location.hash = `#/k/${f.K.id}/uebersicht?seite=${n}`;
-      };
     });
   }
   $('#kapitelKnopf').onclick = () => kapitelWaehlen(aktuellesKapitel);
@@ -150,7 +164,7 @@
       <div class="seg" id="themaWahl" role="group" aria-label="Darstellung">${[['auto', 'Automatisch'], ['hell', 'Hell'], ['dunkel', 'Dunkel']].map(([k, t]) => `<button type="button" data-t="${k}" aria-pressed="${th === k}">${t}</button>`).join('')}</div>
       <input type="file" id="importDatei" accept="application/json,.json" hidden>
       <div id="menuMeldung" class="hinweis" style="margin-top:12px"></div>`, inh => {
-      $$('#themaWahl button', inh).forEach(b => b.onclick = () => { alles.thema = b.dataset.t; save(); setzeThema(alles.thema); $$('#themaWahl button', inh).forEach(x => x.setAttribute('aria-pressed', x === b)); });
+      $$('#themaWahl button', inh).forEach(b => b.onclick = () => { alles.thema = b.dataset.t; save(); setzeThema(alles.thema); zeigeThemaKnopf(); $$('#themaWahl button', inh).forEach(x => x.setAttribute('aria-pressed', x === b)); });
       $('[data-a="qr"]', inh).onclick = zeigeQR;
       const ib = $('[data-a="install"]', inh); if (ib) ib.onclick = installieren;
       $('[data-a="export"]', inh).onclick = () => {
@@ -167,7 +181,7 @@
           const d = j && j.app === 'vorklinik' ? j.daten : null;
           if (!d || typeof d.kap !== 'object') throw new Error('keine Vorklinik-Datei');
           if (!confirm('Lernstand aus der Datei übernehmen? Der Stand auf diesem Gerät wird ersetzt.')) return;
-          alles = Object.assign({ version: 1, kap: {}, thema: 'auto' }, d); save(); setzeThema(alles.thema);
+          alles = Object.assign({ version: 1, kap: {}, thema: 'auto' }, d); save(); setzeThema(alles.thema); zeigeThemaKnopf();
           schliesseBlatt(); route();
         } catch (err) { $('#menuMeldung', inh).textContent = 'Import nicht möglich: ' + err.message; }
       };
@@ -230,9 +244,9 @@
     app.innerHTML = `
       <section class="start-kopf">
         <div><h1>Kapitel wählen</h1><p class="leise" style="margin:0">Nach Testat und Buchkapitel geordnet. Seitenzahlen beziehen sich auf den Prometheus.</p></div>
-        <div><form class="seitensprung" id="sprung"><label for="seite">Buchseite</label><input id="seite" type="number" inputmode="numeric" min="1" max="999" placeholder="456"><button class="knopf haupt" type="submit">Los</button></form>
-        <div class="sprung-info" id="sprungInfo">Springt zum passenden Kapitel und zur Lerneinheit.</div></div>
+        <div><button class="knopf haupt" id="tocKnopf" type="button" aria-expanded="false" aria-controls="tocStart">📖 Nach Buchseiten <span aria-hidden="true">▾</span></button></div>
       </section>
+      <div id="tocStart" class="karte toc-start" hidden><p class="hinweis" style="margin-top:0">Kapitel aufklappen und die Lerneinheit wählen, die du gerade im Buch aufgeschlagen hast.</p>${inhaltsverzeichnis(ks)}</div>
       ${zuletzt ? `<a class="knopf" style="margin-bottom:8px" href="#/k/${esc(zuletzt.id)}/${esc(alles.zuletztBereich || 'uebersicht')}">▶ Weiter mit: ${esc(zuletzt.titel)} <span class="ref"><b>${esc(zuletzt.seiten)}</b></span></a>` : ''}
       ${alles.uebernommen ? '<p class="hinweis">Dein Lernstand aus der Lernwelt wurde übernommen.</p>' : ''}
       ${STRUKTUR.themengebiete.map(t => t.gruppen.map(g => `
@@ -245,11 +259,10 @@
               <div class="mini">${Object.keys(K.strukturen).length} Begriffe · ${K.tafeln.length ? K.tafeln.length + ' Tafeln · ' : ''}${K.karten.length} Karten · ${K.fragen.length} Fragen</div></div>${ring(fortschritt(K))}</a>`;
           }).join('')}</div>
         </section>`).join('')).join('')}`;
-    $('#sprung').onsubmit = e => {
-      e.preventDefault();
-      const n = +$('#seite').value, f = findeSeite(n, ks.filter(Boolean));
-      if (!f) { $('#sprungInfo').textContent = n ? `S. ${n} ist (noch) in keinem Kapitel enthalten.` : 'Bitte eine Seitenzahl eingeben.'; return; }
-      location.hash = `#/k/${f.K.id}/uebersicht?seite=${n}`;
+    $('#tocKnopf').onclick = () => {
+      const box = $('#tocStart'), auf = box.hidden;
+      box.hidden = !auf; $('#tocKnopf').setAttribute('aria-expanded', String(auf));
+      if (auf) box.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
     };
   }
 

@@ -1,0 +1,1754 @@
+{
+ "id": "untere-extremitaet",
+ "buch": "Prometheus LernAtlas – Allgemeine Anatomie und Bewegungssystem",
+ "teil": "Untere Extremität",
+ "titel": "Untere Extremität: Knochen, Bänder, Gelenke",
+ "seiten": "S. 422–491",
+ "bereiche": [
+  [
+   422,
+   491
+  ]
+ ],
+ "intro": "Beckengürtel und Bein: Achsen und Winkel, Hüftgelenk mit Bändern und Femurkopfversorgung, Knie mit Kreuz- und Seitenbändern und Menisken, Sprunggelenke, Fußgewölbe und Großzehe.",
+ "einheiten": [
+  {
+   "nr": "1.1",
+   "titel": "Untere Extremität als Ganzes",
+   "seite": 422
+  },
+  {
+   "nr": "1.2",
+   "titel": "Anatomische und mechanische Achsen des Beines",
+   "seite": 424
+  },
+  {
+   "nr": "1.3",
+   "titel": "Knochen des Beckengürtels",
+   "seite": 426
+  },
+  {
+   "nr": "1.4",
+   "titel": "Femur als Ganzes, Schenkelhalswinkel",
+   "seite": 428
+  },
+  {
+   "nr": "1.5",
+   "titel": "Caput femoris, Fehlstellungen des Schenkelhalses",
+   "seite": 430
+  },
+  {
+   "nr": "1.6",
+   "titel": "Kniescheibe (Patella)",
+   "seite": 432
+  },
+  {
+   "nr": "1.7",
+   "titel": "Unterschenkelknochen (Tibia und Fibula)",
+   "seite": 434
+  },
+  {
+   "nr": "1.8",
+   "titel": "Fußknochen von dorsal und plantar",
+   "seite": 436
+  },
+  {
+   "nr": "1.9",
+   "titel": "Fußknochen von lateral und medial, akzessorische Knochen",
+   "seite": 438
+  },
+  {
+   "nr": "1.10",
+   "titel": "Hüftgelenk: artikulierende Knochen",
+   "seite": 440
+  },
+  {
+   "nr": "1.11",
+   "titel": "Bandapparat des Hüftgelenks: Stabilisierung",
+   "seite": 442
+  },
+  {
+   "nr": "1.12",
+   "titel": "Bandapparat des Hüftgelenks: Ernährung des Femurkopfes",
+   "seite": 444
+  },
+  {
+   "nr": "1.13",
+   "titel": "Schnittbild- und Röntgenanatomie des Hüftgelenks, Schenkelhalsfrakturen",
+   "seite": 446
+  },
+  {
+   "nr": "1.14",
+   "titel": "Schnittbildanatomie des Hüftgelenks",
+   "seite": 448
+  },
+  {
+   "nr": "1.15",
+   "titel": "Bewegungen und Biomechanik des Hüftgelenks",
+   "seite": 450
+  },
+  {
+   "nr": "1.16",
+   "titel": "Entwicklung des Hüftgelenks",
+   "seite": 452
+  },
+  {
+   "nr": "1.17",
+   "titel": "Kniegelenk: artikulierende Knochen",
+   "seite": 454
+  },
+  {
+   "nr": "1.18",
+   "titel": "Kniegelenk: Übersicht über den Bandapparat",
+   "seite": 456
+  },
+  {
+   "nr": "1.19",
+   "titel": "Kniegelenk: Kreuz- und Kollateralbänder",
+   "seite": 458
+  },
+  {
+   "nr": "1.20",
+   "titel": "Kniegelenk: Menisken",
+   "seite": 460
+  },
+  {
+   "nr": "1.21",
+   "titel": "Kniegelenk: Gelenkkapsel und -höhle",
+   "seite": 462
+  },
+  {
+   "nr": "1.22",
+   "titel": "Kniegelenk: Bewegungsumfang und Funktionsuntersuchung",
+   "seite": 464
+  },
+  {
+   "nr": "1.23",
+   "titel": "Kniegelenk: Ruptur des vorderen Kreuzbandes",
+   "seite": 466
+  },
+  {
+   "nr": "1.24",
+   "titel": "Schnittbildanatomie des Knies",
+   "seite": 468
+  },
+  {
+   "nr": "1.25",
+   "titel": "Fußgelenke im Überblick",
+   "seite": 470
+  },
+  {
+   "nr": "1.26",
+   "titel": "Fußgelenke: Gelenkflächen",
+   "seite": 472
+  },
+  {
+   "nr": "1.27",
+   "titel": "Oberes und unteres Sprunggelenk",
+   "seite": 474
+  },
+  {
+   "nr": "1.28",
+   "titel": "Bandapparat des Fußes",
+   "seite": 476
+  },
+  {
+   "nr": "1.29",
+   "titel": "Bewegungsachsen und Bewegungen am Fuß",
+   "seite": 478
+  },
+  {
+   "nr": "1.30",
+   "titel": "Fußgewölbe und Quergewölbe",
+   "seite": 480
+  },
+  {
+   "nr": "1.31",
+   "titel": "Längsgewölbe des Fußes",
+   "seite": 482
+  },
+  {
+   "nr": "1.32",
+   "titel": "Sesambeine und plantare Platten",
+   "seite": 484
+  },
+  {
+   "nr": "1.33",
+   "titel": "Hallux valgus, Hallux rigidus, Hallux malleus",
+   "seite": 486
+  },
+  {
+   "nr": "1.34",
+   "titel": "Röntgen- und Schnittbildanatomie des Fußes",
+   "seite": 488
+  },
+  {
+   "nr": "1.35",
+   "titel": "Der menschliche Gang",
+   "seite": 490
+  }
+ ],
+ "strukturen": {
+  "os-coxae": {
+   "lat": "Os coxae",
+   "de": "Hüftbein",
+   "info": "Aus Os ilium, ischii und pubis; die Y-Fuge im Acetabulum verknöchert zwischen 14. und 16. Lebensjahr.",
+   "ref": "S. 426 A, 427 F–G",
+   "rubrik": "knochen"
+  },
+  "acetabulum": {
+   "lat": "Acetabulum",
+   "de": "Hüftpfanne",
+   "info": "Je zwei Fünftel von Ilium und Ischium, ein Fünftel vom Pubis; ventraler Öffnungswinkel beim Erwachsenen ca. 17°.",
+   "ref": "S. 427 G, 430 A, 441 D",
+   "rubrik": "knochen"
+  },
+  "facies-lunata": {
+   "lat": "Facies lunata",
+   "de": "halbmondförmige Gelenkfläche",
+   "info": "Überknorpelter Teil der Pfanne, am Pfannendach am breitesten; umschließt die Fossa acetabuli.",
+   "ref": "S. 445 B",
+   "rubrik": "knochen"
+  },
+  "fossa-acetabuli": {
+   "lat": "Fossa acetabuli",
+   "de": "Pfannengrube",
+   "info": "Mit fettreichem Bindegewebe gefüllt; unten vom Lig. transversum acetabuli begrenzt; im Röntgenbild die Köhler-Tränenfigur.",
+   "ref": "S. 445 B, 447 D",
+   "rubrik": "knochen"
+  },
+  "beckenring": {
+   "lat": "Cingulum pelvicum (Beckenring)",
+   "de": "knöcherner Beckenring",
+   "info": "Beide Hüftbeine, Symphyse und Kreuzbein über die ISG – stabiler Ring zur Lastübertragung auf die Beine.",
+   "ref": "S. 427 E",
+   "rubrik": "knochen"
+  },
+  "femur": {
+   "lat": "Os femoris",
+   "de": "Oberschenkelknochen",
+   "info": "Anatomische und mechanische Schaftachse bilden 6°; Femurkopf und Schenkelhals werden über Kollumgefäße versorgt.",
+   "ref": "S. 424 A, 428 A–B",
+   "rubrik": "knochen"
+  },
+  "caput-femoris": {
+   "lat": "Caput femoris",
+   "de": "Hüftkopf",
+   "info": "Fast kugelförmig (Radius ca. 2,5 cm), von der Pfanne weitgehend umschlossen (Nussgelenk).",
+   "ref": "S. 440 A",
+   "rubrik": "knochen"
+  },
+  "collum-femoris": {
+   "lat": "Collum femoris",
+   "de": "Schenkelhals",
+   "info": "Bildet mit dem Schaft den CCD-Winkel (Erwachsene ca. 126°, Neugeborene ca. 150°); typische Frakturstelle im Alter.",
+   "ref": "S. 429 C, 446 C",
+   "rubrik": "knochen"
+  },
+  "trochanter-major": {
+   "lat": "Trochanter major",
+   "de": "großer Rollhügel",
+   "info": "Tastbarer Messpunkt der Beinlänge; liegt bei 45° Hüftbeugung auf der Roser-Nélaton-Linie.",
+   "ref": "S. 423 C, 443 E",
+   "rubrik": "knochen"
+  },
+  "condyli-femoris": {
+   "lat": "Condyli medialis et lateralis femoris",
+   "de": "Oberschenkelkondylen",
+   "info": "Gelenkkörper des Femorotibialgelenks; die quere Kondylenachse dient als Bezug für die Antetorsion.",
+   "ref": "S. 431 C, 454 A",
+   "rubrik": "knochen"
+  },
+  "facies-patellaris": {
+   "lat": "Facies patellaris femoris",
+   "de": "Kniescheibengleitlager",
+   "info": "Rinne am distalen Femur (oft Trochlea femoris genannt) für die Rückfläche der Patella.",
+   "ref": "S. 433 C",
+   "rubrik": "knochen"
+  },
+  "patella": {
+   "lat": "Patella",
+   "de": "Kniescheibe",
+   "info": "Größtes Sesambein, in die Quadrizepssehne eingelagert; verlängert den Hebelarm des Kniestreckers. Facettenwinkel ca. 130°.",
+   "ref": "S. 433 C, E",
+   "rubrik": "knochen"
+  },
+  "patella-bipartita": {
+   "lat": "Patella bipartita",
+   "de": "zweigeteilte Kniescheibe",
+   "info": "Nicht verschmolzener Knochenkern, meist oben außen; vom Bruch abgrenzen.",
+   "ref": "S. 433 D",
+   "rubrik": "knochen"
+  },
+  "tibia": {
+   "lat": "Tibia",
+   "de": "Schienbein",
+   "info": "Plateau um 5–7° nach hinten geneigt (tibial slope); physiologische Außentorsion ca. 23°.",
+   "ref": "S. 434 B, 435 C",
+   "rubrik": "knochen"
+  },
+  "fibula": {
+   "lat": "Fibula",
+   "de": "Wadenbein",
+   "info": "Nimmt nicht am Kniegelenk teil; proximal straffes Gelenk, distal Syndesmose mit der Tibia.",
+   "ref": "S. 434 A, 454 A",
+   "rubrik": "knochen"
+  },
+  "malleolengabel": {
+   "lat": "Malleoli (Malleolengabel)",
+   "de": "Knöchelgabel",
+   "info": "Distale Enden von Tibia und Fibula umgreifen die Talusrolle; gesichert durch die Syndesmose.",
+   "ref": "S. 435 E, 474 B",
+   "rubrik": "knochen"
+  },
+  "talus": {
+   "lat": "Talus",
+   "de": "Sprungbein",
+   "info": "Trochlea vorn 5–6 mm breiter als hinten – in Dorsalextension sitzt er fest in der Gabel, in Plantarflexion locker.",
+   "ref": "S. 436 B, 474 A",
+   "rubrik": "knochen"
+  },
+  "calcaneus": {
+   "lat": "Calcaneus",
+   "de": "Fersenbein",
+   "info": "Rückfuß; Tuber calcanei ist ein Auflagepunkt des Fußgewölbes.",
+   "ref": "S. 437 D, 480 B",
+   "rubrik": "knochen"
+  },
+  "sustentaculum-tali": {
+   "lat": "Sustentaculum tali",
+   "de": "„Stützer des Talus“",
+   "info": "Medialer Vorsprung des Calcaneus ca. 1,5 cm unter der Innenknöchelspitze; Hypomochlion der Flexor-hallucis-longus-Sehne, Ansatz von Pfannen- und Deltaband.",
+   "ref": "S. 438 C",
+   "rubrik": "knochen"
+  },
+  "os-naviculare": {
+   "lat": "Os naviculare",
+   "de": "Kahnbein des Fußes",
+   "info": "Gelenkpartner des Taluskopfes; Endpunkt der Achse des unteren Sprunggelenks.",
+   "ref": "S. 436 A, 478 A",
+   "rubrik": "knochen"
+  },
+  "os-cuboideum": {
+   "lat": "Os cuboideum",
+   "de": "Würfelbein",
+   "info": "Verbindet die lateralen Strahlen mit dem Calcaneus; Umlenkstelle der Peroneus-longus-Sehne.",
+   "ref": "S. 436 A, 480 A",
+   "rubrik": "knochen"
+  },
+  "ossa-cuneiformia": {
+   "lat": "Ossa cuneiformia",
+   "de": "Keilbeine",
+   "info": "Drei Knochen zwischen Os naviculare und den medialen Mittelfußknochen.",
+   "ref": "S. 436 A",
+   "rubrik": "knochen"
+  },
+  "ossa-metatarsi": {
+   "lat": "Ossa metatarsi I–V",
+   "de": "Mittelfußknochen",
+   "info": "Basis des Metatarsale V ist die häufigste Mittelfußfraktur (ca. 30 %).",
+   "ref": "S. 436 A, 439 E",
+   "rubrik": "knochen"
+  },
+  "tarsus-gliederung": {
+   "lat": "Tarsus, Metatarsus, Antetarsus",
+   "de": "Abschnitte des Fußes",
+   "info": "Anatomisch 7 Fußwurzel-, 5 Mittelfuß-, 14 Zehenknochen; funktionell Rück-, Mittel- und Vorfuß.",
+   "ref": "S. 436 C, 437 D",
+   "rubrik": "knochen"
+  },
+  "os-tibiale-externum": {
+   "lat": "Os tibiale externum",
+   "de": "akzessorischer Knochen am Fuß",
+   "info": "Inkonstanter Knochen, der in engen Schuhen drücken kann.",
+   "ref": "S. 439 F",
+   "rubrik": "knochen"
+  },
+  "ossa-sesamoidea-hallucis": {
+   "lat": "Ossa sesamoidea hallucis",
+   "de": "Großzehen-Sesambeine",
+   "info": "Zwei halbkugelförmige Knochen unter dem Metatarsale-I-Köpfchen; dazwischen läuft die Flexor-hallucis-longus-Sehne.",
+   "ref": "S. 485 B–C",
+   "rubrik": "knochen"
+  },
+  "mikulicz-linie": {
+   "lat": "Linea Mikulicz",
+   "de": "Traglinie des Beins",
+   "info": "Verbindet Hüftkopfzentrum, Eminentia intercondylaris und Mitte der Malleolengabel.",
+   "ref": "S. 424 A",
+   "rubrik": "weitere"
+  },
+  "femorotibialwinkel": {
+   "lat": "Angulus femorotibialis",
+   "de": "Knieaußenwinkel",
+   "info": "Anatomische Achsen von Ober- und Unterschenkel bilden ca. 174°.",
+   "ref": "S. 424 A",
+   "rubrik": "weitere"
+  },
+  "genu-varum-valgum": {
+   "lat": "Genu varum / valgum",
+   "de": "O-Bein / X-Bein",
+   "info": "Kniemitte lateral (varum) bzw. medial (valgum) der Traglinie; pathologisch ab > 3 cm Kondylen- bzw. > 5 cm Malleolenabstand.",
+   "ref": "S. 424 A–B",
+   "rubrik": "weitere"
+  },
+  "ccd-winkel": {
+   "lat": "Angulus centrum-collum-diaphysis",
+   "de": "CCD-Winkel",
+   "info": "Coxa vara (< normal) → mehr Zugtrabekel, Coxa valga (> normal) → mehr Drucktrabekel.",
+   "ref": "S. 429 C",
+   "rubrik": "weitere"
+  },
+  "antetorsion": {
+   "lat": "Angulus antetorsionis",
+   "de": "Antetorsionswinkel",
+   "info": "Schenkelhals- gegen Kondylenachse: Erwachsene ca. 12°, Geburt 30–40°; zu groß → Fußspitzen nach innen.",
+   "ref": "S. 431 C–D",
+   "rubrik": "weitere"
+  },
+  "zuggurtung": {
+   "lat": "Principium cinguli tensoris (Pauwels)",
+   "de": "Zuggurtungsprinzip",
+   "info": "Der Tractus iliotibialis wirkt wie eine Zugkette lateral am Femur und mindert dessen Biegebeanspruchung.",
+   "ref": "S. 429 E",
+   "rubrik": "weitere"
+  },
+  "art-coxae": {
+   "lat": "Articulatio coxae",
+   "de": "Hüftgelenk",
+   "info": "Nussgelenk (Sonderform des Kugelgelenks) mit drei Freiheitsgraden; luxiert dank guter Knochenführung selten.",
+   "ref": "S. 440 A, 450 A",
+   "rubrik": "gelenk"
+  },
+  "labrum-acetabuli": {
+   "lat": "Labrum acetabuli",
+   "de": "Pfannenlippe",
+   "info": "Faserknorpelig-bindegewebiger Saum auf dem knöchernen Pfannenrand.",
+   "ref": "S. 445 B",
+   "rubrik": "gelenk"
+  },
+  "membrana-synovialis-coxae": {
+   "lat": "Membrana synovialis (Hüfte)",
+   "de": "Synovialis am Schenkelhals",
+   "info": "Schlägt etwa 1 cm proximal des Fibrosa-Ansatzes auf den Schenkelhals um und reicht bis zum Knorpelrand.",
+   "ref": "S. 444 A b",
+   "rubrik": "gelenk"
+  },
+  "lig-iliofemorale": {
+   "lat": "Ligamentum iliofemorale",
+   "de": "Darmbein-Oberschenkel-Band (Bertini)",
+   "info": "Stärkstes Band des Körpers (> 350 kg); hält das Becken im Stand ohne Muskelkraft und hemmt die Adduktion.",
+   "ref": "S. 442 A–B",
+   "rubrik": "band"
+  },
+  "lig-pubofemorale": {
+   "lat": "Ligamentum pubofemorale",
+   "de": "Schambein-Oberschenkel-Band",
+   "info": "Eines der drei Kapselbänder des Hüftgelenks.",
+   "ref": "S. 442 B",
+   "rubrik": "band"
+  },
+  "lig-ischiofemorale": {
+   "lat": "Ligamentum ischiofemorale",
+   "de": "Sitzbein-Oberschenkel-Band",
+   "info": "Hinteres Kapselband; zwischen ihm und dem Iliofemorale luxiert der Kopf meist nach hinten-oben.",
+   "ref": "S. 442 B, 443 E",
+   "rubrik": "band"
+  },
+  "zona-orbicularis": {
+   "lat": "Zona orbicularis",
+   "de": "Ringband der Hüfte",
+   "info": "Von außen nicht sichtbar, umfasst den Schenkelhals wie ein Knopfloch.",
+   "ref": "S. 442 B",
+   "rubrik": "band"
+  },
+  "lig-capitis-femoris": {
+   "lat": "Ligamentum capitis femoris",
+   "de": "Hüftkopfband",
+   "info": "Ohne mechanische Funktion; führt Gefäße (R. acetabularis der A. obturatoria) zum Femurkopf.",
+   "ref": "S. 442 B, 445 C",
+   "rubrik": "band"
+  },
+  "lig-transversum-acetabuli": {
+   "lat": "Ligamentum transversum acetabuli",
+   "de": "querer Pfannenband",
+   "info": "Überbrückt die Incisura acetabuli und schließt den Pfannenrand unten.",
+   "ref": "S. 445 B",
+   "rubrik": "band"
+  },
+  "baenderschraube": {
+   "lat": "Cochlea ligamentorum coxae",
+   "de": "Bänderschraube",
+   "info": "Bei Streckung verschrauben sich die Kapselbänder und pressen den Kopf in die Pfanne; bei Beugung entspannen sie.",
+   "ref": "S. 443 C",
+   "rubrik": "band"
+  },
+  "art-genus": {
+   "lat": "Articulatio genus",
+   "de": "Kniegelenk",
+   "info": "Femorotibial- und Femoropatellargelenk in einer Kapsel und Gelenkhöhle; wenig Knochenführung, daher starker Bandapparat.",
+   "ref": "S. 454 A, 457 E",
+   "rubrik": "gelenk"
+  },
+  "art-femoropatellaris": {
+   "lat": "Articulatio femoropatellaris",
+   "de": "Kniescheibengelenk",
+   "info": "Patellarückfläche gleitet in der Facies patellaris femoris; im Défilé-Bild beurteilt.",
+   "ref": "S. 433 C, 455 C",
+   "rubrik": "gelenk"
+  },
+  "art-tibiofibularis": {
+   "lat": "Articulatio tibiofibularis",
+   "de": "oberes Schienbein-Wadenbein-Gelenk",
+   "info": "Straffes Gelenk (Amphiarthrose) außerhalb des Kniegelenks.",
+   "ref": "S. 434 A, 454 A",
+   "rubrik": "gelenk"
+  },
+  "meniscus-medialis": {
+   "lat": "Meniscus medialis",
+   "de": "Innenmeniskus",
+   "info": "Sichelförmig, mit dem Innenband verwachsen und weit auseinander verankert – weniger beweglich, daher häufiger verletzt.",
+   "ref": "S. 459 B, 460 A, 461 F",
+   "rubrik": "gelenk"
+  },
+  "meniscus-lateralis": {
+   "lat": "Meniscus lateralis",
+   "de": "Außenmeniskus",
+   "info": "Fast geschlossener Ring, ohne Verbindung zum Außenband – beweglicher.",
+   "ref": "S. 460 A",
+   "rubrik": "gelenk"
+  },
+  "menisken-bau": {
+   "lat": "Menisci (Bau und Funktion)",
+   "de": "Aufbau der Menisken",
+   "info": "Keilförmig; innere zwei Drittel Faserknorpel (gefäßfrei, Synovia), äußeres Drittel straffes Bindegewebe (durchblutet); tragen ca. ein Drittel der Last.",
+   "ref": "S. 460 B–C, 461 D",
+   "rubrik": "gelenk"
+  },
+  "recessus-suprapatellaris": {
+   "lat": "Recessus suprapatellaris",
+   "de": "oberer Kniegelenkrezessus",
+   "info": "Reservefalte über der Patella, ab ca. 130° Beugung ganz entfaltet; Erguss sammelt sich hier.",
+   "ref": "S. 463 E–G",
+   "rubrik": "gelenk"
+  },
+  "hoffa-fettkoerper": {
+   "lat": "Corpus adiposum infrapatellare",
+   "de": "Hoffa-Fettkörper",
+   "info": "Zwischen Area intercondylaris anterior und Lig. patellae; seitlich Plicae alares.",
+   "ref": "S. 462 A, 463 E",
+   "rubrik": "gelenk"
+  },
+  "baker-zyste": {
+   "lat": "Bursa gastrocnemio-semimembranosa (Baker-Zyste)",
+   "de": "Baker-Zyste",
+   "info": "Mit Synovia gefüllter, vergrößerter Schleimbeutel in der medialen Kniekehle, meist mit Verbindung zur Gelenkhöhle.",
+   "ref": "S. 456 B",
+   "rubrik": "gelenk"
+  },
+  "lig-cruciatum-anterius": {
+   "lat": "Ligamentum cruciatum anterius (VKB)",
+   "de": "vorderes Kreuzband",
+   "info": "Von der Area intercondylaris anterior zur Innenfläche des lateralen Femurkondylus; AM-Bündel in Beugung, PL-Bündel in Streckung gespannt.",
+   "ref": "S. 458 A, 466 A–B",
+   "rubrik": "band"
+  },
+  "lig-cruciatum-posterius": {
+   "lat": "Ligamentum cruciatum posterius (HKB)",
+   "de": "hinteres Kreuzband",
+   "info": "Kräftiger; von der Area intercondylaris posterior zur Außenfläche des medialen Femurkondylus.",
+   "ref": "S. 458 A",
+   "rubrik": "band"
+  },
+  "lig-collaterale-tibiale": {
+   "lat": "Ligamentum collaterale tibiale",
+   "de": "Innenband",
+   "info": "Breit, mit Kapsel und Innenmeniskus verwachsen; inseriert 7–8 cm unter dem Tibiaplateau.",
+   "ref": "S. 459 B",
+   "rubrik": "band"
+  },
+  "lig-collaterale-fibulare": {
+   "lat": "Ligamentum collaterale fibulare",
+   "de": "Außenband",
+   "info": "Strangförmig, ohne Kontakt zu Kapsel und Außenmeniskus (extrakapsulär).",
+   "ref": "S. 459 B, 462 C",
+   "rubrik": "band"
+  },
+  "lig-patellae": {
+   "lat": "Ligamentum patellae",
+   "de": "Kniescheibenband",
+   "info": "Fortsetzung der Quadrizepssehne von der Patella zur Tuberositas tibiae.",
+   "ref": "S. 457 C, 459 B",
+   "rubrik": "band"
+  },
+  "retinacula-patellae": {
+   "lat": "Retinacula patellae longitudinalia et transversalia",
+   "de": "Haltebänder der Kniescheibe",
+   "info": "Verspannen und zentrieren die Patella vorne.",
+   "ref": "S. 457 C, E",
+   "rubrik": "band"
+  },
+  "lig-popliteum-obliquum": {
+   "lat": "Ligamentum popliteum obliquum",
+   "de": "schräges Kniekehlenband",
+   "info": "Verstärkt mit dem Lig. popliteum arcuatum die hintere Kapsel.",
+   "ref": "S. 456 A, 457 E",
+   "rubrik": "band"
+  },
+  "posterolateraler-komplex": {
+   "lat": "Complexus posterolateralis",
+   "de": "posterolateraler Bandkomplex",
+   "info": "Popliteussehne, Lig. popliteofibulare, Außenband und Tractus iliotibialis; sichern gegen Außenrotation und hintere Tibiaverschiebung.",
+   "ref": "S. 456 A",
+   "rubrik": "band"
+  },
+  "membrana-interossea-cruris": {
+   "lat": "Membrana interossea cruris",
+   "de": "Zwischenknochenmembran des Unterschenkels",
+   "info": "Muskelursprung; stabilisiert mit der Syndesmose die Malleolengabel.",
+   "ref": "S. 434 A",
+   "rubrik": "band"
+  },
+  "art-talocruralis": {
+   "lat": "Articulatio talocruralis (OSG)",
+   "de": "oberes Sprunggelenk",
+   "info": "Malleolengabel mit Trochlea tali; Achse durch die Knöchelspitzen (82° zur Tibiaachse); Plantarflexion 40–50°, Dorsalextension 20–30°.",
+   "ref": "S. 474 A, 478 A, 479 D",
+   "rubrik": "gelenk"
+  },
+  "art-subtalaris": {
+   "lat": "Articulatio subtalaris",
+   "de": "hintere Kammer des USG",
+   "info": "Zwischen Talus und Calcaneus; vom Lig. talocalcaneum interosseum im Canalis tarsi von der vorderen Kammer getrennt.",
+   "ref": "S. 470 B, 475 E",
+   "rubrik": "gelenk"
+  },
+  "art-talocalcaneonavicularis": {
+   "lat": "Articulatio talocalcaneonavicularis",
+   "de": "vordere Kammer des USG",
+   "info": "Taluskopf mit Calcaneus, Os naviculare und Pfannenband; Inversion ca. 20°, Eversion ca. 10°.",
+   "ref": "S. 470 B, 475 E, 479 E",
+   "rubrik": "gelenk"
+  },
+  "chopart-gelenk": {
+   "lat": "Articulatio tarsi transversa (Chopart)",
+   "de": "Chopart-Gelenklinie",
+   "info": "Art. calcaneocuboidea + Art. talonavicularis; mit dem Lisfranc-Gelenk Vorfußverwringung.",
+   "ref": "S. 470 B, 479 F",
+   "rubrik": "gelenk"
+  },
+  "lisfranc-gelenk": {
+   "lat": "Articulationes tarsometatarsales (Lisfranc)",
+   "de": "Lisfranc-Gelenklinie",
+   "info": "Gelenke zwischen Fußwurzel und Mittelfußknochen.",
+   "ref": "S. 470 B, 471 C",
+   "rubrik": "gelenk"
+  },
+  "pfannenband": {
+   "lat": "Ligamentum calcaneonaviculare plantare",
+   "de": "Pfannenband",
+   "info": "Vom Sustentaculum tali zum Os naviculare; trägt den Taluskopf wie eine Gleitsehne – schwächstes Glied der Längsverspannung, überdehnt beim Plattfuß.",
+   "ref": "S. 475 D–E, 482 B",
+   "rubrik": "band"
+  },
+  "lig-talocalcaneum-interosseum": {
+   "lat": "Ligamentum talocalcaneum interosseum",
+   "de": "Zwischenknochenband im Canalis tarsi",
+   "info": "Grenze zwischen vorderer und hinterer Kammer des unteren Sprunggelenks.",
+   "ref": "S. 475 E",
+   "rubrik": "band"
+  },
+  "lig-deltoideum": {
+   "lat": "Ligamentum deltoideum",
+   "de": "Deltaband (Innenband)",
+   "info": "Teile: tibiotalaris anterior und posterior, tibionavicularis, tibiocalcanea.",
+   "ref": "S. 476 A, 477 E",
+   "rubrik": "band"
+  },
+  "lig-talofibulare-anterius": {
+   "lat": "Ligamentum talofibulare anterius",
+   "de": "vorderes Außenband",
+   "info": "Reißt beim Supinationstrauma am häufigsten, oft mit dem Lig. calcaneofibulare.",
+   "ref": "S. 476 B, 477 E",
+   "rubrik": "band"
+  },
+  "lig-calcaneofibulare": {
+   "lat": "Ligamentum calcaneofibulare",
+   "de": "mittleres Außenband",
+   "info": "Außenband zwischen Außenknöchel und Calcaneus.",
+   "ref": "S. 476 B, 477 E",
+   "rubrik": "band"
+  },
+  "lig-talofibulare-posterius": {
+   "lat": "Ligamentum talofibulare posterius",
+   "de": "hinteres Außenband",
+   "info": "Drittes laterales Band des oberen Sprunggelenks.",
+   "ref": "S. 477 E",
+   "rubrik": "band"
+  },
+  "syndesmosis-tibiofibularis": {
+   "lat": "Syndesmosis tibiofibularis",
+   "de": "distale Schienbein-Wadenbein-Verbindung",
+   "info": "Ligg. tibiofibulare anterius und posterius sichern die Gabel; bei Weber C immer gerissen.",
+   "ref": "S. 476 B, 477 D–E",
+   "rubrik": "band"
+  },
+  "lig-plantare-longum": {
+   "lat": "Ligamentum plantare longum",
+   "de": "langes Sohlenband",
+   "info": "Wichtiger passiver Verspanner des Längsgewölbes.",
+   "ref": "S. 475 D, 482 B",
+   "rubrik": "band"
+  },
+  "lig-bifurcatum": {
+   "lat": "Ligamentum bifurcatum",
+   "de": "gegabeltes Band",
+   "info": "Am Chopart-Gelenk zwischen Calcaneus, Os naviculare und Os cuboideum.",
+   "ref": "S. 475 E, 476 B",
+   "rubrik": "band"
+  },
+  "lig-metatarsale-transversum-profundum": {
+   "lat": "Ligamentum metatarsale transversum profundum",
+   "de": "tiefes queres Mittelfußband",
+   "info": "Verbindet die plantaren Platten und verspannt passiv den Vorfußbogen.",
+   "ref": "S. 481 D, 484 A",
+   "rubrik": "band"
+  },
+  "plantare-platten": {
+   "lat": "Laminae fibrocartilagineae plantares",
+   "de": "plantare Faserknorpelplatten",
+   "info": "An den Zehengrundgelenken; verdoppeln die Pfannenfläche der Grundphalanx wie eine Gelenklippe.",
+   "ref": "S. 484 A",
+   "rubrik": "gelenk"
+  },
+  "plantaraponeurose": {
+   "lat": "Aponeurosis plantaris",
+   "de": "Plantaraponeurose",
+   "info": "Wichtigster passiver Verspanner des Längsgewölbes wegen ihres langen Hebelarms.",
+   "ref": "S. 482 B",
+   "rubrik": "sehne"
+  },
+  "quadrizepssehne": {
+   "lat": "Tendo musculi quadricipitis femoris",
+   "de": "Quadrizepssehne",
+   "info": "Enthält die Patella als Sesambein und setzt sich als Lig. patellae fort.",
+   "ref": "S. 433 C, 463 E",
+   "rubrik": "sehne"
+  },
+  "tractus-iliotibialis": {
+   "lat": "Tractus iliotibialis",
+   "de": "Tractus iliotibialis",
+   "info": "Längsverstärkung der Fascia lata; Zuggurtung am Femur und Teil des posterolateralen Komplexes.",
+   "ref": "S. 429 E, 456 A",
+   "rubrik": "sehne"
+  },
+  "popliteussehne": {
+   "lat": "Tendo musculi poplitei",
+   "de": "Popliteussehne",
+   "info": "Verstärkt die hintere Kapsel; Recessus subpopliteus liegt darunter.",
+   "ref": "S. 456 A",
+   "rubrik": "sehne"
+  },
+  "achillessehne": {
+   "lat": "Tendo calcaneus",
+   "de": "Achillessehne",
+   "info": "Setzt am Tuber calcanei an.",
+   "ref": "S. 482 A",
+   "rubrik": "sehne"
+  },
+  "sehne-flexor-hallucis-longus": {
+   "lat": "Tendo musculi flexoris hallucis longi",
+   "de": "Sehne des langen Großzehenbeugers",
+   "info": "Läuft unter dem Sustentaculum tali und zwischen den Großzehen-Sesambeinen; verspannt aktiv das Längsgewölbe.",
+   "ref": "S. 438 C, 482 B, 485 C",
+   "rubrik": "sehne"
+  },
+  "sehne-peroneus-longus": {
+   "lat": "Tendo musculi fibularis longi",
+   "de": "Sehne des langen Wadenbeinmuskels",
+   "info": "Wird am Os cuboideum umgelenkt; wichtigster Verspanner des Quergewölbes im Fußwurzelbereich.",
+   "ref": "S. 481 D",
+   "rubrik": "sehne"
+  },
+  "sehne-tibialis-posterior": {
+   "lat": "Tendo musculi tibialis posterioris",
+   "de": "Sehne des hinteren Schienbeinmuskels",
+   "info": "Läuft im Sulcus malleolaris hinter dem Innenknöchel.",
+   "ref": "S. 434 A",
+   "rubrik": "sehne"
+  },
+  "schenkelhalsfraktur": {
+   "lat": "Fractura colli femoris",
+   "de": "Schenkelhalsfraktur",
+   "info": "Mediale (95 %, intrakapsulär, Kopfnekrosegefahr) und laterale; Einteilung nach Pauwels nach dem Neigungswinkel der Bruchlinie.",
+   "ref": "S. 446 C, 447 F",
+   "rubrik": "weitere"
+  },
+  "roser-nelaton-linie": {
+   "lat": "Linea Roser-Nélaton",
+   "de": "Roser-Nélaton-Linie",
+   "info": "Von der SIAS zum Tuber ischiadicum; bei Luxation liegt der Trochanter major darüber oder darunter.",
+   "ref": "S. 443 E",
+   "rubrik": "weitere"
+  },
+  "hueftdysplasie": {
+   "lat": "Dysplasia coxae",
+   "de": "Hüftdysplasie",
+   "info": "Flaches, steiles Pfannendach; Screening per Ultraschall nach Graf (U3); Pfannendysplasie 2–4 %, Luxation 0,2 %, Mädchen : Jungen 7 : 1.",
+   "ref": "S. 452 C, 453 E",
+   "rubrik": "weitere"
+  },
+  "weber-fraktur": {
+   "lat": "Fractura Weber A/B/C",
+   "de": "Weber-Fraktur",
+   "info": "Außenknöchelfraktur unterhalb (A), auf Höhe (B) oder oberhalb (C) der Syndesmose.",
+   "ref": "S. 477 D",
+   "rubrik": "weitere"
+  },
+  "hallux-valgus": {
+   "lat": "Hallux valgus",
+   "de": "Ballenzeh",
+   "info": "Meist Folge eines Spreizfußes; Intermetatarsalwinkel (normal ≤ 8°) und Großzehengrundvalgität (normal < 20°) vergrößert.",
+   "ref": "S. 486 A–C",
+   "rubrik": "weitere"
+  },
+  "hallux-rigidus": {
+   "lat": "Hallux rigidus",
+   "de": "steife Großzehe",
+   "info": "Arthrose des Großzehengrundgelenks; Abrollen und Zehenstand schmerzhaft.",
+   "ref": "S. 487 D",
+   "rubrik": "weitere"
+  },
+  "fussgewoelbe": {
+   "lat": "Arcus pedis longitudinalis et transversus",
+   "de": "Längs- und Quergewölbe",
+   "info": "Stützpunkte: Tuber calcanei, Köpfchen von Metatarsale I und V; der 2. Strahl bildet den höchsten Bogen.",
+   "ref": "S. 480 A–B, 482 A",
+   "rubrik": "weitere"
+  },
+  "druckkammersystem": {
+   "lat": "Systema camerarum plantarium",
+   "de": "Druckkammern der Fußsohle",
+   "info": "Bis 2 cm dicke Fettkammern mit derben Septen zwischen Plantaraponeurose und Lederhaut; verteilen den Druck.",
+   "ref": "S. 490 A–C",
+   "rubrik": "weitere"
+  }
+ },
+ "karten": [
+  {
+   "id": "k0",
+   "f": "Woraus besteht der Beckenring?",
+   "a": "Aus beiden Hüftbeinen, der Symphyse und dem Kreuzbein, verbunden über die Iliosakralgelenke.",
+   "e": "1.3",
+   "ref": "S. 427 E"
+  },
+  {
+   "id": "k1",
+   "f": "Welche Teile der unteren Extremität sind nicht tastbar?",
+   "a": "Hüftgelenk, Schenkelhals, Femurschaft und der größte Teil des Fibulaschafts (fast ganz von Muskeln bedeckt).",
+   "e": "1.1",
+   "ref": "S. 423 C"
+  },
+  {
+   "id": "k2",
+   "f": "Wie unterscheidet man echte und funktionelle Beinlängendifferenzen?",
+   "a": "Lässt sich der Beckenschiefstand mit Brettchen unter dem kürzeren Bein ausgleichen, ist sie echt; sonst funktionell (z. B. Kontraktur, Skoliose).",
+   "e": "1.1",
+   "ref": "S. 423 D"
+  },
+  {
+   "id": "k3",
+   "f": "Welche Punkte liegen auf der Mikulicz-Linie?",
+   "a": "Hüftkopfzentrum, Eminentia intercondylaris und Mitte der Malleolengabel.",
+   "e": "1.2",
+   "ref": "S. 424 A"
+  },
+  {
+   "id": "k4",
+   "f": "Ab wann sind O- und X-Beine pathologisch?",
+   "a": "Bei mehr als 3 cm Kondylenabstand bzw. mehr als 5 cm Malleolenabstand.",
+   "e": "1.2",
+   "ref": "S. 424 B"
+  },
+  {
+   "id": "k5",
+   "f": "Wie entwickeln sich die Beinachsen beim Kind?",
+   "a": "Säugling O-Beine bis ca. 20°, Kleinkind X-Beine bis ca. 10°, bis zur Einschulung weitgehend gerade.",
+   "e": "1.2",
+   "ref": "S. 425 C"
+  },
+  {
+   "id": "k6",
+   "f": "Wie viel tragen Ilium, Ischium und Pubis zum Acetabulum bei?",
+   "a": "Ilium und Ischium je zwei Fünftel, Pubis ein Fünftel; Y-Fuge schließt mit 14–16 Jahren.",
+   "e": "1.3",
+   "ref": "S. 427 G"
+  },
+  {
+   "id": "k7",
+   "f": "Wie groß ist der CCD-Winkel?",
+   "a": "Erwachsene ca. 126° (Coxa norma), Neugeborene ca. 150°.",
+   "e": "1.4",
+   "ref": "S. 429 C"
+  },
+  {
+   "id": "k8",
+   "f": "Was bewirkt das Zuggurtungsprinzip am Femur?",
+   "a": "Der Tractus iliotibialis wirkt lateral als Zugkette und reduziert die Biegebeanspruchung des Femurs.",
+   "e": "1.4",
+   "ref": "S. 429 E"
+  },
+  {
+   "id": "k9",
+   "f": "Wie groß ist der Antetorsionswinkel?",
+   "a": "Erwachsene ca. 12°, Neugeborene 30–40°; vergrößert → Innenrotationsgang.",
+   "e": "1.5",
+   "ref": "S. 431 C–D"
+  },
+  {
+   "id": "k10",
+   "f": "Wozu dient die Patella?",
+   "a": "Sie verlängert als Sesambein den wirksamen Hebelarm des M. quadriceps femoris.",
+   "e": "1.6",
+   "ref": "S. 433 C"
+  },
+  {
+   "id": "k11",
+   "f": "Was ist der tibial slope und wie groß ist die Tibiatorsion?",
+   "a": "Rückneigung des Tibiaplateaus um 5–7°; Außentorsion der Tibia ca. 23° (Fußspitzen zeigen nach außen).",
+   "e": "1.7",
+   "ref": "S. 434 B, 435 C"
+  },
+  {
+   "id": "k12",
+   "f": "Wie verbinden sich Tibia und Fibula?",
+   "a": "Proximal straffes Gelenk (Amphiarthrose), distal Syndesmose; dazwischen Membrana interossea.",
+   "e": "1.7",
+   "ref": "S. 434 A"
+  },
+  {
+   "id": "k13",
+   "f": "Wie gliedert sich das Fußskelett?",
+   "a": "Anatomisch: 7 Fußwurzel-, 5 Mittelfuß-, 14 Zehenknochen. Funktionell: Rückfuß (Talus, Calcaneus), Mittelfuß, Vorfuß.",
+   "e": "1.8",
+   "ref": "S. 436 C, 437 D"
+  },
+  {
+   "id": "k14",
+   "f": "Was leistet das Sustentaculum tali?",
+   "a": "Trägt den Talus, lenkt die Flexor-hallucis-longus-Sehne um, Ansatz von Pfannen- und Deltaband; tastbar 1,5 cm unter der Innenknöchelspitze.",
+   "e": "1.9",
+   "ref": "S. 438 C"
+  },
+  {
+   "id": "k15",
+   "f": "Welche Gelenkform hat die Hüfte?",
+   "a": "Nussgelenk – Sonderform des Kugelgelenks, Kopf zu mehr als der Hälfte von der Pfanne umfasst.",
+   "e": "1.10",
+   "ref": "S. 440 A"
+  },
+  {
+   "id": "k16",
+   "f": "Pfannenneigung beim Erwachsenen?",
+   "a": "Lateral-kaudal (transversal) ca. 40°, ventral (sagittal) ca. 17°.",
+   "e": "1.10",
+   "ref": "S. 441 C–D"
+  },
+  {
+   "id": "k17",
+   "f": "Welche Bänder hat das Hüftgelenk?",
+   "a": "Ligg. iliofemorale, pubofemorale, ischiofemorale, Zona orbicularis und Lig. capitis femoris.",
+   "e": "1.11",
+   "ref": "S. 442 B"
+  },
+  {
+   "id": "k18",
+   "f": "Was ist besonders am Lig. iliofemorale?",
+   "a": "Stärkstes Band des Körpers (> 350 kg); verhindert das Abkippen des Beckens nach hinten im Stand.",
+   "e": "1.11",
+   "ref": "S. 442 A"
+  },
+  {
+   "id": "k19",
+   "f": "Wohin luxiert die Hüfte meist?",
+   "a": "Nach hinten-oben zwischen Iliofemorale und Ischiofemorale (Luxatio iliaca); Bein innenrotiert und adduziert.",
+   "e": "1.11",
+   "ref": "S. 443 E"
+  },
+  {
+   "id": "k20",
+   "f": "Wodurch wird der Femurkopf versorgt?",
+   "a": "Aa. circumflexae femoris medialis und lateralis (Kollumgefäße) und R. acetabularis der A. obturatoria im Lig. capitis femoris.",
+   "e": "1.12",
+   "ref": "S. 445 C"
+  },
+  {
+   "id": "k21",
+   "f": "Warum ist die mediale Schenkelhalsfraktur gefährlich?",
+   "a": "Sie liegt intrakapsulär und schädigt die Kollumgefäße → Femurkopfnekrose, Pseudarthrose.",
+   "e": "1.13",
+   "ref": "S. 447 F"
+  },
+  {
+   "id": "k22",
+   "f": "Wozu dient der Thomas-Handgriff?",
+   "a": "Er deckt eine Hüftbeugekontraktur auf, indem die Gegenhüfte maximal gebeugt und so die Beckenkippung aufgehoben wird.",
+   "e": "1.15",
+   "ref": "S. 450 B"
+  },
+  {
+   "id": "k23",
+   "f": "Wie entlastet ein Stock auf der Gegenseite eine kranke Hüfte?",
+   "a": "Die Stockkraft wirkt dem Drehmoment des Körpergewichts entgegen und senkt so die Gelenkbelastung.",
+   "e": "1.15",
+   "ref": "S. 451 E"
+  },
+  {
+   "id": "k24",
+   "f": "Wann erscheint der Knochenkern im Femurkopf?",
+   "a": "Etwa 5–6 Monate nach der Geburt; der Trochanter-major-Kern erst im 4. Lebensjahr.",
+   "e": "1.16",
+   "ref": "S. 452 B"
+  },
+  {
+   "id": "k25",
+   "f": "Wie wird die Säuglingshüfte untersucht?",
+   "a": "Per Ultraschall nach Graf, meist bei der U3 (4.–6. Woche); Röntgen erst nach dem 3. Monat sinnvoll.",
+   "e": "1.16",
+   "ref": "S. 452 C, 453 D"
+  },
+  {
+   "id": "k26",
+   "f": "Welche Gelenke bilden das Kniegelenk?",
+   "a": "Femorotibial- und Femoropatellargelenk; die Fibula ist nicht beteiligt.",
+   "e": "1.17",
+   "ref": "S. 454 A"
+  },
+  {
+   "id": "k27",
+   "f": "Außen- und Binnenbänder des Knies?",
+   "a": "Außen: Lig. patellae, Retinacula, Kollateralbänder, Ligg. poplitea. Binnen: beide Kreuzbänder, Lig. transversum genus, Lig. meniscofemorale posterius.",
+   "e": "1.18",
+   "ref": "S. 457 E"
+  },
+  {
+   "id": "k28",
+   "f": "Was ist eine Baker-Zyste?",
+   "a": "Vergrößerte, synoviagefüllte Bursa gastrocnemio-semimembranosa in der medialen Kniekehle.",
+   "e": "1.18",
+   "ref": "S. 456 B"
+  },
+  {
+   "id": "k29",
+   "f": "Verlauf von vorderem und hinterem Kreuzband?",
+   "a": "VKB: Area intercondylaris anterior → Innenfläche des lateralen Kondylus. HKB: Area intercondylaris posterior → Außenfläche des medialen Kondylus.",
+   "e": "1.19",
+   "ref": "S. 458 A"
+  },
+  {
+   "id": "k30",
+   "f": "Warum wird der Innenmeniskus häufiger verletzt?",
+   "a": "Er ist mit dem Innenband verwachsen und weit verankert, also weniger beweglich.",
+   "e": "1.20",
+   "ref": "S. 459 B, 461 F"
+  },
+  {
+   "id": "k31",
+   "f": "Wie werden Menisken ernährt?",
+   "a": "Außen (Bindegewebe) über Gefäße der A. poplitea, innen (Faserknorpel) nur über die Synovia.",
+   "e": "1.20",
+   "ref": "S. 460 B"
+  },
+  {
+   "id": "k32",
+   "f": "Liegen Kreuzbänder und Menisken intra- oder extraartikulär?",
+   "a": "Kreuzbänder intrakapsulär, aber extraartikulär (subsynovial); Menisken intraartikulär.",
+   "e": "1.21",
+   "ref": "S. 462 D"
+  },
+  {
+   "id": "k33",
+   "f": "Was ist die „tanzende Patella“?",
+   "a": "Zeichen eines Kniegelenkergusses: Die Patella federt auf der Flüssigkeit zurück.",
+   "e": "1.21",
+   "ref": "S. 463 F"
+  },
+  {
+   "id": "k34",
+   "f": "Warum ist die Innenrotation im Knie kleiner als die Außenrotation?",
+   "a": "Die Kreuzbänder wickeln sich bei Innenrotation umeinander (ca. 10° vs. 30–40°).",
+   "e": "1.22",
+   "ref": "S. 464 B"
+  },
+  {
+   "id": "k35",
+   "f": "Warum testet man das VKB im Lachman-Test bei 20–30° Beugung?",
+   "a": "Dann stabilisiert vor allem das VKB, die ischiokrurale Muskulatur hat kaum Hebel.",
+   "e": "1.22",
+   "ref": "S. 465 C"
+  },
+  {
+   "id": "k36",
+   "f": "Was ist die „Unhappy Triad“?",
+   "a": "Kombinierte Ruptur von VKB, Innenband und Innenmeniskus.",
+   "e": "1.23",
+   "ref": "S. 467 C"
+  },
+  {
+   "id": "k37",
+   "f": "Welche Kammern hat das untere Sprunggelenk?",
+   "a": "Hintere: Art. subtalaris. Vordere: Art. talocalcaneonavicularis. Grenze: Lig. talocalcaneum interosseum im Canalis tarsi.",
+   "e": "1.25",
+   "ref": "S. 470 B, 475 E"
+  },
+  {
+   "id": "k38",
+   "f": "Warum knickt man in Plantarflexion leichter um?",
+   "a": "Die Talusrolle ist hinten schmaler – in Plantarflexion fehlt die knöcherne Führung in der Gabel.",
+   "e": "1.27",
+   "ref": "S. 474 A"
+  },
+  {
+   "id": "k39",
+   "f": "Welche Bänder reißen beim Supinationstrauma?",
+   "a": "Vor allem Lig. talofibulare anterius, oft zusammen mit dem Lig. calcaneofibulare.",
+   "e": "1.28",
+   "ref": "S. 476 B"
+  },
+  {
+   "id": "k40",
+   "f": "Weber A, B, C?",
+   "a": "Außenknöchelfraktur unterhalb, auf Höhe oder oberhalb der Syndesmose; bei C ist die Syndesmose immer gerissen.",
+   "e": "1.28",
+   "ref": "S. 477 D"
+  },
+  {
+   "id": "k41",
+   "f": "Bewegungsumfang im OSG?",
+   "a": "Plantarflexion 40–50°, Dorsalextension 20–30° aus der Neutral-Null-Stellung.",
+   "e": "1.29",
+   "ref": "S. 479 D"
+  },
+  {
+   "id": "k42",
+   "f": "Wie verläuft die Achse des unteren Sprunggelenks?",
+   "a": "Von hinten-außen-unten nach vorn-innen-oben, ca. 30° zur Horizontalen und 20° zur Sagittalebene.",
+   "e": "1.29",
+   "ref": "S. 478 A"
+  },
+  {
+   "id": "k43",
+   "f": "Was verspannt das Quergewölbe?",
+   "a": "Vorfuß passiv das Lig. metatarsale transversum profundum; Mittelfuß aktiv der Caput transversum des M. adductor hallucis; Fußwurzel vor allem die Peroneus-longus-Sehne.",
+   "e": "1.30",
+   "ref": "S. 481 D–E"
+  },
+  {
+   "id": "k44",
+   "f": "Passive Verspanner des Längsgewölbes?",
+   "a": "Plantaraponeurose (wichtigste, langer Hebel), Lig. plantare longum und Pfannenband (schwächstes Glied).",
+   "e": "1.31",
+   "ref": "S. 482 B"
+  },
+  {
+   "id": "k45",
+   "f": "Wofür sind die plantaren Platten der Zehengrundgelenke da?",
+   "a": "Sie vergrößern als Gelenklippe die Pfanne der Grundphalanx um mehr als das Doppelte.",
+   "e": "1.32",
+   "ref": "S. 484 A"
+  },
+  {
+   "id": "k46",
+   "f": "Wie entsteht ein Hallux valgus?",
+   "a": "Meist sekundär nach Spreizfuß in engen Schuhen; der M. abductor hallucis wandert mit dem medialen Sesambein nach lateral und wirkt adduzierend.",
+   "e": "1.33",
+   "ref": "S. 486 B–C"
+  },
+  {
+   "id": "k47",
+   "f": "Stand- und Schwungphase beim Gehen?",
+   "a": "Standphase 60 %, Schwungphase 40 % des Gangzyklus; Schrittlänge ca. 2–3 Fußlängen.",
+   "e": "1.35",
+   "ref": "S. 491 D–E"
+  }
+ ],
+ "fragen": [
+  {
+   "id": "f0",
+   "f": "Wann verknöchert die Y-Fuge des Hüftbeins?",
+   "o": [
+    "mit 6–8 Jahren",
+    "mit 10–12 Jahren",
+    "mit 14–16 Jahren",
+    "mit 20–25 Jahren"
+   ],
+   "r": 2,
+   "x": "Die Fuge liegt im Acetabulum.",
+   "e": "1.3",
+   "ref": "S. 427 G"
+  },
+  {
+   "id": "f1",
+   "f": "Wie groß ist der CCD-Winkel beim Erwachsenen?",
+   "o": [
+    "110°",
+    "126°",
+    "140°",
+    "150°"
+   ],
+   "r": 1,
+   "x": "Neugeborene ca. 150°.",
+   "e": "1.4",
+   "ref": "S. 429 C"
+  },
+  {
+   "id": "f2",
+   "f": "Coxa valga führt vor allem zu …",
+   "o": [
+    "mehr Zugtrabekeln",
+    "mehr Drucktrabekeln",
+    "Antetorsion",
+    "Genu varum"
+   ],
+   "r": 1,
+   "x": "Vergrößerter Winkel → mehr Druckbeanspruchung.",
+   "e": "1.4",
+   "ref": "S. 429 C"
+  },
+  {
+   "id": "f3",
+   "f": "Normaler Antetorsionswinkel beim Erwachsenen?",
+   "o": [
+    "0°",
+    "12°",
+    "23°",
+    "40°"
+   ],
+   "r": 1,
+   "x": "23° ist die Tibiatorsion.",
+   "e": "1.5",
+   "ref": "S. 431 C"
+  },
+  {
+   "id": "f4",
+   "f": "Welche Struktur nimmt NICHT am Kniegelenk teil?",
+   "o": [
+    "Patella",
+    "Femur",
+    "Tibia",
+    "Fibula"
+   ],
+   "r": 3,
+   "x": "Sie bildet ein eigenes Gelenk mit der Tibia.",
+   "e": "1.17",
+   "ref": "S. 454 A"
+  },
+  {
+   "id": "f5",
+   "f": "Wie groß ist der Femorotibialwinkel?",
+   "o": [
+    "164°",
+    "174°",
+    "180°",
+    "186°"
+   ],
+   "r": 1,
+   "x": "Nach außen offener Winkel in der Frontalebene.",
+   "e": "1.2",
+   "ref": "S. 424 A"
+  },
+  {
+   "id": "f6",
+   "f": "Stärkstes Band des Körpers?",
+   "o": [
+    "Lig. patellae",
+    "Lig. iliofemorale",
+    "Lig. sacrotuberale",
+    "Lig. deltoideum"
+   ],
+   "r": 1,
+   "x": "Zugfestigkeit über 350 kg.",
+   "e": "1.11",
+   "ref": "S. 442 A"
+  },
+  {
+   "id": "f7",
+   "f": "Welche Funktion hat das Lig. capitis femoris?",
+   "o": [
+    "hemmt die Adduktion",
+    "führt Gefäße zum Femurkopf",
+    "hält das Becken im Stand",
+    "umfasst den Schenkelhals"
+   ],
+   "r": 1,
+   "x": "Mechanisch hat es keine Funktion.",
+   "e": "1.11",
+   "ref": "S. 442 B"
+  },
+  {
+   "id": "f8",
+   "f": "Was passiert bei Extension der Hüfte mit den Kapselbändern?",
+   "o": [
+    "sie entspannen",
+    "sie verschrauben sich und pressen den Kopf in die Pfanne",
+    "sie reißen",
+    "nichts"
+   ],
+   "r": 1,
+   "x": "Bei Flexion entspannen sie sich.",
+   "e": "1.11",
+   "ref": "S. 443 C"
+  },
+  {
+   "id": "f9",
+   "f": "Mediale Schenkelhalsfrakturen sind …",
+   "o": [
+    "meist extrakapsulär",
+    "immer intrakapsulär",
+    "selten",
+    "nur bei Kindern"
+   ],
+   "r": 1,
+   "x": "95 % der Schenkelhalsfrakturen; Gefahr der Kopfnekrose.",
+   "e": "1.13",
+   "ref": "S. 447 F"
+  },
+  {
+   "id": "f10",
+   "f": "Wie lässt sich eine Hüftbeugekontraktur nachweisen?",
+   "o": [
+    "Lachman-Test",
+    "Thomas-Handgriff",
+    "Ortolani-Zeichen",
+    "Schubladentest"
+   ],
+   "r": 1,
+   "x": "Beugen der Gegenhüfte hebt die Beckenkippung auf.",
+   "e": "1.15",
+   "ref": "S. 450 B"
+  },
+  {
+   "id": "f11",
+   "f": "Welches Kreuzbandbündel ist in Streckung gespannt?",
+   "o": [
+    "AM-Bündel des VKB",
+    "PL-Bündel des VKB",
+    "beide gleich",
+    "keines"
+   ],
+   "r": 1,
+   "x": "Das AM-Bündel spannt sich in Beugung.",
+   "e": "1.23",
+   "ref": "S. 466 B"
+  },
+  {
+   "id": "f12",
+   "f": "Welches Band ist mit dem Innenmeniskus verwachsen?",
+   "o": [
+    "Lig. collaterale fibulare",
+    "Lig. collaterale tibiale",
+    "Lig. cruciatum anterius",
+    "Lig. patellae"
+   ],
+   "r": 1,
+   "x": "Deshalb ist der Innenmeniskus weniger beweglich.",
+   "e": "1.20",
+   "ref": "S. 459 B"
+  },
+  {
+   "id": "f13",
+   "f": "Woraus bestehen die inneren zwei Drittel der Menisken?",
+   "o": [
+    "straffem Bindegewebe",
+    "Faserknorpel",
+    "hyalinem Knorpel",
+    "Fettgewebe"
+   ],
+   "r": 1,
+   "x": "Gefäßfrei, über die Synovia ernährt.",
+   "e": "1.20",
+   "ref": "S. 460 C"
+  },
+  {
+   "id": "f14",
+   "f": "Ab welcher Beugung ist der Recessus suprapatellaris ganz entfaltet?",
+   "o": [
+    "30°",
+    "80°",
+    "130°",
+    "160°"
+   ],
+   "r": 2,
+   "x": "Er dient als Reservefalte.",
+   "e": "1.21",
+   "ref": "S. 463 G"
+  },
+  {
+   "id": "f15",
+   "f": "Wie häufig ist die VKB-Ruptur im Vergleich zur HKB-Ruptur?",
+   "o": [
+    "gleich häufig",
+    "etwa 3-mal",
+    "etwa 10-mal",
+    "seltener"
+   ],
+   "r": 2,
+   "x": "Häufigste Knieverletzung überhaupt.",
+   "e": "1.23",
+   "ref": "S. 467 C"
+  },
+  {
+   "id": "f16",
+   "f": "Was trennt die beiden Kammern des unteren Sprunggelenks?",
+   "o": [
+    "Pfannenband",
+    "Lig. talocalcaneum interosseum",
+    "Lig. bifurcatum",
+    "Deltaband"
+   ],
+   "r": 1,
+   "x": "Es liegt im Canalis tarsi.",
+   "e": "1.27",
+   "ref": "S. 475 E"
+  },
+  {
+   "id": "f17",
+   "f": "Welche Stellung sichert das obere Sprunggelenk am besten knöchern?",
+   "o": [
+    "Plantarflexion",
+    "Dorsalextension",
+    "Inversion",
+    "Eversion"
+   ],
+   "r": 1,
+   "x": "Dann sitzt der breite vordere Teil der Talusrolle in der Gabel.",
+   "e": "1.27",
+   "ref": "S. 474 A"
+  },
+  {
+   "id": "f18",
+   "f": "Weber C bedeutet …",
+   "o": [
+    "Fraktur unterhalb der Syndesmose",
+    "Fraktur auf Höhe der Syndesmose",
+    "Fraktur oberhalb der Syndesmose, Syndesmose gerissen",
+    "Innenknöchelfraktur"
+   ],
+   "r": 2,
+   "x": "Bei B kann die Syndesmose gerissen sein.",
+   "e": "1.28",
+   "ref": "S. 477 D"
+  },
+  {
+   "id": "f19",
+   "f": "Schwächstes Glied der passiven Längsverspannung?",
+   "o": [
+    "Plantaraponeurose",
+    "Lig. plantare longum",
+    "Pfannenband",
+    "Achillessehne"
+   ],
+   "r": 2,
+   "x": "Es liegt dem Krümmungsscheitel am nächsten (kürzester Hebel).",
+   "e": "1.31",
+   "ref": "S. 482 B"
+  },
+  {
+   "id": "f20",
+   "f": "Wichtigster Verspanner des Quergewölbes im Fußwurzelbereich?",
+   "o": [
+    "M. tibialis anterior",
+    "M. fibularis longus",
+    "M. adductor hallucis",
+    "Plantaraponeurose"
+   ],
+   "r": 1,
+   "x": "Seine Sehne wird am Os cuboideum umgelenkt.",
+   "e": "1.30",
+   "ref": "S. 481 D"
+  },
+  {
+   "id": "f21",
+   "f": "Normale Großzehengrundvalgität?",
+   "o": [
+    "unter 8°",
+    "unter 20°",
+    "unter 35°",
+    "über 40°"
+   ],
+   "r": 1,
+   "x": "Der Intermetatarsalwinkel sollte höchstens 8° betragen.",
+   "e": "1.33",
+   "ref": "S. 486 A"
+  },
+  {
+   "id": "f22",
+   "f": "Anteil der Standphase am Gangzyklus?",
+   "o": [
+    "40 %",
+    "50 %",
+    "60 %",
+    "80 %"
+   ],
+   "r": 2,
+   "x": "Schwungphase 40 %.",
+   "e": "1.35",
+   "ref": "S. 491 D"
+  }
+ ],
+ "sortieren": {
+  "titel": "Knochen, Band, Sehne oder Gelenk?",
+  "ref": "S. 422–491",
+  "kategorien": [
+   "Knochen",
+   "Band",
+   "Sehne/Aponeurose",
+   "Gelenk"
+  ],
+  "items": [
+   {
+    "id": "s0",
+    "t": "Sustentaculum tali",
+    "k": 0
+   },
+   {
+    "id": "s1",
+    "t": "Os cuboideum",
+    "k": 0
+   },
+   {
+    "id": "s2",
+    "t": "Trochanter major",
+    "k": 0
+   },
+   {
+    "id": "s3",
+    "t": "Patella",
+    "k": 0
+   },
+   {
+    "id": "s4",
+    "t": "Tuber calcanei",
+    "k": 0
+   },
+   {
+    "id": "s5",
+    "t": "Lig. iliofemorale",
+    "k": 1
+   },
+   {
+    "id": "s6",
+    "t": "Lig. calcaneonaviculare plantare",
+    "k": 1
+   },
+   {
+    "id": "s7",
+    "t": "Lig. talofibulare anterius",
+    "k": 1
+   },
+   {
+    "id": "s8",
+    "t": "Lig. cruciatum anterius",
+    "k": 1
+   },
+   {
+    "id": "s9",
+    "t": "Zona orbicularis",
+    "k": 1
+   },
+   {
+    "id": "s10",
+    "t": "Plantaraponeurose",
+    "k": 2
+   },
+   {
+    "id": "s11",
+    "t": "Achillessehne",
+    "k": 2
+   },
+   {
+    "id": "s12",
+    "t": "Tractus iliotibialis",
+    "k": 2
+   },
+   {
+    "id": "s13",
+    "t": "Popliteussehne",
+    "k": 2
+   },
+   {
+    "id": "s14",
+    "t": "Art. subtalaris",
+    "k": 3
+   },
+   {
+    "id": "s15",
+    "t": "Chopart-Gelenk",
+    "k": 3
+   },
+   {
+    "id": "s16",
+    "t": "Art. femoropatellaris",
+    "k": 3
+   },
+   {
+    "id": "s17",
+    "t": "Art. coxae",
+    "k": 3
+   }
+  ]
+ },
+ "tabellen": [
+  {
+   "id": "winkel",
+   "titel": "Winkel am Bein",
+   "ref": "S. 424 A, 429 C, 431 C, 434 B, 435 C, 441 C–D",
+   "einheit": "1.2",
+   "spalten": [
+    "Erwachsene",
+    "Neugeborene"
+   ],
+   "zeilen": [
+    [
+     "CCD-Winkel (°)",
+     [
+      "126",
+      "150"
+     ]
+    ],
+    [
+     "Antetorsionswinkel (°)",
+     [
+      "12",
+      "30–40"
+     ]
+    ],
+    [
+     "transversale Pfannenneigung (°)",
+     [
+      "40",
+      "51"
+     ]
+    ],
+    [
+     "ventraler Pfannenöffnungswinkel (°)",
+     [
+      "17",
+      "7"
+     ]
+    ],
+    [
+     "Femorotibialwinkel (°)",
+     [
+      "174",
+      "–"
+     ]
+    ],
+    [
+     "Tibiatorsion (°)",
+     [
+      "23",
+      "–"
+     ]
+    ]
+   ],
+   "fuss": "Gedankenstrich = im Buch für Neugeborene nicht angegeben."
+  },
+  {
+   "id": "bewegung",
+   "titel": "Bewegungsumfang am Fuß (in Grad)",
+   "ref": "S. 479 D–F",
+   "einheit": "1.29",
+   "spalten": [
+    "Wert"
+   ],
+   "zeilen": [
+    [
+     "OSG Plantarflexion",
+     [
+      "40–50"
+     ]
+    ],
+    [
+     "OSG Dorsalextension",
+     [
+      "20–30"
+     ]
+    ],
+    [
+     "USG Inversion",
+     [
+      "20"
+     ]
+    ],
+    [
+     "USG Eversion",
+     [
+      "10"
+     ]
+    ],
+    [
+     "Vorfuß Pronation",
+     [
+      "20"
+     ]
+    ],
+    [
+     "Vorfuß Supination",
+     [
+      "40"
+     ]
+    ]
+   ],
+   "fuss": "Aus der Neutral-Null-Stellung, Fuß unbelastet."
+  },
+  {
+   "id": "baender-osg",
+   "titel": "Bänder des oberen Sprunggelenks",
+   "ref": "S. 477 E",
+   "einheit": "1.28",
+   "spalten": [
+    "Gruppe"
+   ],
+   "zeilen": [
+    [
+     "Lig. talofibulare anterius",
+     [
+      "Außenband"
+     ]
+    ],
+    [
+     "Lig. calcaneofibulare",
+     [
+      "Außenband"
+     ]
+    ],
+    [
+     "Lig. talofibulare posterius",
+     [
+      "Außenband"
+     ]
+    ],
+    [
+     "Lig. deltoideum",
+     [
+      "Innenband"
+     ]
+    ],
+    [
+     "Lig. tibiofibulare anterius",
+     [
+      "Syndesmose"
+     ]
+    ],
+    [
+     "Lig. tibiofibulare posterius",
+     [
+      "Syndesmose"
+     ]
+    ]
+   ],
+   "fuss": "Gruppen: Außenband, Innenband, Syndesmose."
+  }
+ ]
+}

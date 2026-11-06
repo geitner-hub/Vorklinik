@@ -1,0 +1,374 @@
+{
+ "id": "leitungsbahnen-penis",
+ "buch": "Prometheus LernAtlas – Allgemeine Anatomie und Bewegungssystem",
+ "teil": "Rumpfwand – Topografie der Leitungsbahnen",
+ "titel": "Leitungsbahnen des Penis",
+ "seiten": "S. 238–239",
+ "bereiche": [
+  [
+   238,
+   239
+  ]
+ ],
+ "intro": "Äußere männliche Geschlechtsorgane: arterielle Versorgung, venöser Abfluss, Innervation, Kohabitationsreflexe und Mechanismus der Erektion – Kernaussagen.",
+ "einheiten": [
+  {
+   "nr": "5.1",
+   "titel": "Äußere männliche Geschlechtsorgane: Leitungsbahnen des Penis",
+   "seite": 238
+  }
+ ],
+ "strukturen": {
+  "a-pudenda-interna": {
+   "lat": "Arteria pudenda interna",
+   "de": "innere Schamarterie",
+   "info": "Versorgt Penis und Hodensack; gibt A. rectalis inferior und A. perinealis ab und teilt sich im oberflächlichen Dammraum in ihre Endäste.",
+   "ref": "S. 238 C",
+   "rubrik": "weitere"
+  },
+  "a-dorsalis-penis": {
+   "lat": "Arteria dorsalis penis",
+   "de": "Penisrückenarterie",
+   "info": "Endast der A. pudenda interna auf dem Penisrücken.",
+   "ref": "S. 238 B–C",
+   "rubrik": "weitere"
+  },
+  "a-profunda-penis": {
+   "lat": "Arteria profunda penis",
+   "de": "tiefe Penisarterie",
+   "info": "Endast im Schwellkörper; ihre Rankenarterien füllen die Kavernen.",
+   "ref": "S. 238 C, 239 G",
+   "rubrik": "weitere"
+  },
+  "a-bulbi-penis": {
+   "lat": "Arteria bulbi penis",
+   "de": "Arterie des Harnröhrenschwellkörpers",
+   "info": "Endast der A. pudenda interna zum Bulbus penis.",
+   "ref": "S. 238 C",
+   "rubrik": "weitere"
+  },
+  "aa-helicinae": {
+   "lat": "Arteriae helicinae",
+   "de": "Rankenarterien",
+   "info": "Im schlaffen Zustand durch Intimapolster verengt; öffnen sich bei der Erektion.",
+   "ref": "S. 239 G",
+   "rubrik": "weitere"
+  },
+  "v-dorsalis-profunda-penis": {
+   "lat": "Vena dorsalis profunda penis",
+   "de": "tiefe Penisrückenvene",
+   "info": "Fließt zum Plexus venosus prostaticus; zieht dabei durch einen Spalt zwischen Lig. arcuatum pubis und Lig. transversum perinei.",
+   "ref": "S. 238 D",
+   "rubrik": "weitere"
+  },
+  "vv-dorsales-superficiales": {
+   "lat": "Venae dorsales superficiales penis",
+   "de": "oberflächliche Penisrückenvenen",
+   "info": "Fließen über die Vv. pudendae externae in die V. saphena magna.",
+   "ref": "S. 238 D",
+   "rubrik": "weitere"
+  },
+  "n-pudendus": {
+   "lat": "Nervus pudendus",
+   "de": "Schamnerv",
+   "info": "Teilt sich nach den Nn. rectales inferiores in die Nn. perineales; versorgt Damm, hinteren Hodensack, Schwellkörpermuskeln und Penishaut.",
+   "ref": "S. 238 E",
+   "rubrik": "weitere"
+  },
+  "n-dorsalis-penis": {
+   "lat": "Nervus dorsalis penis",
+   "de": "Penisrückennerv",
+   "info": "Sensibler Ast des N. pudendus; leitet Berührungsreize zum Sakralmark.",
+   "ref": "S. 238 E, 239 F",
+   "rubrik": "weitere"
+  },
+  "corpora-cavernosa": {
+   "lat": "Corpora cavernosa penis",
+   "de": "Penisschwellkörper",
+   "info": "Bälkchengerüst aus Bindegewebe und glatter Muskulatur mit endothelausgekleideten Kavernen; umgeben von der Tunica albuginea.",
+   "ref": "S. 239 G",
+   "rubrik": "weitere"
+  },
+  "corpus-spongiosum": {
+   "lat": "Corpus spongiosum penis",
+   "de": "Harnröhrenschwellkörper",
+   "info": "Venengeflechte verhindern, dass die Harnröhre bei der Erektion zugedrückt wird.",
+   "ref": "S. 238 A, 239 G",
+   "rubrik": "weitere"
+  },
+  "tunica-albuginea": {
+   "lat": "Tunica albuginea",
+   "de": "derbe Schwellkörperhülle",
+   "info": "Nur begrenzt dehnbar; spannt sich und drückt die abführenden Venen zu.",
+   "ref": "S. 239 G",
+   "rubrik": "weitere"
+  },
+  "erektionszentrum": {
+   "lat": "Centrum erectionis (S2–S4)",
+   "de": "Erektionszentrum",
+   "info": "Im Sakralmark; schaltet auf parasympathische Nn. splanchnici pelvici um (Gefäßerweiterung).",
+   "ref": "S. 239 F",
+   "rubrik": "weitere"
+  },
+  "ejakulationszentrum": {
+   "lat": "Centrum ejaculationis (Th12–L2)",
+   "de": "Ejakulationszentrum",
+   "info": "Im Rückenmark; schaltet auf sympathische Nn. hypogastrici um (Kontraktion von Samenwegen und Drüsen).",
+   "ref": "S. 239 F",
+   "rubrik": "weitere"
+  },
+  "no-cgmp": {
+   "lat": "NO – cGMP",
+   "de": "Botenstoffkette der Erektion",
+   "info": "NO aktiviert die Guanylatcyclase, cGMP erweitert die Gefäße; Sildenafil hemmt den Abbau von cGMP.",
+   "ref": "S. 239 F",
+   "rubrik": "weitere"
+  },
+  "lig-arcuatum-pubis": {
+   "lat": "Ligamentum arcuatum pubis",
+   "de": "Schambogenband",
+   "info": "Unter der Symphyse; zwischen ihm und dem Lig. transversum perinei zieht die V. dorsalis profunda penis hindurch.",
+   "ref": "S. 238 A, D",
+   "rubrik": "band"
+  },
+  "lig-transversum-perinei": {
+   "lat": "Ligamentum transversum perinei",
+   "de": "queres Dammband",
+   "info": "Begrenzt mit dem Lig. arcuatum pubis den Durchtritt der tiefen Penisrückenvene.",
+   "ref": "S. 238 D",
+   "rubrik": "band"
+  },
+  "priapismus": {
+   "lat": "Priapismus",
+   "de": "Dauererektion",
+   "info": "Ungewollte, anhaltende, schmerzhafte Erektion, z. B. bei Blutkrankheiten; Therapie zunächst medikamentös.",
+   "ref": "S. 239 G",
+   "rubrik": "weitere"
+  }
+ },
+ "karten": [
+  {
+   "id": "k0",
+   "f": "Welche Arterie versorgt Penis und Hodensack?",
+   "a": "Die A. pudenda interna mit den Endästen A. dorsalis penis, A. profunda penis, A. bulbi penis und A. urethralis.",
+   "e": "5.1",
+   "ref": "S. 238 C"
+  },
+  {
+   "id": "k1",
+   "f": "Wohin fließt das Blut der tiefen und der oberflächlichen Penisvenen?",
+   "a": "Tief: über die V. dorsalis profunda penis zum Plexus venosus prostaticus. Oberflächlich: über die Vv. pudendae externae in die V. saphena magna.",
+   "e": "5.1",
+   "ref": "S. 238 D"
+  },
+  {
+   "id": "k2",
+   "f": "Durch welchen Spalt zieht die V. dorsalis profunda penis?",
+   "a": "Zwischen Lig. arcuatum pubis und Lig. transversum perinei, direkt unter der Symphyse.",
+   "e": "5.1",
+   "ref": "S. 238 D"
+  },
+  {
+   "id": "k3",
+   "f": "Welcher Nerv versorgt Penis und Damm?",
+   "a": "Der N. pudendus mit Nn. perineales (motorisch, Haut) und N. dorsalis penis (sensibel).",
+   "e": "5.1",
+   "ref": "S. 238 E"
+  },
+  {
+   "id": "k4",
+   "f": "Wo liegen Erektions- und Ejakulationszentrum?",
+   "a": "Erektion: Sakralmark S2–S4 (parasympathisch). Ejakulation: Th12–L2 (sympathisch).",
+   "e": "5.1",
+   "ref": "S. 239 F"
+  },
+  {
+   "id": "k5",
+   "f": "Wie kommt die Erektion zustande?",
+   "a": "Rankenarterien öffnen sich, die Kavernen füllen sich, die gespannte Tunica albuginea drosselt den venösen Abfluss.",
+   "e": "5.1",
+   "ref": "S. 239 G"
+  },
+  {
+   "id": "k6",
+   "f": "Wie wirkt Sildenafil?",
+   "a": "Es hemmt den Abbau von cGMP, das über NO gebildet wird und die Gefäße erweitert.",
+   "e": "5.1",
+   "ref": "S. 239 F"
+  },
+  {
+   "id": "k7",
+   "f": "Warum wird die Harnröhre bei der Erektion nicht abgedrückt?",
+   "a": "Die Venengeflechte im Corpus spongiosum und in der Glans verhindern es.",
+   "e": "5.1",
+   "ref": "S. 239 G"
+  }
+ ],
+ "fragen": [
+  {
+   "id": "f0",
+   "f": "Aus welcher Arterie stammt die A. dorsalis penis?",
+   "o": [
+    "A. pudenda externa",
+    "A. pudenda interna",
+    "A. obturatoria",
+    "A. epigastrica inferior"
+   ],
+   "r": 1,
+   "x": "Endast im oberflächlichen Dammraum.",
+   "e": "5.1",
+   "ref": "S. 238 C"
+  },
+  {
+   "id": "f1",
+   "f": "Wo liegt das Erektionszentrum?",
+   "o": [
+    "Th12–L2",
+    "L4–S1",
+    "S2–S4",
+    "Hirnstamm"
+   ],
+   "r": 2,
+   "x": "Parasympathische Umschaltung auf die Nn. splanchnici pelvici.",
+   "e": "5.1",
+   "ref": "S. 239 F"
+  },
+  {
+   "id": "f2",
+   "f": "Welche Fasern bewirken die Emission bei der Ejakulation?",
+   "o": [
+    "parasympathische",
+    "sympathische (Nn. hypogastrici)",
+    "nur sensible",
+    "keine"
+   ],
+   "r": 1,
+   "x": "Das Ejakulationszentrum liegt bei Th12–L2.",
+   "e": "5.1",
+   "ref": "S. 239 F"
+  },
+  {
+   "id": "f3",
+   "f": "Wohin fließen die Vv. dorsales superficiales penis?",
+   "o": [
+    "Plexus venosus prostaticus",
+    "V. saphena magna",
+    "V. renalis",
+    "V. iliaca interna"
+   ],
+   "r": 1,
+   "x": "Über die Vv. pudendae externae.",
+   "e": "5.1",
+   "ref": "S. 238 D"
+  },
+  {
+   "id": "f4",
+   "f": "Welcher Botenstoff aktiviert die Guanylatcyclase im Schwellkörper?",
+   "o": [
+    "Adrenalin",
+    "NO",
+    "Acetylcholin direkt",
+    "Histamin"
+   ],
+   "r": 1,
+   "x": "Es entsteht cGMP.",
+   "e": "5.1",
+   "ref": "S. 239 F"
+  }
+ ],
+ "sortieren": {
+  "titel": "Arterie, Vene oder Nerv?",
+  "ref": "S. 238 C–E",
+  "kategorien": [
+   "Arterie",
+   "Vene",
+   "Nerv"
+  ],
+  "items": [
+   {
+    "id": "s0",
+    "t": "A. pudenda interna",
+    "k": 0
+   },
+   {
+    "id": "s1",
+    "t": "A. profunda penis",
+    "k": 0
+   },
+   {
+    "id": "s2",
+    "t": "A. bulbi penis",
+    "k": 0
+   },
+   {
+    "id": "s3",
+    "t": "Aa. helicinae",
+    "k": 0
+   },
+   {
+    "id": "s4",
+    "t": "V. dorsalis profunda penis",
+    "k": 1
+   },
+   {
+    "id": "s5",
+    "t": "Vv. dorsales superficiales penis",
+    "k": 1
+   },
+   {
+    "id": "s6",
+    "t": "V. pudenda interna",
+    "k": 1
+   },
+   {
+    "id": "s7",
+    "t": "N. pudendus",
+    "k": 2
+   },
+   {
+    "id": "s8",
+    "t": "N. dorsalis penis",
+    "k": 2
+   },
+   {
+    "id": "s9",
+    "t": "Nn. perineales",
+    "k": 2
+   },
+   {
+    "id": "s10",
+    "t": "Nn. splanchnici pelvici",
+    "k": 2
+   }
+  ]
+ },
+ "tabellen": [
+  {
+   "id": "zentren",
+   "titel": "Zentren und Fasern",
+   "ref": "S. 239 F",
+   "einheit": "5.1",
+   "spalten": [
+    "Segmente",
+    "Fasern"
+   ],
+   "zeilen": [
+    [
+     "Erektionszentrum",
+     [
+      "S2–S4",
+      "parasympathisch"
+     ]
+    ],
+    [
+     "Ejakulationszentrum",
+     [
+      "Th12–L2",
+      "sympathisch"
+     ]
+    ]
+   ],
+   "fuss": "Segmente mit Bindestrich, z. B. S2-S4."
+  }
+ ]
+}
