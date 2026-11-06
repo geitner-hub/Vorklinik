@@ -1,0 +1,1029 @@
+{
+ "id": "allg-faszien-gefaesse",
+ "buch": "Prometheus LernAtlas – Allgemeine Anatomie und Bewegungssystem",
+ "teil": "Allgemeine Anatomie",
+ "titel": "Faszien, Gefäße und lymphatisches System",
+ "seiten": "S. 66–77",
+ "bereiche": [
+  [
+   66,
+   77
+  ]
+ ],
+ "intro": "Muskel- und Rumpffaszien mit Kompartmentsyndrom, Kreislaufsystem, Wandbau von Arterien und Venen, Mikrozirkulation und das Lymphsystem – die prüfungsrelevanten Kernaussagen.",
+ "einheiten": [
+  {
+   "nr": "6.1",
+   "titel": "Muskelfaszien: Aufbau und Funktion",
+   "seite": 66
+  },
+  {
+   "nr": "6.2",
+   "titel": "Systematik der Faszien an Rumpf und Körperhöhlen",
+   "seite": 68
+  },
+  {
+   "nr": "7.1",
+   "titel": "Übersicht über das kardiovaskuläre System",
+   "seite": 70
+  },
+  {
+   "nr": "7.2",
+   "titel": "Aufbau von Arterien und Venen",
+   "seite": 72
+  },
+  {
+   "nr": "7.3",
+   "titel": "Terminale Strombahn und Flüssigkeitsaustausch",
+   "seite": 74
+  },
+  {
+   "nr": "8.1",
+   "titel": "Das lymphatische System",
+   "seite": 76
+  }
+ ],
+ "strukturen": {
+  "fascia": {
+   "lat": "Fascia",
+   "de": "Faszie",
+   "info": "Abgrenzbare Bindegewebshülle oder -platte; man unterscheidet Muskel-, Rumpfwand-, Körperhöhlen- und subkutane Faszien.",
+   "ref": "S. 66 A"
+  },
+  "fascia-musculi": {
+   "lat": "Fascia musculi",
+   "de": "Muskelfaszie",
+   "info": "Im engeren Sinn die äußerste Bindegewebsschicht über dem Epimysium eines Muskels.",
+   "ref": "S. 66 A"
+  },
+  "septum-intermusculare": {
+   "lat": "Septum intermusculare",
+   "de": "Muskelscheidewand",
+   "info": "Am Knochen befestigte Bindegewebsplatte dort, wo zwei Gruppenfaszien aufeinandertreffen.",
+   "ref": "S. 66 A"
+  },
+  "compartimentum": {
+   "lat": "Compartimentum",
+   "de": "Muskelloge (Kompartiment)",
+   "info": "Osteofibröser Raum aus Faszie, Septen und Knochen, in dem Muskeln, Gefäße und Nerven liegen.",
+   "ref": "S. 66 A, 67 C"
+  },
+  "retinaculum": {
+   "lat": "Retinaculum",
+   "de": "Halteband",
+   "info": "Aponeurotisch verstärkte Faszie am Übergang Unterschenkel/Fuß oder Unterarm/Hand.",
+   "ref": "S. 66 A"
+  },
+  "tractus-iliotibialis": {
+   "lat": "Tractus iliotibialis",
+   "de": "Tractus iliotibialis",
+   "info": "Laterale Längsverstärkung der Fascia lata; mindert als Zuggurtung die Biegebelastung des Femurs.",
+   "ref": "S. 66 A–B"
+  },
+  "scherengitter": {
+   "lat": "Dispositio cancellata",
+   "de": "Scherengitteranordnung",
+   "info": "Schichten aus Kollagen-Typ-I-Fasern mit wechselnden Steigungswinkeln: belastbar in mehreren Richtungen und anpassungsfähig an die Muskelform.",
+   "ref": "S. 66 A b, B"
+  },
+  "kollagenfasern-faszie": {
+   "lat": "Fibrae collagenosae",
+   "de": "Kollagenfasern der Faszie",
+   "info": "Etwa 5 % dehnbar, durch welligen Verlauf ca. 3 % verlängerbar, sehr reißfest (50–100 N/mm²); richten sich nach den Zugkräften aus.",
+   "ref": "S. 66 A"
+  },
+  "kompartmentsyndrom": {
+   "lat": "Syndroma compartimenti",
+   "de": "Kompartmentsyndrom",
+   "info": "Druckanstieg in einer Loge (z. B. Hämatom, Ödem) stört die Kapillardurchblutung; ab etwa 4 h irreversible Schäden. Therapie: Faszienspaltung.",
+   "ref": "S. 67 C"
+  },
+  "tibialis-anterior-syndrom": {
+   "lat": "Syndroma m. tibialis anterioris",
+   "de": "Tibialis-anterior-Syndrom",
+   "info": "Häufigstes Kompartmentsyndrom in der Extensorenloge; Schmerz, Dehnungsschmerz, Schwäche, Sensibilitätsstörung – distale Pulse meist tastbar.",
+   "ref": "S. 67 C"
+  },
+  "fascia-thoracolumbalis": {
+   "lat": "Fascia thoracolumbalis",
+   "de": "Rückenfaszie",
+   "info": "Umhüllt den M. erector spinae, dient dem M. latissimus dorsi als Ursprung; dicht innerviert (Nozi-, Propriozeptoren, viel Sympathikus) und schmerzempfindlich.",
+   "ref": "S. 67 D"
+  },
+  "fascia-investiens-superficialis": {
+   "lat": "Fascia investiens superficialis",
+   "de": "oberflächliche Rumpfwandfaszie",
+   "info": "Trennt die Rumpfwandmuskulatur von Haut und Unterhaut und macht beide gegeneinander verschieblich.",
+   "ref": "S. 68 A"
+  },
+  "fascia-investiens-intermedia": {
+   "lat": "Fascia investiens intermedia",
+   "de": "mittlere Rumpfwandfaszie",
+   "info": "Liegt zwischen den Muskelschichten der Rumpfwand.",
+   "ref": "S. 68 A"
+  },
+  "fascia-investiens-profunda": {
+   "lat": "Fascia investiens profunda",
+   "de": "tiefe Rumpfwandfaszie",
+   "info": "Innerste Schicht der Rumpfwand; am Bauch als Fascia transversalis bezeichnet.",
+   "ref": "S. 68 A, 69 D"
+  },
+  "fascia-parietalis": {
+   "lat": "Fascia parietalis",
+   "de": "wandständige Körperhöhlenfaszie",
+   "info": "Äußerste Begrenzung der Körperhöhle, oft mit der tiefen Rumpfwandfaszie verwachsen; innen liegt das parietale Peritoneum.",
+   "ref": "S. 68 A"
+  },
+  "fascia-visceralis": {
+   "lat": "Fascia visceralis",
+   "de": "organständige Faszie",
+   "info": "Umhüllt Organe, besonders kräftig im Becken um Harnblase und Rectum.",
+   "ref": "S. 68 A"
+  },
+  "fascia-extraperitonealis": {
+   "lat": "Fascia extraperitonealis",
+   "de": "extraperitoneale Faszie",
+   "info": "Bindegewebe zwischen parietaler und viszeraler Faszie, führt Leitungsbahnen; im Thorax entsprechend Fascia extraserosalis.",
+   "ref": "S. 68 A, 69 B"
+  },
+  "fascia-transversalis": {
+   "lat": "Fascia transversalis",
+   "de": "Fascia transversalis",
+   "info": "Historischer Name der tiefen Rumpfwandfaszie am Bauch; am Leistenkanal als Fascia spermatica interna fortgesetzt.",
+   "ref": "S. 69 D"
+  },
+  "fascia-endothoracica": {
+   "lat": "Fascia endothoracica",
+   "de": "Fascia endothoracica",
+   "info": "Faszie auf der Innenseite der Thoraxwand; über dem Zwerchfell Fascia phrenicopleuralis.",
+   "ref": "S. 69 D"
+  },
+  "fascia-clavipectoralis": {
+   "lat": "Fascia clavipectoralis",
+   "de": "Fascia clavipectoralis",
+   "info": "Mittlere Faszie für M. pectoralis minor und M. subclavius.",
+   "ref": "S. 69 D"
+  },
+  "thoraxwand-zwei-muskelwaende": {
+   "lat": "Parietes musculares thoracis",
+   "de": "zwei Muskelwände am Thorax",
+   "info": "Innen die dreischichtigen Interkostalmuskeln (entsprechen der Bauchwand), außen die Muskeln für Arm und Schultergürtel.",
+   "ref": "S. 69 B"
+  },
+  "arteria-vena": {
+   "lat": "Arteria / Vena",
+   "de": "Arterie und Vene",
+   "info": "Benannt nach der Flussrichtung: Arterien führen vom Herzen weg, Venen zum Herzen – unabhängig vom Sauerstoffgehalt.",
+   "ref": "S. 70 A"
+  },
+  "lungenkreislauf": {
+   "lat": "Circulatio pulmonalis",
+   "de": "kleiner Kreislauf",
+   "info": "Aa. und Vv. pulmonales: sauerstoffarmes Blut zur Lunge, sauerstoffreiches zum linken Vorhof.",
+   "ref": "S. 70 A"
+  },
+  "koerperkreislauf": {
+   "lat": "Circulatio systemica",
+   "de": "großer Kreislauf",
+   "info": "Aorta und Hohlvenen mit allen Ästen.",
+   "ref": "S. 70 A"
+  },
+  "hochdrucksystem": {
+   "lat": "Systema pressionis altae",
+   "de": "Hochdrucksystem",
+   "info": "Arterien des Körperkreislaufs (ca. 100 mmHg); Versorgungsfunktion.",
+   "ref": "S. 70 B, 72 B"
+  },
+  "niederdrucksystem": {
+   "lat": "Systema pressionis humilis",
+   "de": "Niederdrucksystem",
+   "info": "Venen (ca. 20 mmHg) und auch die Lungenarterien; Reservoir für rund 80 % des Blutvolumens.",
+   "ref": "S. 70 B, 72 B"
+  },
+  "windkessel": {
+   "lat": "Functio cisternae aeris",
+   "de": "Windkesselfunktion",
+   "info": "Herznahe elastische Arterien dehnen sich in der Systole und geben das Volumen in der Diastole gleichmäßig weiter – keine Druckspitzen.",
+   "ref": "S. 70 B"
+  },
+  "arterie-elastischer-typ": {
+   "lat": "Arteria typi elastici",
+   "de": "Arterie vom elastischen Typ",
+   "info": "Herznah (z. B. Aorta); wandreich an elastischen Fasern, Windkessel.",
+   "ref": "S. 70 B, 72 A a"
+  },
+  "arterie-muskulaerer-typ": {
+   "lat": "Arteria typi muscularis",
+   "de": "Arterie vom muskulären Typ",
+   "info": "Herzfern; regelt durch Vasokonstriktion und -dilatation Widerstand und lokale Durchblutung.",
+   "ref": "S. 70 B, 72 A b–c"
+  },
+  "kapazitaetsgefaesse": {
+   "lat": "Vasa capacitatis",
+   "de": "Kapazitätsgefäße",
+   "info": "Venen als Blutspeicher dank hoher Dehnbarkeit.",
+   "ref": "S. 70 B"
+  },
+  "pfortader": {
+   "lat": "Vena portae hepatis",
+   "de": "Pfortader",
+   "info": "Führt nährstoffreiches Blut aus den unpaaren Bauchorganen zuerst zur Leber.",
+   "ref": "S. 71 D"
+  },
+  "venen-ober-tief": {
+   "lat": "Venae superficiales / profundae / perforantes",
+   "de": "oberflächliche, tiefe und Perforansvenen",
+   "info": "Oberflächliche (epifasziale) und tiefe Venen sind über Perforansvenen verbunden.",
+   "ref": "S. 71 D"
+  },
+  "tunica-intima": {
+   "lat": "Tunica intima",
+   "de": "Intima",
+   "info": "Endothel auf Basalmembran mit dünnem subendothelialem Bindegewebe; bei muskulären Arterien durch die Membrana elastica interna begrenzt.",
+   "ref": "S. 72 C"
+  },
+  "tunica-media": {
+   "lat": "Tunica media",
+   "de": "Media",
+   "info": "Überwiegend zirkuläre glatte Muskulatur mit elastischen und kollagenen Fasern; bei Venen locker und bindegewebsreich.",
+   "ref": "S. 72 C, 73 D"
+  },
+  "tunica-adventitia": {
+   "lat": "Tunica externa (adventitia)",
+   "de": "Adventitia",
+   "info": "Längsorientiertes Bindegewebe; führt vegetative Nerven und bei großen Gefäßen die Vasa vasorum.",
+   "ref": "S. 72 C"
+  },
+  "membrana-elastica-interna": {
+   "lat": "Membrana elastica interna",
+   "de": "Membrana elastica interna",
+   "info": "Grenze zwischen Intima und Media bei muskulären Arterien; fehlt den Venen.",
+   "ref": "S. 72 C, 73 D"
+  },
+  "vasa-vasorum": {
+   "lat": "Vasa vasorum",
+   "de": "Gefäße der Gefäßwand",
+   "info": "Ernähren die äußeren Wandschichten großer Gefäße über die Adventitia.",
+   "ref": "S. 72 C"
+  },
+  "venenklappen": {
+   "lat": "Valvulae venosae",
+   "de": "Venenklappen",
+   "info": "Taschenklappen kleiner und mittlerer Venen; verhindern den Rückstrom.",
+   "ref": "S. 72 A g–h, 73 F"
+  },
+  "venoeser-rueckstrom": {
+   "lat": "Reditus venosus",
+   "de": "venöser Rückstrom",
+   "info": "Venenklappen, arteriovenöse Kopplung (Pulswelle auf Begleitvene), Muskelpumpe und Sogwirkung des Herzens (Ventilebene).",
+   "ref": "S. 73 F"
+  },
+  "hydrostatische-indifferenzebene": {
+   "lat": "Planum indifferentiae hydrostaticae",
+   "de": "hydrostatische Indifferenzebene",
+   "info": "Höhe knapp unter dem Zwerchfell, an der sich der Druck beim Aufstehen nicht ändert; beim Stehen sacken ca. 500 ml in die Beinvenen.",
+   "ref": "S. 73 E"
+  },
+  "varizen": {
+   "lat": "Varices",
+   "de": "Krampfadern",
+   "info": "Folge von Venenklappeninsuffizienz und Rückstau, z. B. bei langem Stehen oder Sitzen ohne Muskelpumpe.",
+   "ref": "S. 73 F"
+  },
+  "terminale-strombahn": {
+   "lat": "Microcirculatio",
+   "de": "terminale Strombahn",
+   "info": "Arteriolen, Kapillaren und Venolen – Ort des Stoff-, Gas- und Flüssigkeitsaustauschs.",
+   "ref": "S. 72 B, 74 B"
+  },
+  "kapillare": {
+   "lat": "Vas capillare",
+   "de": "Kapillare",
+   "info": "5–15 µm weit, nur Endothel und Basalmembran mit aufliegenden Perizyten; Blut fließt dort ca. 0,05 cm/s.",
+   "ref": "S. 74 B, 75 D"
+  },
+  "perizyten": {
+   "lat": "Pericyti",
+   "de": "Perizyten",
+   "info": "Zellen außen auf der Kapillarwand; u. a. an Gefäßbildung beteiligt.",
+   "ref": "S. 75 D"
+  },
+  "praekapillaerer-sphinkter": {
+   "lat": "Sphincter praecapillaris",
+   "de": "präkapillärer Sphinkter",
+   "info": "Ringmuskel am Abgang der Kapillaren von der Metarteriole; in Ruhe sind nur 25–35 % der Kapillaren durchblutet.",
+   "ref": "S. 75 C"
+  },
+  "av-anastomose": {
+   "lat": "Anastomosis arteriolovenularis",
+   "de": "arteriovenöse Anastomose",
+   "info": "Kurzschluss zwischen Arteriole und Venole unter Umgehung des Kapillarbetts.",
+   "ref": "S. 75 C"
+  },
+  "endotheltypen": {
+   "lat": "Typi endothelii",
+   "de": "Endotheltypen",
+   "info": "I geschlossen (Nervensystem), II geschlossen mit Pinozytose (Herz- und Skelettmuskel), III gefenstert mit Diaphragma (Magen-Darm), IV mit Lücken ohne Basalmembran (Leber).",
+   "ref": "S. 75 D"
+  },
+  "filtration-resorption": {
+   "lat": "Filtratio et resorptio",
+   "de": "Filtration und Resorption",
+   "info": "Arteriell überwiegt der Blutdruck (35 vs. 25 mmHg kolloidosmotisch) → Filtration; venös überwiegt der kolloidosmotische Druck (15 vs. 25) → Resorption.",
+   "ref": "S. 75 E"
+  },
+  "oedem": {
+   "lat": "Oedema",
+   "de": "Ödem",
+   "info": "Dauerhafte Flüssigkeitsansammlung im Gewebe, wenn Filtration, Resorption oder Lymphabfluss gestört sind.",
+   "ref": "S. 75 E"
+  },
+  "lymphgefaesssystem": {
+   "lat": "Systema lymphaticum",
+   "de": "Lymphgefäßsystem",
+   "info": "Dem Venensystem parallel: drainiert Gewebsflüssigkeit, transportiert Nahrungsfette (Chylomikronen) und bringt Lymphozyten ins Blut zurück.",
+   "ref": "S. 76 A"
+  },
+  "lymphkapillare": {
+   "lat": "Vas lymphocapillare",
+   "de": "Lymphkapillare",
+   "info": "Blind beginnend, ca. 50 µm weit, unvollständige Basalmembran, über Ankerfilamente im Gewebe befestigt.",
+   "ref": "S. 76 A, 77 D"
+  },
+  "praekollektor": {
+   "lat": "Praecollector",
+   "de": "Präkollektor",
+   "info": "Ca. 100 µm weit, schon mit Taschenklappen und Bindegewebsschicht.",
+   "ref": "S. 77 D"
+  },
+  "kollektor": {
+   "lat": "Collector",
+   "de": "Kollektor",
+   "info": "150–600 µm, venenähnlich gebaut; pumpt durch rhythmische Kontraktionen (10–12/min) der klappenfreien Segmente.",
+   "ref": "S. 77 D"
+  },
+  "ductus-thoracicus": {
+   "lat": "Ductus thoracicus",
+   "de": "Milchbrustgang",
+   "info": "Großer Lymphstamm; leitet die Lymphe aus drei Körperquadranten in den linken Venenwinkel.",
+   "ref": "S. 76 A"
+  },
+  "ductus-lymphaticus-dexter": {
+   "lat": "Ductus lymphaticus dexter",
+   "de": "rechter Lymphgang",
+   "info": "Leitet die Lymphe des rechten oberen Quadranten in den rechten Venenwinkel.",
+   "ref": "S. 76 A"
+  },
+  "lymph-kompartimente": {
+   "lat": "Compartimenta lymphatica",
+   "de": "Lymphsysteme",
+   "info": "Oberflächlich (epifaszial, Haut), tief (subfaszial, Muskeln, Gelenke, Nerven) und organspezifisch; Perforansgefäße verbinden oben und tief.",
+   "ref": "S. 77 C"
+  },
+  "primaere-lymphorgane": {
+   "lat": "Organa lymphatica primaria",
+   "de": "primäre lymphatische Organe",
+   "info": "Thymus (Prägung der T-Lymphozyten) und Knochenmark (B-Lymphozyten).",
+   "ref": "S. 76 B"
+  },
+  "sekundaere-lymphorgane": {
+   "lat": "Organa lymphatica secundaria",
+   "de": "sekundäre lymphatische Organe",
+   "info": "Milz, Lymphknoten, Mandeln und schleimhautassoziiertes Gewebe (MALT, BALT, GALT mit Peyer-Plaques und Appendix).",
+   "ref": "S. 76 B"
+  },
+  "milz-blutstrom": {
+   "lat": "Splen (Lien)",
+   "de": "Milz",
+   "info": "Einziges Immunorgan, das direkt in den Blutstrom eingeschaltet ist.",
+   "ref": "S. 76 A"
+  },
+  "nodus-lymphoideus": {
+   "lat": "Nodus lymphoideus",
+   "de": "Lymphknoten",
+   "info": "Filterstation mit T- und B-Zellen; etwa 600–700, die meisten im Kopf-Hals-Bereich. Rinde, Paracortex, Mark; Vasa afferentia rein, Vas efferens am Hilum raus.",
+   "ref": "S. 77 E"
+  },
+  "cortex-paracortex": {
+   "lat": "Cortex / Paracortex",
+   "de": "Rinde und Parakortex",
+   "info": "Sekundärfollikel der Rinde = B-Zell-Region; Paracortex = T-Zell-Region mit hochendothelialen Venolen, über die Lymphozyten einwandern.",
+   "ref": "S. 77 E"
+  }
+ },
+ "karten": [
+  {
+   "id": "k0",
+   "f": "Was ist eine Muskelloge (Kompartiment)?",
+   "a": "Ein osteofibröser Raum aus Faszie, Septum intermusculare und Knochen, in dem Muskeln, Gefäße und Nerven liegen.",
+   "e": "6.1",
+   "ref": "S. 66 A"
+  },
+  {
+   "id": "k1",
+   "f": "Was bedeutet Scherengitteranordnung?",
+   "a": "Kollagenschichten mit unterschiedlichen Steigungswinkeln: Zugfestigkeit in mehreren Richtungen und Anpassung an die wechselnde Muskelform.",
+   "e": "6.1",
+   "ref": "S. 66 B"
+  },
+  {
+   "id": "k2",
+   "f": "Wozu dient der Tractus iliotibialis?",
+   "a": "Als laterale Zuggurtung mindert er die Biegebeanspruchung des Femurs.",
+   "e": "6.1",
+   "ref": "S. 66 B"
+  },
+  {
+   "id": "k3",
+   "f": "Kompartmentsyndrom: Ursache und Therapie?",
+   "a": "Druckanstieg in der Loge (Hämatom, Ödem) → Ischämie von Muskeln und Nerven; sofortige Faszienspaltung.",
+   "e": "6.1",
+   "ref": "S. 67 C"
+  },
+  {
+   "id": "k4",
+   "f": "Warum sind beim Kompartmentsyndrom die distalen Pulse meist tastbar?",
+   "a": "Logendrücke von 30–60 mmHg reichen nicht, um größere Arterien abzudrücken – sie stören aber die Kapillardurchblutung.",
+   "e": "6.1",
+   "ref": "S. 67 C"
+  },
+  {
+   "id": "k5",
+   "f": "Was ist besonders an der Fascia thoracolumbalis?",
+   "a": "Sie ist dicht innerviert (Nozizeptoren, Propriozeptoren, viele sympathische Fasern) und schmerzempfindlicher als die Rückenmuskulatur.",
+   "e": "6.1",
+   "ref": "S. 67 D"
+  },
+  {
+   "id": "k6",
+   "f": "Welche zwei Gruppen von Rumpffaszien gibt es?",
+   "a": "Rumpfwandfaszien (Fasciae investientes) und Körperhöhlenfaszien (parietal, viszeral, extraperitoneal).",
+   "e": "6.2",
+   "ref": "S. 68 A"
+  },
+  {
+   "id": "k7",
+   "f": "Welche drei Schichten haben die Rumpfwandfaszien?",
+   "a": "Fascia investiens superficialis, intermedia und profunda (am Bauch: Fascia transversalis).",
+   "e": "6.2",
+   "ref": "S. 68 A, 69 D"
+  },
+  {
+   "id": "k8",
+   "f": "Warum ist die Faszienordnung am Thorax komplizierter?",
+   "a": "Es gibt zwei Muskelwände: innen die Interkostalmuskeln, außen die Muskeln für Arm und Schultergürtel.",
+   "e": "6.2",
+   "ref": "S. 69 B"
+  },
+  {
+   "id": "k9",
+   "f": "Wonach werden Arterie und Vene benannt?",
+   "a": "Nach der Flussrichtung zum bzw. vom Herzen, nicht nach dem Sauerstoffgehalt.",
+   "e": "7.1",
+   "ref": "S. 70 A"
+  },
+  {
+   "id": "k10",
+   "f": "Hoch- vs. Niederdrucksystem?",
+   "a": "Arterien des Körperkreislaufs ca. 100 mmHg; Venen ca. 20 mmHg – zum Niederdrucksystem zählen auch die Lungenarterien.",
+   "e": "7.1",
+   "ref": "S. 70 B"
+  },
+  {
+   "id": "k11",
+   "f": "Was leistet die Windkesselfunktion?",
+   "a": "Elastische herznahe Arterien speichern das Schlagvolumen und glätten die Strömung – keine Druckspitzen.",
+   "e": "7.1",
+   "ref": "S. 70 B"
+  },
+  {
+   "id": "k12",
+   "f": "Wie viel Blutvolumen fassen die Venen?",
+   "a": "Etwa 80 % – sie sind Kapazitätsgefäße.",
+   "e": "7.1",
+   "ref": "S. 70 B"
+  },
+  {
+   "id": "k13",
+   "f": "Welche drei Wandschichten haben Blutgefäße?",
+   "a": "Intima (Endothel), Media (glatte Muskulatur), Adventitia (Bindegewebe, Vasa vasorum, Nerven).",
+   "e": "7.2",
+   "ref": "S. 72 C"
+  },
+  {
+   "id": "k14",
+   "f": "Wie unterscheiden sich Arterie und Begleitvene histologisch?",
+   "a": "Arterie: dichte Muskelmedia, Membrana elastica interna. Vene: lockere bindegewebsreiche Media, keine klare Schichtung, keine Elastica interna.",
+   "e": "7.2",
+   "ref": "S. 73 D"
+  },
+  {
+   "id": "k15",
+   "f": "Welche Mechanismen fördern den venösen Rückstrom?",
+   "a": "Venenklappen, arteriovenöse Kopplung, Muskelpumpe und die Sogwirkung des Herzens.",
+   "e": "7.2",
+   "ref": "S. 73 F"
+  },
+  {
+   "id": "k16",
+   "f": "Warum sind Fußrückenvenen muskelstärker als Handrückenvenen?",
+   "a": "Im Stehen lastet in den Beinen ein viel höherer hydrostatischer Druck auf den Venen.",
+   "e": "7.2",
+   "ref": "S. 73 E"
+  },
+  {
+   "id": "k17",
+   "f": "Was umfasst die terminale Strombahn?",
+   "a": "Arteriolen, Kapillaren und Venolen – den Ort des Austauschs.",
+   "e": "7.3",
+   "ref": "S. 74 B"
+  },
+  {
+   "id": "k18",
+   "f": "Warum fließt das Blut in den Kapillaren so langsam?",
+   "a": "Der Gesamtquerschnitt nimmt etwa 800-fach zu: von 50 cm/s in der Aorta auf 0,05 cm/s; Kontaktzeit ca. 1 s.",
+   "e": "7.3",
+   "ref": "S. 74 B"
+  },
+  {
+   "id": "k19",
+   "f": "Nenne die vier Endotheltypen mit Beispiel.",
+   "a": "I geschlossen – Nervensystem; II mit Pinozytose – Herz-/Skelettmuskel; III gefenstert – Magen-Darm; IV Lücken ohne Basalmembran – Leber.",
+   "e": "7.3",
+   "ref": "S. 75 D"
+  },
+  {
+   "id": "k20",
+   "f": "Wie viel Flüssigkeit wird täglich filtriert, resorbiert, als Lymphe abgeleitet?",
+   "a": "Ca. 20 l filtriert, 18 l (90 %) resorbiert, 2 l (10 %) über die Lymphe.",
+   "e": "7.3",
+   "ref": "S. 75 E"
+  },
+  {
+   "id": "k21",
+   "f": "Drei Aufgaben des Lymphgefäßsystems?",
+   "a": "Drainage von Gewebsflüssigkeit, Transport von Nahrungsfetten, Rückführung von Lymphozyten ins Blut.",
+   "e": "8.1",
+   "ref": "S. 76 A"
+  },
+  {
+   "id": "k22",
+   "f": "Wohin fließt die Lymphe der vier Körperquadranten?",
+   "a": "Drei Quadranten über den Ductus thoracicus in den linken Venenwinkel, der rechte obere über den Ductus lymphaticus dexter in den rechten.",
+   "e": "8.1",
+   "ref": "S. 76 A"
+  },
+  {
+   "id": "k23",
+   "f": "Primäre vs. sekundäre lymphatische Organe?",
+   "a": "Primär (Bildung/Prägung): Thymus, Knochenmark. Sekundär (Abwehr): Milz, Lymphknoten, MALT/BALT/GALT, Mandeln.",
+   "e": "8.1",
+   "ref": "S. 76 B"
+  },
+  {
+   "id": "k24",
+   "f": "Wie wird Lymphe in den Kollektoren transportiert?",
+   "a": "Durch rhythmische Kontraktionen der klappenfreien Segmente (10–12/min); Klappen geben die Richtung vor.",
+   "e": "8.1",
+   "ref": "S. 77 D"
+  },
+  {
+   "id": "k25",
+   "f": "Wo sitzen B- und T-Zellen im Lymphknoten?",
+   "a": "B-Zellen in den Sekundärfollikeln der Rinde, T-Zellen im Paracortex.",
+   "e": "8.1",
+   "ref": "S. 77 E"
+  }
+ ],
+ "fragen": [
+  {
+   "id": "f0",
+   "f": "Welcher Kollagentyp überwiegt in Muskelfaszien?",
+   "o": [
+    "Typ I",
+    "Typ II",
+    "Typ III",
+    "Typ IV"
+   ],
+   "r": 0,
+   "x": "Etwa 90 % des Kollagens ist Typ I.",
+   "e": "6.1",
+   "ref": "S. 66 A"
+  },
+  {
+   "id": "f1",
+   "f": "Ab wann drohen beim Kompartmentsyndrom irreversible Schäden?",
+   "o": [
+    "nach 30 min",
+    "nach etwa 4 h",
+    "nach 24 h",
+    "nach 3 Tagen"
+   ],
+   "r": 1,
+   "x": "Ischämische Muskelnekrosen nach etwa 4 Stunden.",
+   "e": "6.1",
+   "ref": "S. 67 C"
+  },
+  {
+   "id": "f2",
+   "f": "Welche Loge ist beim häufigsten Kompartmentsyndrom betroffen?",
+   "o": [
+    "Flexorenloge des Unterarms",
+    "Extensorenloge des Unterschenkels",
+    "Adduktorenloge",
+    "Glutealloge"
+   ],
+   "r": 1,
+   "x": "Tibialis-anterior-Syndrom.",
+   "e": "6.1",
+   "ref": "S. 67 C"
+  },
+  {
+   "id": "f3",
+   "f": "Wie heißt die tiefe Rumpfwandfaszie am Bauch?",
+   "o": [
+    "Fascia thoracolumbalis",
+    "Fascia transversalis",
+    "Fascia endothoracica",
+    "Fascia lata"
+   ],
+   "r": 1,
+   "x": "Im Leistenkanal setzt sie sich als Fascia spermatica interna fort.",
+   "e": "6.2",
+   "ref": "S. 69 D"
+  },
+  {
+   "id": "f4",
+   "f": "Wo ist die Fascia visceralis besonders kräftig?",
+   "o": [
+    "am Thorax",
+    "im Becken um Harnblase und Rectum",
+    "am Hals",
+    "am Oberschenkel"
+   ],
+   "r": 1,
+   "x": "Im Thorax sind die Körperhöhlenfaszien schwach.",
+   "e": "6.2",
+   "ref": "S. 68 A"
+  },
+  {
+   "id": "f5",
+   "f": "Welche Aussage zu „Arterie“ trifft zu?",
+   "o": [
+    "führt immer sauerstoffreiches Blut",
+    "führt Blut vom Herzen weg",
+    "hat Venenklappen",
+    "gehört immer zum Hochdrucksystem"
+   ],
+   "r": 1,
+   "x": "Die A. pulmonalis führt sauerstoffarmes Blut und gehört zum Niederdrucksystem.",
+   "e": "7.1",
+   "ref": "S. 70 A–B"
+  },
+  {
+   "id": "f6",
+   "f": "Welche Gefäße regulieren vor allem die lokale Durchblutung?",
+   "o": [
+    "Aorta",
+    "Arterien vom muskulären Typ und Arteriolen",
+    "große Venen",
+    "Lymphgefäße"
+   ],
+   "r": 1,
+   "x": "Durch Vasokonstriktion und Vasodilatation.",
+   "e": "7.1",
+   "ref": "S. 70 B"
+  },
+  {
+   "id": "f7",
+   "f": "Was trennt bei muskulären Arterien Intima und Media?",
+   "o": [
+    "Membrana elastica externa",
+    "Membrana elastica interna",
+    "Basalmembran",
+    "Adventitia"
+   ],
+   "r": 1,
+   "x": "Den Venen fehlt sie.",
+   "e": "7.2",
+   "ref": "S. 72 C"
+  },
+  {
+   "id": "f8",
+   "f": "Wie viel Blut verlagert sich beim Aufstehen in die Beinvenen?",
+   "o": [
+    "50 ml",
+    "500 ml",
+    "1,5 l",
+    "3 l"
+   ],
+   "r": 1,
+   "x": "Etwa 500 ml.",
+   "e": "7.2",
+   "ref": "S. 73 E"
+  },
+  {
+   "id": "f9",
+   "f": "Wie schnell fließt Blut in den Kapillaren etwa?",
+   "o": [
+    "50 cm/s",
+    "5 cm/s",
+    "0,05 cm/s",
+    "0,0005 cm/s"
+   ],
+   "r": 2,
+   "x": "In der Aorta etwa 50 cm/s.",
+   "e": "7.3",
+   "ref": "S. 74 B"
+  },
+  {
+   "id": "f10",
+   "f": "Welches Organ hat Endothel mit Lücken ohne Basalmembran?",
+   "o": [
+    "Gehirn",
+    "Skelettmuskel",
+    "Darm",
+    "Leber"
+   ],
+   "r": 3,
+   "x": "Typ IV.",
+   "e": "7.3",
+   "ref": "S. 75 D"
+  },
+  {
+   "id": "f11",
+   "f": "Was treibt am arteriellen Kapillarende die Filtration an?",
+   "o": [
+    "kolloidosmotischer Druck",
+    "hydrostatischer Blutdruck",
+    "Lymphsog",
+    "Perizyten"
+   ],
+   "r": 1,
+   "x": "35 mmHg Blutdruck gegen 25 mmHg kolloidosmotisch.",
+   "e": "7.3",
+   "ref": "S. 75 E"
+  },
+  {
+   "id": "f12",
+   "f": "Wie viel Prozent der filtrierten Flüssigkeit fließt als Lymphe ab?",
+   "o": [
+    "1 %",
+    "10 %",
+    "50 %",
+    "90 %"
+   ],
+   "r": 1,
+   "x": "Etwa 2 von 20 Litern pro Tag.",
+   "e": "7.3",
+   "ref": "S. 75 E"
+  },
+  {
+   "id": "f13",
+   "f": "Welches Organ ist ein primäres lymphatisches Organ?",
+   "o": [
+    "Milz",
+    "Lymphknoten",
+    "Thymus",
+    "Tonsilla palatina"
+   ],
+   "r": 2,
+   "x": "Neben dem Knochenmark.",
+   "e": "8.1",
+   "ref": "S. 76 B"
+  },
+  {
+   "id": "f14",
+   "f": "In welchen Venenwinkel mündet der Ductus thoracicus?",
+   "o": [
+    "rechts",
+    "links",
+    "in die V. cava inferior",
+    "in die Pfortader"
+   ],
+   "r": 1,
+   "x": "Er drainiert drei Körperquadranten.",
+   "e": "8.1",
+   "ref": "S. 76 A"
+  },
+  {
+   "id": "f15",
+   "f": "Wo liegt im Lymphknoten die T-Zell-Region?",
+   "o": [
+    "Sekundärfollikel",
+    "Paracortex",
+    "Marksinus",
+    "Kapsel"
+   ],
+   "r": 1,
+   "x": "Mit hochendothelialen Venolen.",
+   "e": "8.1",
+   "ref": "S. 77 E"
+  }
+ ],
+ "sortieren": {
+  "titel": "Zu welchem Gefäßabschnitt?",
+  "ref": "S. 70 B, 72 B, 76 A, 77 D",
+  "kategorien": [
+   "Hochdrucksystem",
+   "terminale Strombahn",
+   "Niederdrucksystem",
+   "Lymphsystem"
+  ],
+  "items": [
+   {
+    "id": "s0",
+    "t": "Aorta",
+    "k": 0
+   },
+   {
+    "id": "s1",
+    "t": "A. femoralis",
+    "k": 0
+   },
+   {
+    "id": "s2",
+    "t": "Arterien vom muskulären Typ",
+    "k": 0
+   },
+   {
+    "id": "s3",
+    "t": "Arteriole",
+    "k": 1
+   },
+   {
+    "id": "s4",
+    "t": "Kapillare",
+    "k": 1
+   },
+   {
+    "id": "s5",
+    "t": "Venole",
+    "k": 1
+   },
+   {
+    "id": "s6",
+    "t": "präkapillärer Sphinkter",
+    "k": 1
+   },
+   {
+    "id": "s7",
+    "t": "V. cava inferior",
+    "k": 2
+   },
+   {
+    "id": "s8",
+    "t": "Vene mit Venenklappen",
+    "k": 2
+   },
+   {
+    "id": "s9",
+    "t": "A. pulmonalis",
+    "k": 2
+   },
+   {
+    "id": "s10",
+    "t": "Ductus thoracicus",
+    "k": 3
+   },
+   {
+    "id": "s11",
+    "t": "Präkollektor",
+    "k": 3
+   },
+   {
+    "id": "s12",
+    "t": "Lymphknoten",
+    "k": 3
+   }
+  ]
+ },
+ "tabellen": [
+  {
+   "id": "kapillardruck",
+   "titel": "Drücke an der Kapillare (mmHg)",
+   "ref": "S. 75 E",
+   "einheit": "7.3",
+   "spalten": [
+    "hydrostatisch",
+    "kolloidosmotisch",
+    "Differenz"
+   ],
+   "zeilen": [
+    [
+     "arterielles Ende",
+     [
+      "35",
+      "25",
+      "10"
+     ]
+    ],
+    [
+     "venöses Ende",
+     [
+      "15",
+      "25",
+      "-10"
+     ]
+    ]
+   ],
+   "fuss": "Positive Differenz = Filtration, negative = Resorption."
+  },
+  {
+   "id": "kreislaufzahlen",
+   "titel": "Kennzahlen des Kreislaufs",
+   "ref": "S. 70 B, 74 B, 75 C–E",
+   "einheit": "7.1",
+   "spalten": [
+    "Wert"
+   ],
+   "zeilen": [
+    [
+     "Druck im arteriellen Hochdrucksystem (mmHg)",
+     [
+      "100"
+     ]
+    ],
+    [
+     "Druck im venösen Niederdrucksystem (mmHg)",
+     [
+      "20"
+     ]
+    ],
+    [
+     "Blutvolumen in den Venen (%)",
+     [
+      "80"
+     ]
+    ],
+    [
+     "Strömung in der Aorta (cm/s)",
+     [
+      "50"
+     ]
+    ],
+    [
+     "Kapillardurchmesser (µm)",
+     [
+      "5–15"
+     ]
+    ],
+    [
+     "in Ruhe durchblutete Kapillaren (%)",
+     [
+      "25–35"
+     ]
+    ],
+    [
+     "Filtrat pro Tag (l)",
+     [
+      "20"
+     ]
+    ],
+    [
+     "Lymphe pro Tag (l)",
+     [
+      "2"
+     ]
+    ]
+   ],
+   "fuss": "Gerundete Richtwerte."
+  },
+  {
+   "id": "endothel",
+   "titel": "Endotheltypen",
+   "ref": "S. 75 D",
+   "einheit": "7.3",
+   "spalten": [
+    "Beispiel"
+   ],
+   "zeilen": [
+    [
+     "I geschlossen, ohne Fenster",
+     [
+      "Nervensystem"
+     ]
+    ],
+    [
+     "II geschlossen, mit Pinozytose",
+     [
+      "Muskulatur"
+     ]
+    ],
+    [
+     "III gefenstert mit Diaphragma",
+     [
+      "Darm"
+     ]
+    ],
+    [
+     "IV Lücken ohne Basalmembran",
+     [
+      "Leber"
+     ]
+    ]
+   ],
+   "fuss": "Typ II: Herz- und Skelettmuskulatur."
+  }
+ ]
+}

@@ -1,0 +1,1046 @@
+{
+ "id": "allg-koerper",
+ "buch": "Prometheus LernAtlas – Allgemeine Anatomie und Bewegungssystem",
+ "teil": "Allgemeine Anatomie",
+ "titel": "Körper im Überblick, Orientierung und Haut",
+ "seiten": "S. 22–39",
+ "bereiche": [
+  [
+   22,
+   39
+  ]
+ ],
+ "intro": "Proportionen und Neunerregel, Bauplan und Körperhöhlen, Lage- und Richtungsbegriffe, Ebenen und Achsen, Schnittbilder, Orientierungslinien, tastbare Knochenpunkte und der Aufbau der Haut.",
+ "einheiten": [
+  {
+   "nr": "2.1",
+   "titel": "Proportionen, Oberflächen und Körpergewichte",
+   "seite": 22
+  },
+  {
+   "nr": "2.2",
+   "titel": "Bauplan des menschlichen Körpers",
+   "seite": 24
+  },
+  {
+   "nr": "3.1",
+   "titel": "Lage- und Richtungsbezeichnungen, Hauptachsen und -ebenen",
+   "seite": 26
+  },
+  {
+   "nr": "3.2",
+   "titel": "Radiologische Untersuchungsebenen",
+   "seite": 28
+  },
+  {
+   "nr": "3.3",
+   "titel": "Oberflächenanatomie",
+   "seite": 30
+  },
+  {
+   "nr": "3.4",
+   "titel": "Oberflächenrelief und tastbare Knochenpunkte",
+   "seite": 32
+  },
+  {
+   "nr": "3.5",
+   "titel": "Orientierungslinien und Bezugspunkte",
+   "seite": 34
+  },
+  {
+   "nr": "3.6",
+   "titel": "Körperregionen",
+   "seite": 36
+  },
+  {
+   "nr": "3.7",
+   "titel": "Haut",
+   "seite": 38
+  }
+ ],
+ "strukturen": {
+  "kopfhoehe-proportion": {
+   "lat": "Proportio capitis",
+   "de": "Kopfhöhe im Verhältnis zur Körperlänge",
+   "info": "Embryo (Ende 2. Monat) etwa 1/2, Neugeborenes 1/4, 6-Jähriges 1/6, Erwachsener 1/8.",
+   "ref": "S. 22 A"
+  },
+  "koerpermitte": {
+   "lat": "Medium corporis",
+   "de": "Körpermitte",
+   "info": "Beim Erwachsenen etwa auf Höhe der Schambeinfuge: Ober- und Unterlänge 1:1.",
+   "ref": "S. 22 B"
+  },
+  "spannweite": {
+   "lat": "Amplitudo brachiorum",
+   "de": "Spannweite (Klafter)",
+   "info": "Etwas größer als die Körperlänge: Frauen ca. 103 %, Männer ca. 106 %.",
+   "ref": "S. 22 C"
+  },
+  "neunerregel": {
+   "lat": "Regula novenaria (Wallace)",
+   "de": "Neunerregel",
+   "info": "Abschätzung verbrannter Fläche beim Erwachsenen: Kopf und jeder Arm je 9 %, Rumpf vorn, Rumpf hinten und jedes Bein je 18 %, Genitale 1 %.",
+   "ref": "S. 23 E"
+  },
+  "handflaechenregel": {
+   "lat": "Regula palmae",
+   "de": "Handflächenregel",
+   "info": "Die Handfläche des Patienten entspricht etwa 1 % seiner eigenen Körperoberfläche.",
+   "ref": "S. 23 F"
+  },
+  "relative-oberflaeche": {
+   "lat": "Superficies relativa",
+   "de": "relative Körperoberfläche",
+   "info": "Kleine Körper haben im Verhältnis mehr Oberfläche – daher bei Kindern mehr Wärmeverlust und höherer Stoffwechsel.",
+   "ref": "S. 23 G"
+  },
+  "bmi": {
+   "lat": "Index massae corporis",
+   "de": "Body-Mass-Index",
+   "info": "Körpergewicht in kg geteilt durch das Quadrat der Körpergröße in m; korreliert recht gut mit dem Körperfett.",
+   "ref": "S. 23 H"
+  },
+  "partes-corporis": {
+   "lat": "Partes corporis",
+   "de": "Körperabschnitte",
+   "info": "Caput, Collum, Truncus (Thorax, Abdomen, Pelvis) sowie obere und untere Extremität mit Gürtel und freier Gliedmaße.",
+   "ref": "S. 24 B"
+  },
+  "bewegungsapparat": {
+   "lat": "Apparatus locomotorius",
+   "de": "Bewegungsapparat",
+   "info": "Passiver Teil: Skelett und Skelettverbindungen; aktiver Teil: quergestreifte Skelettmuskulatur.",
+   "ref": "S. 24 C"
+  },
+  "seroese-hoehle": {
+   "lat": "Cavitas serosa",
+   "de": "seröse Höhle",
+   "info": "Geschlossener Spaltraum mit glatter Serosa und wenig Flüssigkeit: Pleura-, Perikard- und Peritonealhöhle.",
+   "ref": "S. 24 D"
+  },
+  "lamina-visceralis-parietalis": {
+   "lat": "Lamina visceralis / parietalis",
+   "de": "viszerales und parietales Blatt",
+   "info": "Das viszerale Blatt der Serosa liegt dem Organ auf, das parietale kleidet die Höhlenwand aus.",
+   "ref": "S. 24 D"
+  },
+  "bindegewebsraeume": {
+   "lat": "Spatia connectiva",
+   "de": "Bindegewebsräume",
+   "info": "Organräume ohne Serosa, z. B. Mediastinum, Retro- und Subperitonealraum, Raum zwischen Halsfaszienblättern.",
+   "ref": "S. 24 D"
+  },
+  "cranialis-caudalis": {
+   "lat": "cranialis / caudalis",
+   "de": "kopfwärts / steißwärts",
+   "info": "Richtungsangaben entlang der Körperlängsachse.",
+   "ref": "S. 26 A"
+  },
+  "ventralis-dorsalis": {
+   "lat": "ventralis / dorsalis",
+   "de": "bauchwärts / rückenwärts",
+   "info": "Richtungsangaben nach vorn bzw. hinten am Rumpf.",
+   "ref": "S. 26 A"
+  },
+  "medialis-lateralis": {
+   "lat": "medialis / lateralis",
+   "de": "zur Mitte / zur Seite",
+   "info": "Zur Medianebene hin bzw. von ihr weg.",
+   "ref": "S. 26 A"
+  },
+  "proximalis-distalis": {
+   "lat": "proximalis / distalis",
+   "de": "rumpfnah / rumpffern",
+   "info": "Lagebezeichnungen an den Gliedmaßen.",
+   "ref": "S. 26 A"
+  },
+  "radialis-ulnaris": {
+   "lat": "radialis / ulnaris",
+   "de": "speichen- / ellenseitig",
+   "info": "Seitenangaben am Unterarm und an der Hand.",
+   "ref": "S. 26 A"
+  },
+  "tibialis-fibularis": {
+   "lat": "tibialis / fibularis",
+   "de": "schienbein- / wadenbeinseitig",
+   "info": "Seitenangaben am Unterschenkel und am Fuß.",
+   "ref": "S. 26 A"
+  },
+  "palmaris-plantaris": {
+   "lat": "palmaris (volaris) / plantaris",
+   "de": "hohlhand- / fußsohlenseitig",
+   "info": "Gegenstück ist dorsalis (Hand- bzw. Fußrücken).",
+   "ref": "S. 26 A"
+  },
+  "superficialis-profundus": {
+   "lat": "superficialis / profundus",
+   "de": "oberflächlich / tief",
+   "info": "Lage zur Körperoberfläche.",
+   "ref": "S. 26 A"
+  },
+  "normalposition": {
+   "lat": "Positio anatomica",
+   "de": "anatomische Normalposition",
+   "info": "Aufrechter Stand, Blick nach vorn, Hände supiniert; links und rechts beziehen sich immer auf den Patienten.",
+   "ref": "S. 26 B"
+  },
+  "sagittalebene": {
+   "lat": "Planum sagittale",
+   "de": "Sagittalebene",
+   "info": "Senkrechte Ebenen parallel zur Pfeilnaht von vorn nach hinten; die Medianebene teilt den Körper in zwei gleiche Hälften.",
+   "ref": "S. 27 D"
+  },
+  "frontalebene": {
+   "lat": "Planum frontale (coronale)",
+   "de": "Frontalebene",
+   "info": "Senkrechte Ebenen parallel zur Stirn bzw. Kranznaht, von einer Seite zur anderen.",
+   "ref": "S. 27 D"
+  },
+  "transversalebene": {
+   "lat": "Planum transversale",
+   "de": "Transversalebene",
+   "info": "Horizontale Querschnittsebenen senkrecht zur Längsachse; trennen kranial von kaudal.",
+   "ref": "S. 27 D"
+  },
+  "longitudinalachse": {
+   "lat": "Axis longitudinalis",
+   "de": "Längsachse",
+   "info": "Verläuft kranial-kaudal; Schnittlinie von Frontal- und Sagittalebene.",
+   "ref": "S. 27 D"
+  },
+  "sagittalachse": {
+   "lat": "Axis sagittalis",
+   "de": "Pfeilachse",
+   "info": "Verläuft ventral-dorsal; Schnittlinie von Sagittal- und Transversalebene.",
+   "ref": "S. 27 D"
+  },
+  "transversalachse": {
+   "lat": "Axis transversalis",
+   "de": "Querachse",
+   "info": "Verläuft von links nach rechts; Schnittlinie von Frontal- und Transversalebene.",
+   "ref": "S. 27 D"
+  },
+  "varus-valgus": {
+   "lat": "Positio vara / valga",
+   "de": "Varus- und Valgusstellung",
+   "info": "Achsabweichung in der Frontalebene. Genu varum = O-Bein (distaler Knochen zeigt zur Mitte), Genu valgum = X-Bein.",
+   "ref": "S. 27 E"
+  },
+  "rekurvation": {
+   "lat": "Recurvatio / Antecurvatio",
+   "de": "Rekurvation und Antekurvation",
+   "info": "Achsabweichungen in der Sagittalebene.",
+   "ref": "S. 27 E"
+  },
+  "schwerelot": {
+   "lat": "Linea gravitatis",
+   "de": "Schwerelot",
+   "info": "Läuft durch den Körperschwerpunkt (unter dem Promontorium, Höhe S II), seitlich durch Gehörgang, Dens axis, Hüft-, Knie- und Sprunggelenk.",
+   "ref": "S. 27 F"
+  },
+  "frankfurter-horizontale": {
+   "lat": "Planum Francofurtanum",
+   "de": "Frankfurter (Deutsche) Horizontale",
+   "info": "Transversale Bezugsebene am Kopf vom Oberrand des äußeren Gehörgangs zum Unterrand der Orbita.",
+   "ref": "S. 28 A b"
+  },
+  "kanthomeatalebene": {
+   "lat": "Planum canthomeatale",
+   "de": "Kanthomeatalebene",
+   "info": "Für axiale Schädel-CTs ca. 19° gekippte Ebene vom Gehörgang zum Augenwinkel; schont die Orbita.",
+   "ref": "S. 28 A c–d"
+  },
+  "axiale-schnittbilder": {
+   "lat": "Sectiones axiales",
+   "de": "Betrachtung axialer Schnittbilder",
+   "info": "Immer von kaudal (bzw. distal) betrachtet: rechte Körperseite erscheint links, Wirbelsäule unten.",
+   "ref": "S. 29 D"
+  },
+  "linea-medioclavicularis": {
+   "lat": "Linea medioclavicularis",
+   "de": "Medioklavikularlinie",
+   "info": "Senkrechte durch die Mitte der Clavicula, oft deckungsgleich mit der Mamillarlinie.",
+   "ref": "S. 34 A"
+  },
+  "linea-sternalis": {
+   "lat": "Linea sternalis / parasternalis",
+   "de": "Sternal- und Parasternallinie",
+   "info": "Sternallinie am Brustbeinrand; Parasternallinie mitten zwischen Sternal- und Medioklavikularlinie.",
+   "ref": "S. 34 A"
+  },
+  "lineae-axillares": {
+   "lat": "Lineae axillares",
+   "de": "Axillarlinien",
+   "info": "Vordere Linie an der vorderen Achselfalte (M. pectoralis major), hintere an der hinteren (M. latissimus dorsi), mittlere dazwischen.",
+   "ref": "S. 34 A"
+  },
+  "linea-scapularis": {
+   "lat": "Linea scapularis / paravertebralis",
+   "de": "Skapular- und Paravertebrallinie",
+   "info": "Skapularlinie durch den Angulus inferior scapulae; Paravertebrallinie auf Höhe der Querfortsätze.",
+   "ref": "S. 34 A"
+  },
+  "rippen-zaehlen": {
+   "lat": "Numeratio costarum",
+   "de": "Rippen abzählen",
+   "info": "Man beginnt mit der 2. Rippe am Angulus sterni, weil die 1. unter der Clavicula liegt; kaudal mit der 12. Rippe, die nur dorsal tastbar ist.",
+   "ref": "S. 34 B"
+  },
+  "planum-transpyloricum": {
+   "lat": "Planum transpyloricum",
+   "de": "Transpylorusebene",
+   "info": "Transversalebene in der Mitte zwischen Symphysenoberrand und Manubrium-Oberrand.",
+   "ref": "S. 35 C"
+  },
+  "planum-subcostale": {
+   "lat": "Planum subcostale",
+   "de": "Subkostalebene",
+   "info": "Transversalebene am Unterrand des 10. Rippenknorpels.",
+   "ref": "S. 35 C"
+  },
+  "planum-supracristale": {
+   "lat": "Planum supracristale",
+   "de": "Suprakristalebene",
+   "info": "Transversalebene durch die höchsten Punkte der Darmbeinkämme (Höhe Dornfortsatz L IV).",
+   "ref": "S. 35 C–D"
+  },
+  "dornfortsatz-orientierung": {
+   "lat": "Processus spinosi als Leitpunkte",
+   "de": "Dornfortsätze als Orientierung",
+   "info": "C VII sichtbar vorspringend; Th III auf Höhe der Spinae scapulae; Th VII auf Höhe der Anguli inferiores; Th XII knapp unter der 12. Rippe; L IV an der Cristalinie; S II an der Linie der SIPS.",
+   "ref": "S. 35 D"
+  },
+  "steinschnittlage": {
+   "lat": "Positio lithotomica",
+   "de": "Steinschnittlage",
+   "info": "Rückenlage mit gebeugten, gespreizten Beinen; Befunde nach Uhrzeit: 12 Uhr Richtung Schambein, 6 Uhr Richtung Kreuzbein.",
+   "ref": "S. 35 E"
+  },
+  "tastbare-knochenpunkte": {
+   "lat": "Puncta ossea palpabilia",
+   "de": "tastbare Knochenpunkte",
+   "info": "Helfen, nicht direkt tastbare Strukturen (z. B. das Hüftgelenk) indirekt zu orten.",
+   "ref": "S. 32"
+  },
+  "regio-epigastrica": {
+   "lat": "Regio epigastrica",
+   "de": "Oberbauchgegend",
+   "info": "Mittlere obere Bauchregion unter dem Rippenbogen.",
+   "ref": "S. 36 C"
+  },
+  "regio-hypochondriaca": {
+   "lat": "Regio hypochondriaca",
+   "de": "Unterrippengegend",
+   "info": "Seitliche obere Bauchregion unter dem Rippenbogen.",
+   "ref": "S. 36 C"
+  },
+  "regio-umbilicalis": {
+   "lat": "Regio umbilicalis",
+   "de": "Nabelgegend",
+   "info": "Mittlere Region des Bauches um den Nabel.",
+   "ref": "S. 36 C"
+  },
+  "regio-pubica": {
+   "lat": "Regio pubica",
+   "de": "Schamgegend",
+   "info": "Mittlere untere Bauchregion über der Symphyse.",
+   "ref": "S. 36 C"
+  },
+  "cutis-flaeche": {
+   "lat": "Cutis",
+   "de": "Haut",
+   "info": "Flächenmäßig größtes Organ (ca. 1,8 m²); Felderhaut und Leistenhaut (nur Handfläche und Fußsohle, Grundlage des Fingerabdrucks).",
+   "ref": "S. 38 A"
+  },
+  "epidermis": {
+   "lat": "Epidermis",
+   "de": "Oberhaut",
+   "info": "Gefäßfreies, verhornendes Plattenepithel; mit der Dermis verzahnt.",
+   "ref": "S. 38 A, 39 C"
+  },
+  "stratum-corneum": {
+   "lat": "Stratum corneum",
+   "de": "Hornschicht",
+   "info": "Äußerste Schicht; mechanischer und chemischer Schutz.",
+   "ref": "S. 39 C"
+  },
+  "stratum-lucidum": {
+   "lat": "Stratum lucidum",
+   "de": "Glanzschicht",
+   "info": "Nur in der Leistenhaut von Hand und Fuß ausgebildet.",
+   "ref": "S. 39 C"
+  },
+  "stratum-granulosum": {
+   "lat": "Stratum granulosum",
+   "de": "Körnerschicht",
+   "info": "Zellen mit Keratohyalingranula; dichtet ab.",
+   "ref": "S. 39 C"
+  },
+  "stratum-spinosum": {
+   "lat": "Stratum spinosum",
+   "de": "Stachelzellschicht",
+   "info": "Meist dickste Lage lebender Zellen; viele Desmosomen; Langerhans-Zellen für die Immunabwehr.",
+   "ref": "S. 39 C"
+  },
+  "stratum-basale": {
+   "lat": "Stratum basale",
+   "de": "Basalschicht",
+   "info": "Unterste Epidermisschicht an der Basalmembran; Melanozyten (UV-Schutz) und Merkel-Zellen.",
+   "ref": "S. 39 C"
+  },
+  "dermis": {
+   "lat": "Dermis (Corium)",
+   "de": "Lederhaut",
+   "info": "Bindegewebiger Teil mit Stratum papillare (Zapfen, verzahnt mit Epidermis) und Stratum reticulare (straff, verursacht die Spaltlinien).",
+   "ref": "S. 38 A, 39 C"
+  },
+  "subcutis": {
+   "lat": "Subcutis (Tela subcutanea)",
+   "de": "Unterhaut",
+   "info": "Überwiegend Fettgewebe; Energiespeicher, Polster und Verschiebeschicht bis zur Körperfaszie.",
+   "ref": "S. 38 A, 39 C"
+  },
+  "hautplexus": {
+   "lat": "Plexus superficialis et profundus",
+   "de": "Hautgefäßnetze",
+   "info": "Oberflächlicher Plexus an der Grenze papillär/retikulär, tiefer Plexus an der Grenze Dermis/Subcutis; dazwischen wird Spalthaut entnommen.",
+   "ref": "S. 38 B"
+  },
+  "meissner": {
+   "lat": "Corpusculum tactus (Meissner)",
+   "de": "Meißner-Körperchen",
+   "info": "Schnell adaptierende Druckrezeptoren in den Papillen der Leistenhaut und der Lippen; in behaarter Haut durch Haarfollikelrezeptoren ersetzt.",
+   "ref": "S. 39 C–D"
+  },
+  "merkel": {
+   "lat": "Meniscus tactus (Merkel)",
+   "de": "Merkel-Tastscheiben",
+   "info": "Langsam adaptierende Druckrezeptoren im Stratum basale.",
+   "ref": "S. 39 C–D"
+  },
+  "ruffini": {
+   "lat": "Corpusculum Ruffini",
+   "de": "Ruffini-Körperchen",
+   "info": "Langsam adaptierende Dehnungsrezeptoren in der tieferen Dermis.",
+   "ref": "S. 39 C–D"
+  },
+  "vater-pacini": {
+   "lat": "Corpusculum lamellosum (Vater-Pacini)",
+   "de": "Vater-Pacini-Körperchen",
+   "info": "Schnell adaptierende Vibrationsrezeptoren in der Subcutis.",
+   "ref": "S. 39 C–D"
+  }
+ },
+ "karten": [
+  {
+   "id": "k0",
+   "f": "Wie ändert sich der Anteil der Kopfhöhe an der Körperlänge?",
+   "a": "Embryo Ende 2. Monat ca. 1/2, Neugeborenes 1/4, 6-Jähriges 1/6, Erwachsener 1/8.",
+   "e": "2.1",
+   "ref": "S. 22 A"
+  },
+  {
+   "id": "k1",
+   "f": "Wo liegt beim Erwachsenen die Körpermitte?",
+   "a": "Etwa auf Höhe der Schambeinfuge (Ober- zu Unterlänge 1:1).",
+   "e": "2.1",
+   "ref": "S. 22 B"
+  },
+  {
+   "id": "k2",
+   "f": "Neunerregel beim Erwachsenen?",
+   "a": "Kopf 9 %, jeder Arm 9 %, Rumpf vorn 18 %, Rumpf hinten 18 %, jedes Bein 18 %, Genitale 1 %.",
+   "e": "2.1",
+   "ref": "S. 23 E"
+  },
+  {
+   "id": "k3",
+   "f": "Wie viel Körperoberfläche entspricht die Handfläche des Patienten?",
+   "a": "Etwa 1 % seiner eigenen Körperoberfläche.",
+   "e": "2.1",
+   "ref": "S. 23 F"
+  },
+  {
+   "id": "k4",
+   "f": "Wie berechnet man den BMI?",
+   "a": "Gewicht (kg) geteilt durch Körpergröße (m) zum Quadrat.",
+   "e": "2.1",
+   "ref": "S. 23 H"
+  },
+  {
+   "id": "k5",
+   "f": "Was ist eine seröse Höhle?",
+   "a": "Ein geschlossener Spaltraum mit glatter Serosa (viszerales und parietales Blatt) und wenig Flüssigkeit – Pleura, Perikard, Peritoneum.",
+   "e": "2.2",
+   "ref": "S. 24 D"
+  },
+  {
+   "id": "k6",
+   "f": "Woraus besteht der Bewegungsapparat?",
+   "a": "Passiv: Skelett und Skelettverbindungen. Aktiv: Skelettmuskulatur.",
+   "e": "2.2",
+   "ref": "S. 24 C"
+  },
+  {
+   "id": "k7",
+   "f": "Beschreibe die anatomische Normalposition.",
+   "a": "Aufrechter Stand, Blick nach vorn, Hände supiniert; Seitenangaben immer vom Patienten aus.",
+   "e": "3.1",
+   "ref": "S. 26 B"
+  },
+  {
+   "id": "k8",
+   "f": "Welche drei Hauptebenen gibt es?",
+   "a": "Sagittal- (mit Medianebene), Frontal- (koronare) und Transversalebene.",
+   "e": "3.1",
+   "ref": "S. 27 D"
+  },
+  {
+   "id": "k9",
+   "f": "Welche Achse liegt im Schnitt von Frontal- und Sagittalebene?",
+   "a": "Die Längsachse (Longitudinalachse).",
+   "e": "3.1",
+   "ref": "S. 27 D"
+  },
+  {
+   "id": "k10",
+   "f": "Genu varum oder valgum – was ist das O-Bein?",
+   "a": "Genu varum = O-Bein; Genu valgum = X-Bein.",
+   "e": "3.1",
+   "ref": "S. 27 E"
+  },
+  {
+   "id": "k11",
+   "f": "Welche Punkte liegen im Schwerelot (seitlich betrachtet)?",
+   "a": "Äußerer Gehörgang, Dens axis, Übergänge der Wirbelsäule, Körperschwerpunkt, Hüft-, Knie- und Sprunggelenk.",
+   "e": "3.1",
+   "ref": "S. 27 F"
+  },
+  {
+   "id": "k12",
+   "f": "Wo liegt der Körperschwerpunkt?",
+   "a": "In der Medianebene unterhalb des Promontoriums, etwa auf Höhe des 2. Sakralwirbels.",
+   "e": "3.1",
+   "ref": "S. 27 F"
+  },
+  {
+   "id": "k13",
+   "f": "Wie verläuft die Frankfurter Horizontale?",
+   "a": "Vom Oberrand des äußeren Gehörgangs zum Unterrand der Orbita.",
+   "e": "3.2",
+   "ref": "S. 28 A b"
+  },
+  {
+   "id": "k14",
+   "f": "Von wo betrachtet man axiale CT- und MRT-Bilder?",
+   "a": "Von kaudal (an den Extremitäten von distal): rechts liegende Strukturen erscheinen links.",
+   "e": "3.2",
+   "ref": "S. 29 D"
+  },
+  {
+   "id": "k15",
+   "f": "Mit welcher Rippe beginnt man beim Abzählen ventral?",
+   "a": "Mit der 2. Rippe am Angulus sterni – die 1. ist von der Clavicula verdeckt.",
+   "e": "3.5",
+   "ref": "S. 34 B"
+  },
+  {
+   "id": "k16",
+   "f": "Wo verläuft die vordere Axillarlinie?",
+   "a": "An der vorderen Achselfalte (M. pectoralis major).",
+   "e": "3.5",
+   "ref": "S. 34 A"
+  },
+  {
+   "id": "k17",
+   "f": "Welche Dornfortsätze sind Leitpunkte am Rücken?",
+   "a": "C VII (prominens), Th III (Spinae scapulae), Th VII (Anguli inferiores), Th XII (unter 12. Rippe), L IV (Cristae iliacae), S II (SIPS).",
+   "e": "3.5",
+   "ref": "S. 35 D"
+  },
+  {
+   "id": "k18",
+   "f": "Wie orientiert man sich in der Steinschnittlage?",
+   "a": "Nach dem Zifferblatt: 12 Uhr Richtung Schambein, 6 Uhr Richtung Kreuzbein, 3 Uhr rechts, 9 Uhr links.",
+   "e": "3.5",
+   "ref": "S. 35 E"
+  },
+  {
+   "id": "k19",
+   "f": "Wo gibt es Leistenhaut?",
+   "a": "Nur an Handflächen und Fußsohlen; sie bildet den Fingerabdruck.",
+   "e": "3.7",
+   "ref": "S. 38 A"
+  },
+  {
+   "id": "k20",
+   "f": "Nenne die Epidermisschichten von außen nach innen.",
+   "a": "Stratum corneum, (lucidum nur Leistenhaut), granulosum, spinosum, basale.",
+   "e": "3.7",
+   "ref": "S. 39 C"
+  },
+  {
+   "id": "k21",
+   "f": "Welche Schicht erzeugt die Spaltlinien der Haut?",
+   "a": "Das Stratum reticulare der Dermis mit seinem netzförmigen straffen Bindegewebe.",
+   "e": "3.7",
+   "ref": "S. 39 C"
+  },
+  {
+   "id": "k22",
+   "f": "Wo liegen die Hautgefäße – und warum heilt Spalthaut?",
+   "a": "In der Dermis (Plexus superficialis und profundus); bei der Spalthautentnahme wird zwischen den Plexus geschnitten.",
+   "e": "3.7",
+   "ref": "S. 38 B"
+  },
+  {
+   "id": "k23",
+   "f": "Welche Hautrezeptoren adaptieren schnell, welche langsam?",
+   "a": "Schnell: Meißner (Druckänderung), Vater-Pacini (Vibration). Langsam: Merkel (Druck), Ruffini (Dehnung).",
+   "e": "3.7",
+   "ref": "S. 39 C–D"
+  }
+ ],
+ "fragen": [
+  {
+   "id": "f0",
+   "f": "Wie groß ist die Kopfhöhe beim Neugeborenen relativ zur Körperlänge?",
+   "o": [
+    "1/2",
+    "1/4",
+    "1/6",
+    "1/8"
+   ],
+   "r": 1,
+   "x": "Beim Erwachsenen ist es 1/8.",
+   "e": "2.1",
+   "ref": "S. 22 A"
+  },
+  {
+   "id": "f1",
+   "f": "Nach der Neunerregel entfallen auf ein Bein beim Erwachsenen …",
+   "o": [
+    "9 %",
+    "13,5 %",
+    "18 %",
+    "27 %"
+   ],
+   "r": 2,
+   "x": "Jedes Bein 18 % (2 × 9).",
+   "e": "2.1",
+   "ref": "S. 23 E"
+  },
+  {
+   "id": "f2",
+   "f": "Warum kühlen Kinder schneller aus?",
+   "o": [
+    "dünnere Haut",
+    "relativ größere Körperoberfläche",
+    "weniger Schweißdrüsen",
+    "niedrigerer Stoffwechsel"
+   ],
+   "r": 1,
+   "x": "Kleinere Körper haben im Verhältnis mehr Oberfläche.",
+   "e": "2.1",
+   "ref": "S. 23 G"
+  },
+  {
+   "id": "f3",
+   "f": "Welche Höhle ist KEINE seröse Höhle?",
+   "o": [
+    "Cavitas pleuralis",
+    "Cavitas pericardiaca",
+    "Mediastinum",
+    "Cavitas peritonealis"
+   ],
+   "r": 2,
+   "x": "Das Mediastinum ist ein Bindegewebsraum.",
+   "e": "2.2",
+   "ref": "S. 24 D"
+  },
+  {
+   "id": "f4",
+   "f": "Die Sagittalachse liegt im Schnittpunkt von …",
+   "o": [
+    "Frontal- und Sagittalebene",
+    "Sagittal- und Transversalebene",
+    "Frontal- und Transversalebene",
+    "zwei Frontalebenen"
+   ],
+   "r": 1,
+   "x": "Sie verläuft ventral-dorsal.",
+   "e": "3.1",
+   "ref": "S. 27 D"
+  },
+  {
+   "id": "f5",
+   "f": "Was beschreibt eine Valgusstellung im Kniegelenk?",
+   "o": [
+    "O-Bein",
+    "X-Bein",
+    "überstrecktes Knie",
+    "Beugekontraktur"
+   ],
+   "r": 1,
+   "x": "Die Tibia weicht von der Mittellinie weg ab.",
+   "e": "3.1",
+   "ref": "S. 27 E"
+  },
+  {
+   "id": "f6",
+   "f": "„Palmaris“ bedeutet …",
+   "o": [
+    "zum Handrücken",
+    "zur Hohlhand",
+    "zur Speiche",
+    "zur Fußsohle"
+   ],
+   "r": 1,
+   "x": "Synonym volaris; Fußsohle = plantaris.",
+   "e": "3.1",
+   "ref": "S. 26 A"
+  },
+  {
+   "id": "f7",
+   "f": "Auf welcher Höhe liegt der Körperschwerpunkt?",
+   "o": [
+    "L III",
+    "Promontorium/S II",
+    "Th XII",
+    "Symphyse"
+   ],
+   "r": 1,
+   "x": "Unterhalb des Promontoriums, etwa auf Höhe von S II.",
+   "e": "3.1",
+   "ref": "S. 27 F"
+  },
+  {
+   "id": "f8",
+   "f": "Warum wird das axiale Schädel-CT ca. 19° gekippt?",
+   "o": [
+    "bessere Auflösung des Kleinhirns",
+    "Schutz der Orbita vor Strahlung",
+    "kürzere Untersuchungszeit",
+    "Darstellung der Halswirbel"
+   ],
+   "r": 1,
+   "x": "Man schneidet entlang der Kanthomeatalebene.",
+   "e": "3.2",
+   "ref": "S. 28 A c–d"
+  },
+  {
+   "id": "f9",
+   "f": "Auf einem axialen CT erscheint die rechte Körperseite …",
+   "o": [
+    "rechts",
+    "links",
+    "oben",
+    "unten"
+   ],
+   "r": 1,
+   "x": "Die Bilder werden von kaudal betrachtet.",
+   "e": "3.2",
+   "ref": "S. 29 D"
+  },
+  {
+   "id": "f10",
+   "f": "Welche Rippe setzt am Angulus sterni an?",
+   "o": [
+    "1. Rippe",
+    "2. Rippe",
+    "3. Rippe",
+    "7. Rippe"
+   ],
+   "r": 1,
+   "x": "Daher beginnt man dort mit dem Zählen.",
+   "e": "3.5",
+   "ref": "S. 34 B"
+  },
+  {
+   "id": "f11",
+   "f": "Welcher Dornfortsatz liegt auf Höhe der Spinae scapulae?",
+   "o": [
+    "C VII",
+    "Th III",
+    "Th VII",
+    "Th XII"
+   ],
+   "r": 1,
+   "x": "Th VII liegt auf Höhe der unteren Schulterblattwinkel.",
+   "e": "3.5",
+   "ref": "S. 35 D"
+  },
+  {
+   "id": "f12",
+   "f": "Durch welchen Punkt läuft die Skapularlinie?",
+   "o": [
+    "Akromion",
+    "Spina scapulae",
+    "Angulus inferior scapulae",
+    "Proc. coracoideus"
+   ],
+   "r": 2,
+   "x": "Linea scapularis = Senkrechte durch den unteren Schulterblattwinkel.",
+   "e": "3.5",
+   "ref": "S. 34 A"
+  },
+  {
+   "id": "f13",
+   "f": "In welcher Epidermisschicht liegen die Langerhans-Zellen?",
+   "o": [
+    "Stratum corneum",
+    "Stratum granulosum",
+    "Stratum spinosum",
+    "Stratum lucidum"
+   ],
+   "r": 2,
+   "x": "Sie dienen der Immunantwort.",
+   "e": "3.7",
+   "ref": "S. 39 C"
+  },
+  {
+   "id": "f14",
+   "f": "Wo liegen Vater-Pacini-Körperchen?",
+   "o": [
+    "Epidermis",
+    "Stratum papillare",
+    "Subcutis",
+    "Stratum basale"
+   ],
+   "r": 2,
+   "x": "Schnell adaptierende Vibrationsrezeptoren.",
+   "e": "3.7",
+   "ref": "S. 39 C–D"
+  },
+  {
+   "id": "f15",
+   "f": "Welche Hautschicht enthält KEINE Blutgefäße?",
+   "o": [
+    "Epidermis",
+    "Stratum papillare",
+    "Stratum reticulare",
+    "Subcutis"
+   ],
+   "r": 0,
+   "x": "Wie jedes Epithel ist die Epidermis gefäßfrei.",
+   "e": "3.7",
+   "ref": "S. 38 A"
+  }
+ ],
+ "sortieren": {
+  "titel": "In welcher Hautschicht?",
+  "ref": "S. 38 A–B, 39 C–D",
+  "kategorien": [
+   "Epidermis",
+   "Dermis",
+   "Subcutis"
+  ],
+  "items": [
+   {
+    "id": "s0",
+    "t": "Merkel-Tastscheiben",
+    "k": 0
+   },
+   {
+    "id": "s1",
+    "t": "Langerhans-Zellen",
+    "k": 0
+   },
+   {
+    "id": "s2",
+    "t": "Melanozyten",
+    "k": 0
+   },
+   {
+    "id": "s3",
+    "t": "Stratum lucidum",
+    "k": 0
+   },
+   {
+    "id": "s4",
+    "t": "Keratohyalingranula",
+    "k": 0
+   },
+   {
+    "id": "s5",
+    "t": "Meißner-Körperchen",
+    "k": 1
+   },
+   {
+    "id": "s6",
+    "t": "Ruffini-Körperchen",
+    "k": 1
+   },
+   {
+    "id": "s7",
+    "t": "Schweißdrüsen",
+    "k": 1
+   },
+   {
+    "id": "s8",
+    "t": "Talgdrüsen",
+    "k": 1
+   },
+   {
+    "id": "s9",
+    "t": "Plexus superficialis",
+    "k": 1
+   },
+   {
+    "id": "s10",
+    "t": "Spaltlinien (Stratum reticulare)",
+    "k": 1
+   },
+   {
+    "id": "s11",
+    "t": "Vater-Pacini-Körperchen",
+    "k": 2
+   },
+   {
+    "id": "s12",
+    "t": "Fettzellen als Energiespeicher",
+    "k": 2
+   },
+   {
+    "id": "s13",
+    "t": "Verschiebeschicht zur Körperfaszie",
+    "k": 2
+   }
+  ]
+ },
+ "tabellen": [
+  {
+   "id": "neunerregel",
+   "titel": "Neunerregel (Erwachsene)",
+   "ref": "S. 23 E",
+   "einheit": "2.1",
+   "spalten": [
+    "Anteil in %"
+   ],
+   "zeilen": [
+    [
+     "Kopf",
+     [
+      "9"
+     ]
+    ],
+    [
+     "ein Arm",
+     [
+      "9"
+     ]
+    ],
+    [
+     "Rumpf vorn",
+     [
+      "18"
+     ]
+    ],
+    [
+     "Rumpf hinten",
+     [
+      "18"
+     ]
+    ],
+    [
+     "ein Bein",
+     [
+      "18"
+     ]
+    ],
+    [
+     "äußeres Genitale",
+     [
+      "1"
+     ]
+    ]
+   ],
+   "fuss": "Bei Kindern und Kleinkindern muss die Regel altersabhängig korrigiert werden."
+  },
+  {
+   "id": "dornfortsaetze",
+   "titel": "Dornfortsätze als Orientierung",
+   "ref": "S. 35 D",
+   "einheit": "3.5",
+   "spalten": [
+    "Dornfortsatz"
+   ],
+   "zeilen": [
+    [
+     "deutlich vorspringend (Vertebra prominens)",
+     [
+      "C VII"
+     ]
+    ],
+    [
+     "Linie zwischen den Spinae scapulae",
+     [
+      "Th III"
+     ]
+    ],
+    [
+     "Linie zwischen den Anguli inferiores",
+     [
+      "Th VII"
+     ]
+    ],
+    [
+     "knapp unterhalb der 12. Rippe",
+     [
+      "Th XII"
+     ]
+    ],
+    [
+     "Linie der höchsten Punkte der Cristae iliacae",
+     [
+      "L IV"
+     ]
+    ],
+    [
+     "Linie der Spinae iliacae posteriores superiores",
+     [
+      "S II"
+     ]
+    ]
+   ],
+   "fuss": "Römische Ziffern mit Leerzeichen, z. B. Th III."
+  },
+  {
+   "id": "proportionen",
+   "titel": "Kopfhöhe zur Körperlänge",
+   "ref": "S. 22 A",
+   "einheit": "2.1",
+   "spalten": [
+    "Anteil"
+   ],
+   "zeilen": [
+    [
+     "Embryo Ende 2. Monat",
+     [
+      "1/2"
+     ]
+    ],
+    [
+     "Neugeborenes",
+     [
+      "1/4"
+     ]
+    ],
+    [
+     "6-jähriges Kind",
+     [
+      "1/6"
+     ]
+    ],
+    [
+     "Erwachsener",
+     [
+      "1/8"
+     ]
+    ]
+   ],
+   "fuss": "Als Bruch eingeben, z. B. 1/4."
+  }
+ ]
+}

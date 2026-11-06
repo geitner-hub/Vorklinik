@@ -1,0 +1,2183 @@
+{
+ "id": "rumpf-knochen",
+ "buch": "Prometheus LernAtlas – Allgemeine Anatomie und Bewegungssystem",
+ "teil": "Rumpfwand",
+ "titel": "Knochen, Bänder und Gelenke",
+ "seiten": "S. 108–151",
+ "bereiche": [
+  [
+   108,
+   151
+  ]
+ ],
+ "intro": "Lerntrainer für das Testat zum Rumpfskelett: Wirbelsäule, Bandscheibe, Bänder, Kopfgelenke, Thorax, Becken und Iliosakralgelenk. Die Tafeln sind echte anatomische Abbildungen (Gray’s Anatomy, 1918) mit abgedeckter Beschriftung.",
+ "einheiten": [
+  {
+   "nr": "1.1",
+   "titel": "Rumpfskelett",
+   "seite": 108
+  },
+  {
+   "nr": "1.2",
+   "titel": "Knöcherne Wirbelsäule",
+   "seite": 110
+  },
+  {
+   "nr": "1.3",
+   "titel": "Entwicklung der Wirbelsäule",
+   "seite": 112
+  },
+  {
+   "nr": "1.4",
+   "titel": "Aufbau eines Wirbels",
+   "seite": 114
+  },
+  {
+   "nr": "1.5",
+   "titel": "Halswirbelsäule",
+   "seite": 116
+  },
+  {
+   "nr": "1.6",
+   "titel": "Brustwirbelsäule",
+   "seite": 118
+  },
+  {
+   "nr": "1.7",
+   "titel": "Lendenwirbelsäule",
+   "seite": 120
+  },
+  {
+   "nr": "1.8",
+   "titel": "Kreuzbein und Steißbein",
+   "seite": 122
+  },
+  {
+   "nr": "1.9",
+   "titel": "Bandscheibe",
+   "seite": 124
+  },
+  {
+   "nr": "1.10",
+   "titel": "Bandapparat der Wirbelsäule",
+   "seite": 126
+  },
+  {
+   "nr": "1.11",
+   "titel": "Bandapparat der HWS",
+   "seite": 128
+  },
+  {
+   "nr": "1.12",
+   "titel": "Bänder der Kopfgelenke",
+   "seite": 130
+  },
+  {
+   "nr": "1.13",
+   "titel": "Wirbelbogengelenk, Bewegungssegment, Bewegungsausmaß",
+   "seite": 132
+  },
+  {
+   "nr": "1.14",
+   "titel": "Unkovertebralgelenke",
+   "seite": 134
+  },
+  {
+   "nr": "1.15",
+   "titel": "Schnittbildanatomie der LWS",
+   "seite": 136
+  },
+  {
+   "nr": "1.16",
+   "titel": "Degenerative Veränderungen der LWS",
+   "seite": 138
+  },
+  {
+   "nr": "1.17",
+   "titel": "Knöcherner Brustkorb",
+   "seite": 140
+  },
+  {
+   "nr": "1.18",
+   "titel": "Brustbein und Rippen",
+   "seite": 142
+  },
+  {
+   "nr": "1.19",
+   "titel": "Rippenwirbelgelenke und Thoraxbewegungen",
+   "seite": 144
+  },
+  {
+   "nr": "1.20",
+   "titel": "Knöchernes Becken",
+   "seite": 146
+  },
+  {
+   "nr": "1.21",
+   "titel": "Bandapparat und Beckenmaße",
+   "seite": 148
+  },
+  {
+   "nr": "1.22",
+   "titel": "Iliosakralgelenk",
+   "seite": 150
+  }
+ ],
+ "strukturen": {
+  "hws": {
+   "lat": "Pars cervicalis (HWS)",
+   "de": "Halswirbelsäule",
+   "info": "7 Halswirbel; physiologische Krümmung: Zervikallordose.",
+   "ref": "S. 110 A, 111 B"
+  },
+  "bws": {
+   "lat": "Pars thoracica (BWS)",
+   "de": "Brustwirbelsäule",
+   "info": "12 Brustwirbel; tragen über Gelenkflächen die Rippen; Thorakalkyphose.",
+   "ref": "S. 110 A, 111 B"
+  },
+  "lws": {
+   "lat": "Pars lumbalis (LWS)",
+   "de": "Lendenwirbelsäule",
+   "info": "5 Lendenwirbel mit den kräftigsten Wirbelkörpern; Lumballordose.",
+   "ref": "S. 110 A, 111 B"
+  },
+  "os-sacrum": {
+   "lat": "Os sacrum",
+   "de": "Kreuzbein",
+   "info": "Aus 5 Sakralwirbeln verschmolzen; fest im Beckenring eingebaut (Sakralkyphose).",
+   "ref": "S. 122 A–B, 146 B"
+  },
+  "zervikallordose": {
+   "lat": "Lordosis cervicalis",
+   "de": "Halslordose",
+   "info": "Nach ventral konvexe Krümmung; entsteht postnatal mit der Kopfkontrolle.",
+   "ref": "S. 111 B, 113 C"
+  },
+  "thorakalkyphose": {
+   "lat": "Kyphosis thoracica",
+   "de": "Brustkyphose",
+   "info": "Nach dorsal konvexe Krümmung der BWS; schon beim Neugeborenen angelegt.",
+   "ref": "S. 111 B, 113 B"
+  },
+  "lumballordose": {
+   "lat": "Lordosis lumbalis",
+   "de": "Lendenlordose",
+   "info": "Entsteht mit Sitzen, Stehen und Gehen; wird erst in der Pubertät endgültig fixiert.",
+   "ref": "S. 111 B, 113 C"
+  },
+  "sakralkyphose": {
+   "lat": "Kyphosis sacralis",
+   "de": "Sakralkyphose",
+   "info": "Nach dorsal konvexe Krümmung des Kreuzbeins.",
+   "ref": "S. 111 B"
+  },
+  "atlas": {
+   "lat": "Atlas (C I)",
+   "de": "1. Halswirbel",
+   "info": "Ohne Wirbelkörper und Dornfortsatz; Ring aus vorderem und hinterem Bogen mit zwei Massae laterales.",
+   "ref": "S. 115 D, 116 B, 117 C"
+  },
+  "axis": {
+   "lat": "Axis (C II)",
+   "de": "2. Halswirbel",
+   "info": "Trägt den Dens axis, um den sich der Atlas dreht.",
+   "ref": "S. 116 B, 117 C"
+  },
+  "dens-axis": {
+   "lat": "Dens axis",
+   "de": "Zahn des Axis",
+   "info": "Zapfen des Axis; bildet mit Fovea dentis und Lig. transversum atlantis das mediane untere Kopfgelenk. Liegt im Schwerelot.",
+   "ref": "S. 116 B, 130 A, 131 B"
+  },
+  "vertebra-prominens": {
+   "lat": "Vertebra prominens (C VII)",
+   "de": "7. Halswirbel",
+   "info": "Langer, nicht gegabelter Dornfortsatz; meist erster gut tastbarer Dornfortsatz.",
+   "ref": "S. 109 C, 116 A"
+  },
+  "proc-spinosus": {
+   "lat": "Processus spinosus",
+   "de": "Dornfortsatz",
+   "info": "Unpaarer Fortsatz des Wirbelbogens nach dorsal; Ansatz für Bänder und Muskeln. In der BWS lang und dachziegelartig nach kaudal geneigt.",
+   "ref": "S. 114 A, 118 A"
+  },
+  "proc-spinosus-bifidus": {
+   "lat": "Processus spinosus (gegabelt)",
+   "de": "gegabelter Dornfortsatz",
+   "info": "Die Dornfortsätze von C III–C VI sind kurz und gegabelt.",
+   "ref": "S. 116 A, 117 C"
+  },
+  "discus-intervertebralis": {
+   "lat": "Discus intervertebralis",
+   "de": "Bandscheibe",
+   "info": "Faserknorpelige Verbindung zweier Wirbelkörper aus Anulus fibrosus und Nucleus pulposus.",
+   "ref": "S. 124 A, 125 D"
+  },
+  "foramen-intervertebrale": {
+   "lat": "Foramen intervertebrale",
+   "de": "Zwischenwirbelloch",
+   "info": "Gebildet von Incisura vertebralis inferior und superior zweier Nachbarwirbel; Austritt des Spinalnervs.",
+   "ref": "S. 110 A c, 118 B"
+  },
+  "promontorium": {
+   "lat": "Promontorium",
+   "de": "Vorberg",
+   "info": "Vorderer oberer Rand der Basis ossis sacri; Bezugspunkt für Beckenmaße.",
+   "ref": "S. 122 A, 149 B"
+  },
+  "os-coccygis": {
+   "lat": "Os coccygis",
+   "de": "Steißbein",
+   "info": "3–4 Wirbelrudimente; meist über eine Knorpelhafte (Art. sacrococcygea) mit dem Kreuzbein verbunden.",
+   "ref": "S. 122 A–B"
+  },
+  "corpus-vertebrae": {
+   "lat": "Corpus vertebrae",
+   "de": "Wirbelkörper",
+   "info": "Tragender Teil des Wirbels; wird von kranial nach kaudal größer.",
+   "ref": "S. 114 A, 115 D"
+  },
+  "epiphysis-anularis": {
+   "lat": "Epiphysis anularis",
+   "de": "Randleiste",
+   "info": "Knöcherner Ring am Rand der Wirbelkörper-Endfläche; hier ist die Außenzone des Anulus fibrosus verankert.",
+   "ref": "S. 124 A, 125 D"
+  },
+  "pediculus": {
+   "lat": "Pediculus arcus vertebrae",
+   "de": "Bogenwurzel",
+   "info": "Verbindet den Wirbelbogen mit dem Wirbelkörper; begrenzt oben und unten die Incisurae vertebrales.",
+   "ref": "S. 114 A, 119 C"
+  },
+  "lamina": {
+   "lat": "Lamina arcus vertebrae",
+   "de": "Bogenplatte",
+   "info": "Hinterer, platter Teil des Wirbelbogens; zwischen benachbarten Laminae spannen die Ligg. flava.",
+   "ref": "S. 114 A, 119 C"
+  },
+  "foramen-vertebrale": {
+   "lat": "Foramen vertebrale",
+   "de": "Wirbelloch",
+   "info": "Von Wirbelkörper und -bogen umschlossen; alle zusammen bilden den Canalis vertebralis. HWS dreieckig groß, BWS rund, LWS dreieckig.",
+   "ref": "S. 114 A, 115 D"
+  },
+  "proc-transversus": {
+   "lat": "Processus transversus",
+   "de": "Querfortsatz",
+   "info": "Paariger seitlicher Fortsatz; an der BWS mit Gelenkfläche für das Tuberculum costae (Th I–X).",
+   "ref": "S. 114 A, 118 B"
+  },
+  "proc-costalis": {
+   "lat": "Processus costalis",
+   "de": "Rippenfortsatz",
+   "info": "Sog. Querfortsatz der Lendenwirbel; entwicklungsgeschichtlich ein Rippenrudiment, daher nicht homolog zum Proc. transversus.",
+   "ref": "S. 110 A, 114 C, 120 A"
+  },
+  "proc-articularis-superior": {
+   "lat": "Processus articularis superior",
+   "de": "oberer Gelenkfortsatz",
+   "info": "Trägt die Facies articularis superior; bildet mit dem unteren Gelenkfortsatz des Wirbels darüber ein Wirbelbogengelenk.",
+   "ref": "S. 114 A, 132 A"
+  },
+  "proc-articularis-inferior": {
+   "lat": "Processus articularis inferior",
+   "de": "unterer Gelenkfortsatz",
+   "info": "Artikuliert mit dem oberen Gelenkfortsatz des nächsttieferen Wirbels.",
+   "ref": "S. 114 A, 118 B"
+  },
+  "facies-articularis-superior": {
+   "lat": "Facies articularis superior",
+   "de": "obere Gelenkfläche",
+   "info": "Stellung je nach Abschnitt verschieden: HWS ca. 45° zur Horizontalen, BWS nach dorsal, LWS sagittal und nach medial.",
+   "ref": "S. 116 A, 118 A, 120 A, 132 A"
+  },
+  "proc-mammillaris": {
+   "lat": "Processus mammillaris",
+   "de": "Muskelhöcker",
+   "info": "Höcker an der Außenseite des oberen Gelenkfortsatzes der Lendenwirbel; Ursprung/Ansatz autochthoner Rückenmuskeln.",
+   "ref": "S. 120 A, 121 C"
+  },
+  "proc-accessorius": {
+   "lat": "Processus accessorius",
+   "de": "Nebenfortsatz",
+   "info": "Kleiner spitzer Fortsatz an der Basis des Proc. costalis; entspricht dem eigentlichen Querfortsatz des Lendenwirbels.",
+   "ref": "S. 120 A, 121 C"
+  },
+  "incisura-vertebralis-superior": {
+   "lat": "Incisura vertebralis superior",
+   "de": "obere Wirbeleinkerbung",
+   "info": "Flache Einkerbung oberhalb der Bogenwurzel; Teil des Foramen intervertebrale.",
+   "ref": "S. 118 B"
+  },
+  "incisura-vertebralis-inferior": {
+   "lat": "Incisura vertebralis inferior",
+   "de": "untere Wirbeleinkerbung",
+   "info": "Tiefe Einkerbung unterhalb der Bogenwurzel; Teil des Foramen intervertebrale.",
+   "ref": "S. 118 B"
+  },
+  "canalis-vertebralis": {
+   "lat": "Canalis vertebralis",
+   "de": "Wirbelkanal",
+   "info": "Gesamtheit der Wirbellöcher; enthält Rückenmark bzw. Cauda equina mit Hüllen.",
+   "ref": "S. 114 A, 136 A"
+  },
+  "fovea-costalis-superior": {
+   "lat": "Fovea costalis superior",
+   "de": "obere Rippengelenkfläche",
+   "info": "Am Wirbelkörper oben; bildet mit der Fovea costalis inferior des Wirbels darüber die Pfanne für den Rippenkopf.",
+   "ref": "S. 118 A–B"
+  },
+  "fovea-costalis-inferior": {
+   "lat": "Fovea costalis inferior",
+   "de": "untere Rippengelenkfläche",
+   "info": "Am Wirbelkörper unten (Th I–IX). Th XI und XII haben je eine komplette Fovea costalis.",
+   "ref": "S. 118 A–B"
+  },
+  "fovea-costalis-proc-transversi": {
+   "lat": "Fovea costalis processus transversi",
+   "de": "Querfortsatz-Gelenkfläche",
+   "info": "Gelenkfläche für das Tuberculum costae; fehlt an Th XI und XII.",
+   "ref": "S. 118 A–B, 145 C"
+  },
+  "proc-uncinatus": {
+   "lat": "Uncus corporis vertebrae (Proc. uncinatus)",
+   "de": "Wirbelkörperhaken",
+   "info": "Seitliche Erhebung der oberen Endfläche von C III–C VII; entsteht erst um das 10. Lebensjahr, Grundlage der Unkovertebralgelenke.",
+   "ref": "S. 116 A, 134 A"
+  },
+  "foramen-transversarium": {
+   "lat": "Foramen transversarium",
+   "de": "Querfortsatzloch",
+   "info": "Zwischen vorderer und hinterer Spange des Querfortsatzes; Durchtritt der A. vertebralis (ab C VI nach kranial).",
+   "ref": "S. 114 C, 116 A"
+  },
+  "tuberculum-anterius": {
+   "lat": "Tuberculum anterius",
+   "de": "vorderer Höcker",
+   "info": "Ende der vorderen Spange des Querfortsatzes; entspricht dem Rippenrudiment.",
+   "ref": "S. 114 C, 117 C"
+  },
+  "tuberculum-posterius": {
+   "lat": "Tuberculum posterius",
+   "de": "hinterer Höcker",
+   "info": "Ende der hinteren Spange des Querfortsatzes (eigentlicher Querfortsatz).",
+   "ref": "S. 114 C, 117 C"
+  },
+  "sulcus-n-spinalis": {
+   "lat": "Sulcus nervi spinalis",
+   "de": "Spinalnervenrinne",
+   "info": "Rinne auf der Oberseite des Querfortsatzes (ab C III), in der der Spinalnerv nach lateral zieht.",
+   "ref": "S. 116 A, 134 B"
+  },
+  "arcus-anterior": {
+   "lat": "Arcus anterior atlantis",
+   "de": "vorderer Atlasbogen",
+   "info": "Trägt innen die Fovea dentis und außen das Tuberculum anterius.",
+   "ref": "S. 117 C a"
+  },
+  "arcus-posterior": {
+   "lat": "Arcus posterior atlantis",
+   "de": "hinterer Atlasbogen",
+   "info": "Ersetzt Wirbelbogen und Dornfortsatz; oben die Rinne für die A. vertebralis.",
+   "ref": "S. 117 C a"
+  },
+  "tuberculum-anterius-atlantis": {
+   "lat": "Tuberculum anterius atlantis",
+   "de": "vorderer Atlashöcker",
+   "info": "Höcker auf der Vorderseite des vorderen Atlasbogens.",
+   "ref": "S. 117 C a"
+  },
+  "tuberculum-posterius-atlantis": {
+   "lat": "Tuberculum posterius atlantis",
+   "de": "hinterer Atlashöcker",
+   "info": "Rudiment des Dornfortsatzes am hinteren Atlasbogen.",
+   "ref": "S. 117 C a"
+  },
+  "massa-lateralis": {
+   "lat": "Massa lateralis atlantis",
+   "de": "Seitenmasse des Atlas",
+   "info": "Trägt oben die Gelenkfläche für die Kondylen des Hinterhaupts, unten die für den Axis.",
+   "ref": "S. 117 C a, 131 B"
+  },
+  "fovea-articularis-superior": {
+   "lat": "Facies (Fovea) articularis superior atlantis",
+   "de": "obere Atlasgelenkfläche",
+   "info": "Oval, leicht konkav; artikuliert mit den Condyli occipitales (oberes Kopfgelenk).",
+   "ref": "S. 117 C a, 128 B"
+  },
+  "fovea-dentis": {
+   "lat": "Fovea dentis",
+   "de": "Zahngrube",
+   "info": "Gelenkfläche an der Innenseite des vorderen Atlasbogens für den Dens axis.",
+   "ref": "S. 117 C a, 131 B"
+  },
+  "sulcus-a-vertebralis": {
+   "lat": "Sulcus arteriae vertebralis",
+   "de": "Rinne der Wirbelarterie",
+   "info": "Auf dem hinteren Atlasbogen; hier verläuft die A. vertebralis zum Foramen magnum.",
+   "ref": "S. 116 B, 117 C a"
+  },
+  "art-atlantoaxialis-mediana": {
+   "lat": "Articulatio atlantoaxialis mediana",
+   "de": "medianes unteres Kopfgelenk",
+   "info": "Unpaares Gelenk mit vorderer (Dens–Fovea dentis) und hinterer Abteilung (Dens–Lig. transversum); übernimmt fast 70 % der HWS-Rotation.",
+   "ref": "S. 128 B, 131 B"
+  },
+  "lig-transversum-atlantis": {
+   "lat": "Ligamentum transversum atlantis",
+   "de": "Querband des Atlas",
+   "info": "Spannt zwischen den Massae laterales hinter dem Dens; der druckbelastete Teil besteht aus Faserknorpel.",
+   "ref": "S. 130 A c, 131 B"
+  },
+  "os-occipitale": {
+   "lat": "Os occipitale",
+   "de": "Hinterhauptsbein",
+   "info": "Bildet mit den Condyli occipitales das obere Kopfgelenk.",
+   "ref": "S. 128 A, 130 A"
+  },
+  "foramen-magnum": {
+   "lat": "Foramen magnum",
+   "de": "großes Hinterhauptsloch",
+   "info": "Am Vorderrand setzt das Lig. apicis dentis an, am Hinterrand die Membrana atlantooccipitalis posterior.",
+   "ref": "S. 130 A"
+  },
+  "condylus-occipitalis": {
+   "lat": "Condylus occipitalis",
+   "de": "Hinterhauptskondyle",
+   "info": "Konvex; artikuliert mit der oberen Gelenkfläche des Atlas (Art. atlantooccipitalis).",
+   "ref": "S. 128 B, 130 A"
+  },
+  "ligg-alaria": {
+   "lat": "Ligamenta alaria",
+   "de": "Flügelbänder",
+   "info": "Paarig; von den Seitenflächen des Dens zu den Innenflächen der Condyli occipitales.",
+   "ref": "S. 130 A d, 131 C"
+  },
+  "lig-apicis-dentis": {
+   "lat": "Ligamentum apicis dentis",
+   "de": "Zahnspitzenband",
+   "info": "Unpaar; von der Densspitze zum Vorderrand des Foramen magnum.",
+   "ref": "S. 130 A d"
+  },
+  "fasciculi-longitudinales": {
+   "lat": "Fasciculi longitudinales",
+   "de": "Längszüge",
+   "info": "Schwache vertikale Züge des Kreuzbandes vom Foramen magnum zum Axiskörper.",
+   "ref": "S. 130 A c"
+  },
+  "lig-cruciforme": {
+   "lat": "Ligamentum cruciforme atlantis",
+   "de": "Kreuzband des Atlas",
+   "info": "Lig. transversum atlantis + Fasciculi longitudinales; wird nach Entfernen der Membrana tectoria sichtbar.",
+   "ref": "S. 130 A c"
+  },
+  "membrana-tectoria": {
+   "lat": "Membrana tectoria",
+   "de": "Deckmembran",
+   "info": "Verbreiterte Fortsetzung des Lig. longitudinale posterius bis zum Clivus; vordere Wand des Wirbelkanals auf Höhe der Kopfgelenke.",
+   "ref": "S. 130 A b"
+  },
+  "nucleus-pulposus": {
+   "lat": "Nucleus pulposus",
+   "de": "Gallertkern",
+   "info": "Zu 80–85 % Wasser; wirkt als „Wasserkissen“ und verteilt den Druck auf Deck- und Bodenplatten.",
+   "ref": "S. 124 A, 125 E"
+  },
+  "anulus-fibrosus": {
+   "lat": "Anulus fibrosus",
+   "de": "Faserring",
+   "info": "Zugfeste Hülle der Bandscheibe; wandelt Druck in Zug um.",
+   "ref": "S. 124 A–C"
+  },
+  "anulus-aussenzone": {
+   "lat": "Außenzone des Anulus fibrosus",
+   "de": "äußerer Faserring",
+   "info": "Straffes Bindegewebe mit sich überkreuzenden Typ-I-Kollagenlamellen; in den Randleisten verankert.",
+   "ref": "S. 124 A–B"
+  },
+  "anulus-innenzone": {
+   "lat": "Innenzone des Anulus fibrosus",
+   "de": "innerer Faserring",
+   "info": "Faserknorpel mit Typ-II-Kollagen, das in die hyalinen Deckplatten einstrahlt.",
+   "ref": "S. 124 A"
+  },
+  "deckplatte": {
+   "lat": "Hyalinknorpelige Deck-/Bodenplatte",
+   "de": "Abschlussplatte",
+   "info": "Hyaliner Knorpel zwischen Bandscheibe und Wirbelkörper; die siebartige Knochenplatte darunter ernährt die Bandscheibe.",
+   "ref": "S. 124 C, 125 D"
+  },
+  "lig-longitudinale-anterius": {
+   "lat": "Ligamentum longitudinale anterius",
+   "de": "vorderes Längsband",
+   "info": "Breit auf der Vorderseite der Wirbelkörper von der Schädelbasis bis zum Os sacrum; fest am Wirbelkörper, locker an der Bandscheibe.",
+   "ref": "S. 126 B, 127 D a"
+  },
+  "lig-longitudinale-posterius": {
+   "lat": "Ligamentum longitudinale posterius",
+   "de": "hinteres Längsband",
+   "info": "Vom Clivus bis in den Sakralkanal; fest mit den Bandscheiben verwachsen, lässt seitlich aber Teile unverstärkt.",
+   "ref": "S. 126 B, 127 D b"
+  },
+  "lig-flavum": {
+   "lat": "Ligamenta flava",
+   "de": "gelbe Bänder",
+   "info": "Elastisch, zwischen den Laminae; stabilisieren in der Sagittalebene und hemmen übermäßige Ventralflexion.",
+   "ref": "S. 126 C, 127 D c"
+  },
+  "lig-interspinale": {
+   "lat": "Ligamenta interspinalia",
+   "de": "Zwischendornfortsatzbänder",
+   "info": "Verbinden benachbarte Dornfortsätze.",
+   "ref": "S. 126 B–C"
+  },
+  "lig-supraspinale": {
+   "lat": "Ligamentum supraspinale",
+   "de": "Überdornfortsatzband",
+   "info": "Zieht über die Spitzen der Dornfortsätze; im Halsbereich zum Lig. nuchae verbreitert.",
+   "ref": "S. 126 B–C, 129 C"
+  },
+  "proc-articularis-superior-sacri": {
+   "lat": "Processus articularis superior (Os sacrum)",
+   "de": "oberer Gelenkfortsatz des Kreuzbeins",
+   "info": "Nahezu frontal gestellt; artikuliert mit dem 5. Lendenwirbel.",
+   "ref": "S. 122 B"
+  },
+  "crista-sacralis-mediana": {
+   "lat": "Crista sacralis mediana",
+   "de": "mittlere Kreuzbeinleiste",
+   "info": "Aus den verschmolzenen Dornfortsätzen.",
+   "ref": "S. 122 B"
+  },
+  "crista-sacralis-medialis": {
+   "lat": "Crista sacralis medialis",
+   "de": "innere Kreuzbeinleiste",
+   "info": "Paarig, aus den verschmolzenen Gelenkfortsätzen; endet kaudal in den Cornua sacralia.",
+   "ref": "S. 122 B"
+  },
+  "crista-sacralis-lateralis": {
+   "lat": "Crista sacralis lateralis",
+   "de": "äußere Kreuzbeinleiste",
+   "info": "Paarig lateral der Foramina sacralia posteriora; aus den verschmolzenen Querfortsätzen.",
+   "ref": "S. 122 B"
+  },
+  "foramina-sacralia-posteriora": {
+   "lat": "Foramina sacralia posteriora",
+   "de": "hintere Kreuzbeinlöcher",
+   "info": "Austritt der Rr. dorsales der Sakralnerven.",
+   "ref": "S. 122 B, 123 E"
+  },
+  "hiatus-sacralis": {
+   "lat": "Hiatus sacralis",
+   "de": "Kreuzbeinspalt",
+   "info": "Öffnung durch den fehlenden 5. Wirbelbogen; Zugang zum Canalis sacralis (Hiatus-sacralis-Anästhesie).",
+   "ref": "S. 122 B"
+  },
+  "cornua-sacralia": {
+   "lat": "Cornua sacralia",
+   "de": "Kreuzbeinhörner",
+   "info": "Rudimentäre Gelenkfortsätze des 5. Sakralwirbels beiderseits des Hiatus sacralis.",
+   "ref": "S. 122 B"
+  },
+  "pars-lateralis": {
+   "lat": "Pars lateralis",
+   "de": "Seitenteil des Kreuzbeins",
+   "info": "Aus Querfortsätzen und Rippenrudimenten; trägt seitlich die Facies auricularis.",
+   "ref": "S. 114 C d, 122 B"
+  },
+  "tuberositas-ossis-sacri": {
+   "lat": "Tuberositas ossis sacri",
+   "de": "Kreuzbeinrauigkeit",
+   "info": "Ansatz der kräftigen Ligg. sacroiliaca interossea.",
+   "ref": "S. 123 C, 151 C"
+  },
+  "foramina-sacralia-anteriora": {
+   "lat": "Foramina sacralia anteriora",
+   "de": "vordere Kreuzbeinlöcher",
+   "info": "Vier Lochpaare auf der Facies pelvica; Austritt der Rami anteriores der Sakralnerven.",
+   "ref": "S. 122 A"
+  },
+  "lineae-transversae": {
+   "lat": "Lineae transversae",
+   "de": "Querleisten",
+   "info": "Quer verlaufende Leisten auf der Facies pelvica; Reste der Verschmelzung der fünf Sakralwirbelkörper.",
+   "ref": "S. 122 A"
+  },
+  "ala-ossis-sacri": {
+   "lat": "Ala ossis sacri",
+   "de": "Kreuzbeinflügel",
+   "info": "Seitlicher Teil der Basis ossis sacri neben dem Promontorium; Teil der Pars lateralis.",
+   "ref": "S. 122 A"
+  },
+  "facies-auricularis": {
+   "lat": "Facies auricularis",
+   "de": "Ohrfläche",
+   "info": "Ohrmuschelförmige Gelenkfläche an der Pars lateralis; bildet mit dem Os ilium das Iliosakralgelenk.",
+   "ref": "S. 122 B, 151 C"
+  },
+  "membrana-atlantooccipitalis-posterior": {
+   "lat": "Membrana atlantooccipitalis posterior",
+   "de": "hintere Atlas-Hinterhaupt-Membran",
+   "info": "Spannt sich zwischen hinterem Atlasbogen und Hinterrand des Foramen magnum; wird seitlich von A. vertebralis und N. suboccipitalis durchbohrt.",
+   "ref": "S. 130 A, 131 C"
+  },
+  "sulcus-costae": {
+   "lat": "Sulcus costae",
+   "de": "Rippenfurche",
+   "info": "Rinne am Unterrand der Rippeninnenseite; hier verlaufen die Interkostalgefäße und der N. intercostalis.",
+   "ref": "S. 143 D"
+  },
+  "apex-ossis-sacri": {
+   "lat": "Apex ossis sacri",
+   "de": "Kreuzbeinspitze",
+   "info": "Kaudales schmales Ende des Kreuzbeins; Verbindung zum Steißbein.",
+   "ref": "S. 122 A–B"
+  },
+  "incisura-jugularis": {
+   "lat": "Incisura jugularis",
+   "de": "Drosselgrubeneinschnitt",
+   "info": "Oberrand des Manubrium; untere Begrenzung der tastbaren Drosselgrube.",
+   "ref": "S. 142 A"
+  },
+  "incisura-clavicularis": {
+   "lat": "Incisura clavicularis",
+   "de": "Schlüsselbeineinschnitt",
+   "info": "Gelenkfläche des Manubrium für die Clavicula.",
+   "ref": "S. 142 A"
+  },
+  "manubrium": {
+   "lat": "Manubrium sterni",
+   "de": "Handgriff des Brustbeins",
+   "info": "Oberster Teil des Sternum; Incisura costalis I für die 1. Rippe.",
+   "ref": "S. 142 A"
+  },
+  "angulus-sterni": {
+   "lat": "Angulus sterni",
+   "de": "Brustbeinwinkel",
+   "info": "Knick zwischen Manubrium und Corpus; hier setzt die 2. Rippe an (wichtige Tastmarke).",
+   "ref": "S. 142 A"
+  },
+  "corpus-sterni": {
+   "lat": "Corpus sterni",
+   "de": "Brustbeinkörper",
+   "info": "Mit den Incisurae costales III–VII.",
+   "ref": "S. 142 A"
+  },
+  "proc-xiphoideus": {
+   "lat": "Processus xiphoideus",
+   "de": "Schwertfortsatz",
+   "info": "Trägt keine Rippen; sehr variabel, oft noch beim Erwachsenen knorpelig.",
+   "ref": "S. 142 A"
+  },
+  "sternum": {
+   "lat": "Sternum",
+   "de": "Brustbein",
+   "info": "Manubrium, Corpus und Proc. xiphoideus.",
+   "ref": "S. 142 A"
+  },
+  "costa-prima": {
+   "lat": "Costa prima",
+   "de": "1. Rippe",
+   "info": "Kurz und breit, ohne Crista colli costae; synchondrotisch mit dem Manubrium verbunden.",
+   "ref": "S. 141 B, 143 C a"
+  },
+  "cartilago-costalis": {
+   "lat": "Cartilago costalis",
+   "de": "Rippenknorpel",
+   "info": "Knorpeliger Teil der Rippe; wird von der 1. bis zur 7. Rippe länger, danach wieder kürzer.",
+   "ref": "S. 143 C–D"
+  },
+  "arcus-costalis": {
+   "lat": "Arcus costalis",
+   "de": "Rippenbogen",
+   "info": "Aus den Knorpeln der 7.–10. Rippe; die 8.–10. Rippe legen sich jeweils der nächsthöheren an.",
+   "ref": "S. 140 A, 141 C"
+  },
+  "costae-verae": {
+   "lat": "Costae verae (I–VII)",
+   "de": "echte Rippen",
+   "info": "Erreichen das Brustbein direkt.",
+   "ref": "S. 141 C"
+  },
+  "costae-spuriae": {
+   "lat": "Costae spuriae (VIII–XII)",
+   "de": "falsche Rippen",
+   "info": "Erreichen das Sternum nicht direkt; VIII–X über den Rippenbogen.",
+   "ref": "S. 141 C"
+  },
+  "costae-fluctuantes": {
+   "lat": "Costae fluctuantes (XI–XII)",
+   "de": "freie Rippen",
+   "info": "Enden frei in der seitlichen Bauchwand.",
+   "ref": "S. 141 C"
+  },
+  "apertura-superior": {
+   "lat": "Apertura thoracis superior",
+   "de": "obere Thoraxapertur",
+   "info": "Obere Öffnung des Brustkorbs.",
+   "ref": "S. 140 A"
+  },
+  "apertura-inferior": {
+   "lat": "Apertura thoracis inferior",
+   "de": "untere Thoraxapertur",
+   "info": "Untere Öffnung; wird mit dem Alter kleiner.",
+   "ref": "S. 140 A"
+  },
+  "caput-costae": {
+   "lat": "Caput costae",
+   "de": "Rippenkopf",
+   "info": "Artikuliert (2.–10. Rippe) mit zwei Wirbelkörpern; durch die Crista capitis costae geteilt.",
+   "ref": "S. 143 D, 145 C"
+  },
+  "collum-costae": {
+   "lat": "Collum costae",
+   "de": "Rippenhals",
+   "info": "Vom Caput bis zum Tuberculum; die Bewegungsachse der Rippe verläuft parallel zum Rippenhals.",
+   "ref": "S. 143 C–D, 144 A"
+  },
+  "tuberculum-costae": {
+   "lat": "Tuberculum costae",
+   "de": "Rippenhöckerchen",
+   "info": "Gelenkfläche für die Fovea costalis proc. transversi (1.–10. Rippe).",
+   "ref": "S. 143 D, 145 C"
+  },
+  "angulus-costae": {
+   "lat": "Angulus costae",
+   "de": "Rippenwinkel",
+   "info": "Hier biegt der Rippenkörper nach vorn um; bildet bei Skoliose den Rippenbuckel.",
+   "ref": "S. 143 D, 141 D"
+  },
+  "corpus-costae": {
+   "lat": "Corpus costae",
+   "de": "Rippenkörper",
+   "info": "Unten mit Sulcus costae für die Interkostalgefäße und -nerven (nicht bei 1., 11., 12. Rippe).",
+   "ref": "S. 143 C–D"
+  },
+  "art-capitis-costae": {
+   "lat": "Articulatio capitis costae",
+   "de": "Rippenkopfgelenk",
+   "info": "Rippenkopf mit Fovea costalis; bei der 2.–10. Rippe zweikammerig durch das Lig. capitis costae intraarticulare.",
+   "ref": "S. 145 C"
+  },
+  "art-costotransversaria": {
+   "lat": "Articulatio costotransversaria",
+   "de": "Rippenhöckergelenk",
+   "info": "Tuberculum costae mit Querfortsatz; fehlt bei der 11. und 12. Rippe.",
+   "ref": "S. 145 C"
+  },
+  "lig-capitis-costae-radiatum": {
+   "lat": "Ligamentum capitis costae radiatum",
+   "de": "Strahlenband des Rippenkopfes",
+   "info": "Verstärkt die Kapsel aller Rippenkopfgelenke.",
+   "ref": "S. 145 C"
+  },
+  "lig-costotransversarium-laterale": {
+   "lat": "Ligamentum costotransversarium laterale",
+   "de": "seitliches Rippen-Querfortsatz-Band",
+   "info": "Von der Querfortsatzspitze zum Tuberculum costae.",
+   "ref": "S. 145 C"
+  },
+  "crista-iliaca": {
+   "lat": "Crista iliaca",
+   "de": "Darmbeinkamm",
+   "info": "Die Verbindungslinie der höchsten Punkte liegt auf Höhe des Dornfortsatzes L IV.",
+   "ref": "S. 109 C, 146 A"
+  },
+  "fossa-iliaca": {
+   "lat": "Fossa iliaca",
+   "de": "Darmbeingrube",
+   "info": "Innenfläche der Darmbeinschaufel.",
+   "ref": "S. 146 A"
+  },
+  "sias": {
+   "lat": "Spina iliaca anterior superior",
+   "de": "vorderer oberer Darmbeinstachel",
+   "info": "Gut tastbar; bei korrekter Beckenstellung auf einer Horizontalen mit der SIPS.",
+   "ref": "S. 111 C, 146 A"
+  },
+  "siai": {
+   "lat": "Spina iliaca anterior inferior",
+   "de": "vorderer unterer Darmbeinstachel",
+   "info": "Unterhalb der SIAS am Vorderrand des Darmbeins.",
+   "ref": "S. 146 A"
+  },
+  "sips": {
+   "lat": "Spina iliaca posterior superior",
+   "de": "hinterer oberer Darmbeinstachel",
+   "info": "Tastpunkt beim Vorlaufphänomen (Standing-Flexion-Test).",
+   "ref": "S. 146 A b, 150 B"
+  },
+  "art-sacroiliaca": {
+   "lat": "Articulatio sacroiliaca",
+   "de": "Iliosakralgelenk",
+   "info": "Echtes Gelenk, aber durch straffe Kapsel und Bänder kaum beweglich (Amphiarthrose).",
+   "ref": "S. 150 A, 151 C"
+  },
+  "linea-terminalis": {
+   "lat": "Linea terminalis",
+   "de": "Grenzlinie",
+   "info": "Promontorium – Linea arcuata – Pecten ossis pubis – oberer Symphysenrand; Grenze zwischen großem und kleinem Becken.",
+   "ref": "S. 149 B–C"
+  },
+  "spina-ischiadica": {
+   "lat": "Spina ischiadica",
+   "de": "Sitzbeinstachel",
+   "info": "Ansatz des Lig. sacrospinale; Abstand beider Spinae = Diameter transversa der Beckenenge (11 cm).",
+   "ref": "S. 146 A, 149 C"
+  },
+  "acetabulum": {
+   "lat": "Acetabulum",
+   "de": "Hüftpfanne",
+   "info": "Gelenkpfanne des Hüftgelenks, gebildet von Os ilium, ischii und pubis.",
+   "ref": "S. 146 A"
+  },
+  "foramen-obturatum": {
+   "lat": "Foramen obturatum",
+   "de": "Hüftbeinloch",
+   "info": "Von der Membrana obturatoria verschlossen.",
+   "ref": "S. 146 A, 148 A"
+  },
+  "tuberculum-pubicum": {
+   "lat": "Tuberculum pubicum",
+   "de": "Schambeinhöcker",
+   "info": "Höcker am Schambein seitlich der Symphyse.",
+   "ref": "S. 146 A"
+  },
+  "symphysis": {
+   "lat": "Symphysis pubica",
+   "de": "Schambeinfuge",
+   "info": "Knorpelige Verbindung der Schambeine; schließt den Beckenring vorn.",
+   "ref": "S. 146 B, 149 C"
+  },
+  "tuber-ischiadicum": {
+   "lat": "Tuber ischiadicum",
+   "de": "Sitzbeinhöcker",
+   "info": "Ansatz des Lig. sacrotuberale.",
+   "ref": "S. 146 A, 148 A"
+  },
+  "angulus-subpubicus": {
+   "lat": "Angulus subpubicus / Arcus pubicus",
+   "de": "unterer Schambeinwinkel",
+   "info": "Mann ca. 70° (Angulus subpubicus), Frau 90–100° (Arcus pubicus).",
+   "ref": "S. 147 D, 149 D"
+  },
+  "os-ilium": {
+   "lat": "Os ilium",
+   "de": "Darmbein",
+   "info": "Teil des Hüftbeins (Os coxae).",
+   "ref": "S. 146 A"
+  },
+  "os-pubis": {
+   "lat": "Os pubis",
+   "de": "Schambein",
+   "info": "Teil des Hüftbeins mit R. superior und inferior.",
+   "ref": "S. 146 A, 147 C"
+  },
+  "os-ischii": {
+   "lat": "Os ischii",
+   "de": "Sitzbein",
+   "info": "Teil des Hüftbeins mit Tuber und Spina ischiadica.",
+   "ref": "S. 146 A"
+  },
+  "lig-iliolumbale": {
+   "lat": "Ligamentum iliolumbale",
+   "de": "Darmbein-Lenden-Band",
+   "info": "Vom Proc. costalis L IV/L V zur Crista iliaca; sichert dorsal das Iliosakralgelenk.",
+   "ref": "S. 148 A"
+  },
+  "ligg-sacroiliaca-posteriora": {
+   "lat": "Ligamenta sacroiliaca posteriora",
+   "de": "hintere Kreuz-Darmbein-Bänder",
+   "info": "Bedecken die mächtigen Ligg. sacroiliaca interossea.",
+   "ref": "S. 148 A b, 151 C"
+  },
+  "lig-sacrotuberale": {
+   "lat": "Ligamentum sacrotuberale",
+   "de": "Kreuzbein-Sitzbeinhöcker-Band",
+   "info": "Vom Kreuzbein zum Tuber ischiadicum; verhindert die dorsale Kippung des Beckens.",
+   "ref": "S. 148 A, 151 C"
+  },
+  "lig-sacrospinale": {
+   "lat": "Ligamentum sacrospinale",
+   "de": "Kreuzbein-Sitzbeinstachel-Band",
+   "info": "Vom Kreuzbein zur Spina ischiadica; trennt Foramen ischiadicum majus und minus.",
+   "ref": "S. 148 A, 151 C"
+  },
+  "foramen-ischiadicum-majus": {
+   "lat": "Foramen ischiadicum majus",
+   "de": "großes Sitzbeinloch",
+   "info": "Oberhalb des Lig. sacrospinale.",
+   "ref": "S. 148 A b"
+  },
+  "foramen-ischiadicum-minus": {
+   "lat": "Foramen ischiadicum minus",
+   "de": "kleines Sitzbeinloch",
+   "info": "Zwischen Lig. sacrospinale und Lig. sacrotuberale.",
+   "ref": "S. 148 A b"
+  },
+  "conjugata-vera": {
+   "lat": "Conjugata vera (Diameter conjugata)",
+   "de": "wahrer gerader Durchmesser",
+   "info": "Promontorium – Hinterrand der Symphyse: 11 cm; kleinster gerader Durchmesser des kleinen Beckens.",
+   "ref": "S. 149 B–C"
+  },
+  "conjugata-diagonalis": {
+   "lat": "Conjugata diagonalis",
+   "de": "schräger Durchmesser",
+   "info": "Promontorium – Unterrand der Symphyse: 12,5–13 cm; vaginal abschätzbar.",
+   "ref": "S. 149 B–C"
+  },
+  "conjugata-recta": {
+   "lat": "Conjugata recta",
+   "de": "gerader Durchmesser des Beckenausgangs",
+   "info": "Unterrand der Symphyse – Steißbeinspitze: 9 (+2) cm.",
+   "ref": "S. 149 B–C, 150 B"
+  }
+ },
+ "karten": [
+  {
+   "id": "k0",
+   "f": "Welche Knochen gehören zum Rumpfskelett?",
+   "a": "Wirbelsäule, Rippen und Brustbein (Sternum).",
+   "e": "1.1",
+   "ref": "S. 108 A"
+  },
+  {
+   "id": "k1",
+   "f": "Welche Dornfortsätze dienen als Orientierung, und wo liegen sie?",
+   "a": "C VII: Übergang HWS/BWS (Vertebra prominens) · Th III: Linie zwischen den Spinae scapulae · Th VII: Höhe der unteren Schulterblattwinkel · Th XII: knapp unterhalb des Ansatzes der 12. Rippe · L IV: Linie zwischen den höchsten Punkten der Cristae iliacae.",
+   "e": "1.1",
+   "ref": "S. 109 C"
+  },
+  {
+   "id": "k2",
+   "f": "Warum liegt der Dornfortsatz von Th V auf Höhe des 6. Brustwirbelkörpers?",
+   "a": "Die Dornfortsätze der BWS verlaufen schräg abwärts.",
+   "e": "1.1",
+   "ref": "S. 109 C"
+  },
+  {
+   "id": "k3",
+   "f": "Nenne die vier Abschnitte und Krümmungen der Wirbelsäule.",
+   "a": "HWS – Zervikallordose · BWS – Thorakalkyphose · LWS – Lumballordose · Os sacrum – Sakralkyphose.",
+   "e": "1.2",
+   "ref": "S. 111 B"
+  },
+  {
+   "id": "k4",
+   "f": "Lumbalisation vs. Sakralisation?",
+   "a": "Lumbalisation: S I nicht mit dem Kreuzbein verschmolzen, also ein Lendenwirbel zusätzlich. Sakralisation: L V mit dem Kreuzbein synostosiert, also ein Lendenwirbel weniger.",
+   "e": "1.2",
+   "ref": "S. 111 B"
+  },
+  {
+   "id": "k5",
+   "f": "Lumbosakralwinkel, Sakralwinkel, Beckenneigungswinkel: Werte?",
+   "a": "Lumbosakralwinkel ca. 143° · Sakralwinkel ca. 30° · Beckenneigungswinkel ca. 60°.",
+   "e": "1.2",
+   "ref": "S. 111 C"
+  },
+  {
+   "id": "k6",
+   "f": "Welche Strukturen liegen im Schwerelot?",
+   "a": "Äußerer Gehörgang, Dens axis, die Übergänge zwischen Lordosen und Kyphosen und der Körperschwerpunkt direkt ventral des Promontorium.",
+   "e": "1.2",
+   "ref": "S. 111 C"
+  },
+  {
+   "id": "k7",
+   "f": "In welche Anteile differenzieren sich die Somiten?",
+   "a": "Myotom, Dermatom und Sklerotom. Aus den Sklerotomzellen entsteht die Wirbelsäule.",
+   "e": "1.3",
+   "ref": "S. 112 A"
+  },
+  {
+   "id": "k8",
+   "f": "Wie entsteht ein Wirbelkörper aus den Sklerotomen?",
+   "a": "Kaudaler und kranialer Sklerotomabschnitt benachbarter Segmente verschmelzen. Deshalb überbrücken die Myotome später die Bandscheibe und verbinden zwei Wirbel (Bewegungssegment).",
+   "e": "1.3",
+   "ref": "S. 112 A"
+  },
+  {
+   "id": "k9",
+   "f": "Spondylolyse und Spondylolisthesis?",
+   "a": "Spondylolyse: meist beidseitiger Defekt der Wirbelbögen (v. a. L IV/L V). Spondylolisthesis: Abgleiten des Wirbelkörpers nach vorn (Wirbelgleiten), wenn zusätzlich die Bandscheibe geschädigt ist.",
+   "e": "1.3",
+   "ref": "S. 112 A"
+  },
+  {
+   "id": "k10",
+   "f": "Welche Krümmung hat die Wirbelsäule des Neugeborenen?",
+   "a": "Sie ist durchgehend kyphosiert. Halslordose und Lendenlordose entstehen erst postnatal.",
+   "e": "1.3",
+   "ref": "S. 113 B–C"
+  },
+  {
+   "id": "k11",
+   "f": "Aus welchen Bauelementen besteht ein typischer Wirbel?",
+   "a": "Wirbelkörper, Wirbelbogen, Dornfortsatz, zwei Querfortsätze (an der LWS Procc. costales) und vier Gelenkfortsätze.",
+   "e": "1.4",
+   "ref": "S. 114 A"
+  },
+  {
+   "id": "k12",
+   "f": "Wo steckt das Rippenrudiment in den einzelnen Wirbelsäulenabschnitten?",
+   "a": "HWS: Tuberculum anterius · BWS: echte Rippe · LWS: Proc. costalis · Os sacrum: vorderer Teil der Pars lateralis.",
+   "e": "1.4",
+   "ref": "S. 114 C"
+  },
+  {
+   "id": "k13",
+   "f": "Warum kann eine Halsrippe Beschwerden machen?",
+   "a": "Sie engt die Skalenuslücke ein und drückt auf Plexus brachialis und A. subclavia (Halsrippensyndrom).",
+   "e": "1.4",
+   "ref": "S. 114 B"
+  },
+  {
+   "id": "k14",
+   "f": "Wie verändern sich Wirbelkörper und Wirbelloch von kranial nach kaudal?",
+   "a": "Die Wirbelkörper werden größer, die Wirbellöcher kleiner.",
+   "e": "1.4",
+   "ref": "S. 115 D"
+  },
+  {
+   "id": "k15",
+   "f": "Typische Merkmale der Halswirbel C III–C VII?",
+   "a": "Kleiner, fast würfelförmiger Körper, großes dreieckiges Wirbelloch, Procc. uncinati, Foramen transversarium, Sulcus n. spinalis, Gelenkflächen ca. 45° geneigt, Dornfortsatz kurz und gegabelt (außer C VII).",
+   "e": "1.5",
+   "ref": "S. 116 A"
+  },
+  {
+   "id": "k16",
+   "f": "Ab welchem Halswirbel verläuft die A. vertebralis in den Foramina transversaria?",
+   "a": "Ab C VI nach kranial.",
+   "e": "1.5",
+   "ref": "S. 116 A"
+  },
+  {
+   "id": "k17",
+   "f": "Wie artikulieren die Rippenköpfe mit den Brustwirbelkörpern?",
+   "a": "Th I–IX haben oben und unten halbe Foveae, zwei Wirbel bilden zusammen eine Pfanne. Th I hat oben eine ganze Pfanne, Th X nur eine obere Fovea, Th XI und XII je eine komplette Fovea costalis.",
+   "e": "1.6",
+   "ref": "S. 118 A"
+  },
+  {
+   "id": "k18",
+   "f": "Welche Brustwirbel haben keine Fovea costalis proc. transversi?",
+   "a": "Th XI und Th XII.",
+   "e": "1.6",
+   "ref": "S. 118 A"
+  },
+  {
+   "id": "k19",
+   "f": "Wie sind die Gelenkflächen der BWS ausgerichtet?",
+   "a": "Untere Gelenkflächen nach ventral, obere nach dorsal.",
+   "e": "1.6",
+   "ref": "S. 118 A"
+  },
+  {
+   "id": "k20",
+   "f": "Typische Merkmale der Lendenwirbel?",
+   "a": "Kräftiger, querovaler Körper, dreieckiges Wirbelloch, breiter abgeplatteter Dornfortsatz, Procc. costales mit Proc. accessorius, Procc. mammillares, sagittal gestellte Gelenkflächen.",
+   "e": "1.7",
+   "ref": "S. 120 A"
+  },
+  {
+   "id": "k21",
+   "f": "Welche Leisten trägt das Kreuzbein dorsal, und woraus sind sie entstanden?",
+   "a": "Crista sacralis mediana aus den Dornfortsätzen, medialis aus den Gelenkfortsätzen, lateralis aus den Querfortsätzen.",
+   "e": "1.8",
+   "ref": "S. 122 B"
+  },
+  {
+   "id": "k22",
+   "f": "Was ist der Hiatus sacralis?",
+   "a": "Die Öffnung durch den fehlenden 5. Sakralwirbelbogen zwischen den Cornua sacralia. Er ist Zugang zum Canalis sacralis (Hiatus-sacralis-Anästhesie).",
+   "e": "1.8",
+   "ref": "S. 122 B"
+  },
+  {
+   "id": "k23",
+   "f": "Wodurch treten die Sakralnerven aus?",
+   "a": "Sie verlaufen durch T-förmige Kanäle. Die Rr. ventrales treten durch die Foramina sacralia anteriora aus, die Rr. dorsales durch die Foramina sacralia posteriora.",
+   "e": "1.8",
+   "ref": "S. 123 E"
+  },
+  {
+   "id": "k24",
+   "f": "Aufbau des Anulus fibrosus?",
+   "a": "Außenzone: straffes Bindegewebe, Typ-I-Kollagen in sich überkreuzenden Lamellen, in den Randleisten verankert. Innenzone: Faserknorpel, Typ-II-Kollagen, strahlt in die hyalinen Deckplatten ein.",
+   "e": "1.9",
+   "ref": "S. 124 A"
+  },
+  {
+   "id": "k25",
+   "f": "Wie wird die Bandscheibe ernährt?",
+   "a": "Durch Diffusion aus den Gefäßen der Markräume über die siebartig poröse knöcherne Abschlussplatte. Be- und Entlastung pumpen dabei Flüssigkeit hinaus und wieder hinein.",
+   "e": "1.9",
+   "ref": "S. 125 D–E"
+  },
+  {
+   "id": "k26",
+   "f": "Um wie viel nimmt die Körperlänge im Tagesverlauf ab und warum?",
+   "a": "Um etwa 1 % (1,5–2 cm), weil die Bandscheiben unter Dauerbelastung Flüssigkeit abgeben.",
+   "e": "1.9",
+   "ref": "S. 125 E"
+  },
+  {
+   "id": "k27",
+   "f": "Wirbelkörperbänder und Wirbelbogenbänder: Welche gibt es?",
+   "a": "Wirbelkörperbänder: Lig. longitudinale anterius und posterius. Wirbelbogenbänder: Ligg. flava, Ligg. interspinalia, Lig. supraspinale, Lig. nuchae, Ligg. intertransversaria.",
+   "e": "1.10",
+   "ref": "S. 126 B"
+  },
+  {
+   "id": "k28",
+   "f": "Warum sind die Ligg. flava gelb, und welche Funktion haben sie?",
+   "a": "Sie bestehen überwiegend aus elastischen Fasern. Sie stabilisieren in der Sagittalebene, hemmen übermäßige Ventralflexion und helfen beim Aufrichten.",
+   "e": "1.10",
+   "ref": "S. 127 D"
+  },
+  {
+   "id": "k29",
+   "f": "Zwischen welchen Punkten verläuft das Lig. nuchae?",
+   "a": "Zwischen der Protuberantia occipitalis externa und der Vertebra prominens. Es ist das verbreiterte Lig. supraspinale.",
+   "e": "1.11",
+   "ref": "S. 126 B, 129 C"
+  },
+  {
+   "id": "k30",
+   "f": "Aus welchen Gelenken bestehen die Kopfgelenke?",
+   "a": "Oberes Kopfgelenk: Art. atlantooccipitalis (paarig). Unteres Kopfgelenk: Art. atlantoaxialis lateralis (paarig) und Art. atlantoaxialis mediana (unpaar, zwei Abteilungen). Insgesamt sechs Gelenke.",
+   "e": "1.11",
+   "ref": "S. 128 B"
+  },
+  {
+   "id": "k31",
+   "f": "Woraus besteht das Lig. cruciforme atlantis?",
+   "a": "Aus dem Lig. transversum atlantis (kräftig, horizontal) und den Fasciculi longitudinales (schwach, vertikal).",
+   "e": "1.12",
+   "ref": "S. 130 A c"
+  },
+  {
+   "id": "k32",
+   "f": "Was ist die Membrana tectoria?",
+   "a": "Die verbreiterte Fortsetzung des Lig. longitudinale posterius. Sie bildet die vordere Wand des Wirbelkanals auf Höhe der Kopfgelenke.",
+   "e": "1.12",
+   "ref": "S. 130 A b"
+  },
+  {
+   "id": "k33",
+   "f": "Woraus besteht ein Bewegungssegment, und wie viele gibt es?",
+   "a": "Bandscheibe, paarige Wirbelbogengelenke, Bänder, Muskeln und klinisch auch der Inhalt von Foramen intervertebrale und Wirbelkanal. Insgesamt gibt es 25 Bewegungssegmente.",
+   "e": "1.13",
+   "ref": "S. 132 B"
+  },
+  {
+   "id": "k34",
+   "f": "Wie misst man die Beweglichkeit nach Schober und Ott?",
+   "a": "Schober: Hautmarke an S I und 10 cm darüber, bei Vorneigung bis ca. 15 cm (LWS). Ott: von C VII 30 cm abwärts, Zunahme bis ca. 4 cm (BWS).",
+   "e": "1.13",
+   "ref": "S. 133 F"
+  },
+  {
+   "id": "k35",
+   "f": "Was sind Unkovertebralgelenke?",
+   "a": "Seitliche Spalten in den Bandscheiben von C III–C VII. Sie entstehen um das 10. Lebensjahr, wenn die Procc. uncinati den Wirbelkörper darüber berühren. Beschrieben von Luschka als „Hemiarthroses laterales“.",
+   "e": "1.14",
+   "ref": "S. 134 A"
+  },
+  {
+   "id": "k36",
+   "f": "Warum ist eine Unkarthrose klinisch bedeutsam?",
+   "a": "Osteophyten engen das Foramen intervertebrale (Spinalnerv) und die A. vertebralis ein. Auch eine Spinalkanalstenose ist möglich.",
+   "e": "1.14",
+   "ref": "S. 134 B, 135 D"
+  },
+  {
+   "id": "k37",
+   "f": "Auf welcher Höhe endet das Rückenmark, und wo punktiert man?",
+   "a": "Der Conus medullaris liegt meist auf Höhe von L I (manchmal L II). Lumbalpunktion unterhalb von L III, der Durasack reicht bis S II.",
+   "e": "1.15",
+   "ref": "S. 136 A–B"
+  },
+  {
+   "id": "k38",
+   "f": "Welche Nervenwurzel komprimiert ein mediolateraler Bandscheibenvorfall?",
+   "a": "In der Regel die tiefer liegende Wurzel. In über 90 % der Fälle sind L5 oder S1 betroffen.",
+   "e": "1.16",
+   "ref": "S. 139 D–E"
+  },
+  {
+   "id": "k39",
+   "f": "L4, L5, S1: Kennmuskel und Reflex?",
+   "a": "L4: Oberschenkelstrecker, Patellarsehnenreflex · L5: Fußheber, Tibialis-posterior-Reflex · S1: Fußsenker, Achillessehnenreflex.",
+   "e": "1.16",
+   "ref": "S. 139 E"
+  },
+  {
+   "id": "k40",
+   "f": "Echte, falsche und freie Rippen?",
+   "a": "Costae verae I–VII: direkt am Sternum. Costae spuriae VIII–XII: VIII–X über den Rippenbogen. Costae fluctuantes XI–XII: enden frei.",
+   "e": "1.17",
+   "ref": "S. 141 C"
+  },
+  {
+   "id": "k41",
+   "f": "Woran erkennt man eine Skoliose beim Vorbeugen?",
+   "a": "Am Rippenbuckel auf der Konvexseite durch die Torsion der Wirbelkörper. Am häufigsten ist sie rechtskonvex auf Höhe Th VIII/IX.",
+   "e": "1.17",
+   "ref": "S. 141 D"
+  },
+  {
+   "id": "k42",
+   "f": "Welche Brustbein-Rippen-Verbindungen sind echte Gelenke?",
+   "a": "Meist die der 2.–5. Rippe. Die 1., 6. und 7. Rippe sind synchondrotisch verbunden.",
+   "e": "1.18",
+   "ref": "S. 142 B"
+  },
+  {
+   "id": "k43",
+   "f": "Abschnitte einer Rippe von dorsal nach ventral?",
+   "a": "Caput costae, Collum costae, Tuberculum costae, Corpus costae mit Angulus costae, Cartilago costalis.",
+   "e": "1.18",
+   "ref": "S. 143 D"
+  },
+  {
+   "id": "k44",
+   "f": "Welche Rippen artikulieren nur mit einem Wirbelkörper?",
+   "a": "Die 1., 11. und 12. Rippe.",
+   "e": "1.19",
+   "ref": "S. 145 C"
+  },
+  {
+   "id": "k45",
+   "f": "Wie wirkt sich die Rippenhebung oben und unten am Thorax aus?",
+   "a": "Oben stehen die Achsen eher frontal, der sagittale Durchmesser wird größer. Unten stehen sie eher sagittal, der transversale Durchmesser wird größer.",
+   "e": "1.19",
+   "ref": "S. 144 A"
+  },
+  {
+   "id": "k46",
+   "f": "Welche Bänder sichern die Art. costotransversaria?",
+   "a": "Lig. costotransversarium laterale, Lig. costotransversarium und Lig. costotransversarium superius.",
+   "e": "1.19",
+   "ref": "S. 145 C"
+  },
+  {
+   "id": "k47",
+   "f": "Was bildet den Beckenring?",
+   "a": "Die beiden Hüftbeine (Ossa coxae) und das Kreuzbein, verbunden über die Iliosakralgelenke und die Symphysis pubica.",
+   "e": "1.20",
+   "ref": "S. 146 B"
+  },
+  {
+   "id": "k48",
+   "f": "Geschlechtsunterschiede am Becken?",
+   "a": "Weiblich: größer und ausladender, Beckeneingang queroval, Schambeinwinkel 90–100° (Arcus pubicus), Kreuzbein auf Höhe S3/S4 abgeknickt. Männlich: massiver, steiler und enger, Promontorium springt stärker vor, ca. 70° (Angulus subpubicus).",
+   "e": "1.20",
+   "ref": "S. 147 D"
+  },
+  {
+   "id": "k49",
+   "f": "Innere Beckenmaße der Frau?",
+   "a": "Conjugata vera 11 cm · diagonalis 12,5–13 cm · recta 9 (+2) cm · Diameter transversa Eingang 13 cm · transversa Beckenenge 11 cm · obliquae 12 cm.",
+   "e": "1.21",
+   "ref": "S. 149 C"
+  },
+  {
+   "id": "k50",
+   "f": "Äußere Beckenmaße beim Mann?",
+   "a": "Distantia interspinosa 25–26 cm · intercristalis 28–29 cm · Conjugata externa 20–21 cm.",
+   "e": "1.21",
+   "ref": "S. 149 C"
+  },
+  {
+   "id": "k51",
+   "f": "Was zeigt ein positives Vorlaufphänomen?",
+   "a": "Eine Blockierung des Iliosakralgelenks auf dieser Seite. Beim Vorbeugen wandert die SIPS dieser Seite früher nach kranial.",
+   "e": "1.22",
+   "ref": "S. 150 B"
+  },
+  {
+   "id": "k52",
+   "f": "Welche Bänder sichern das Iliosakralgelenk?",
+   "a": "Ventral die Ligg. sacroiliaca anteriora. Dorsal die Ligg. sacroiliaca interossea und posteriora sowie die Ligg. iliolumbalia. Zusätzlich Lig. sacrotuberale und Lig. sacrospinale.",
+   "e": "1.22",
+   "ref": "S. 151 C"
+  }
+ ],
+ "fragen": [
+  {
+   "id": "f0",
+   "f": "Welcher Dornfortsatz liegt auf Höhe der Verbindungslinie beider Cristae iliacae?",
+   "o": [
+    "L II",
+    "L IV",
+    "Th XII",
+    "S I"
+   ],
+   "r": 1,
+   "x": "Die Linie zwischen den höchsten Punkten der Darmbeinkämme kreuzt den Dornfortsatz von L IV.",
+   "e": "1.1",
+   "ref": "S. 109 C"
+  },
+  {
+   "id": "f1",
+   "f": "Wie heißen die Querfortsätze der Lendenwirbel?",
+   "o": [
+    "Procc. transversi",
+    "Procc. mammillares",
+    "Procc. costales",
+    "Procc. uncinati"
+   ],
+   "r": 2,
+   "x": "Sie sind Rippenrudimente und heißen deshalb Procc. costales.",
+   "e": "1.2",
+   "ref": "S. 110 A, 120 A"
+  },
+  {
+   "id": "f2",
+   "f": "Welche Aussage zur Sakralisation trifft zu?",
+   "o": [
+    "S I ist nicht mit dem Kreuzbein verschmolzen",
+    "L V ist mit dem Kreuzbein synostosiert",
+    "Es gibt einen zusätzlichen Lendenwirbel",
+    "Sie betrifft den zervikothorakalen Übergang"
+   ],
+   "r": 1,
+   "x": "Bei der Sakralisation fehlt funktionell ein Lendenwirbel, weil L V mit dem Kreuzbein verschmolzen ist.",
+   "e": "1.2",
+   "ref": "S. 111 B"
+  },
+  {
+   "id": "f3",
+   "f": "Wie groß ist der Beckenneigungswinkel bei aufrechter Haltung etwa?",
+   "o": [
+    "30°",
+    "45°",
+    "60°",
+    "143°"
+   ],
+   "r": 2,
+   "x": "Ca. 60°, gemessen zwischen Beckeneingangsebene und Horizontaler.",
+   "e": "1.2",
+   "ref": "S. 111 C"
+  },
+  {
+   "id": "f4",
+   "f": "Welche Krümmung ist schon beim Neugeborenen vorhanden?",
+   "o": [
+    "Zervikallordose",
+    "Lumballordose",
+    "Kyphose der gesamten Wirbelsäule",
+    "Keine Krümmung"
+   ],
+   "r": 2,
+   "x": "Durch die Haltung im Uterus ist die Wirbelsäule durchgehend kyphosiert.",
+   "e": "1.3",
+   "ref": "S. 113 B"
+  },
+  {
+   "id": "f5",
+   "f": "In welcher Entwicklungswoche beginnt die Verknöcherung im Zentrum der Wirbelkörper?",
+   "o": [
+    "4. Woche",
+    "6. Woche",
+    "8. Woche",
+    "12. Woche"
+   ],
+   "r": 2,
+   "x": "6. Woche: Verknorpelung · 8. Woche: Beginn der Verknöcherung · 10. Woche: Vasa nutricia.",
+   "e": "1.3",
+   "ref": "S. 112 A"
+  },
+  {
+   "id": "f6",
+   "f": "Was ist ein Rest der Chorda dorsalis in der Bandscheibe?",
+   "o": [
+    "Anulus fibrosus",
+    "Nucleus pulposus",
+    "Deckplatte",
+    "Epiphysis anularis"
+   ],
+   "r": 1,
+   "x": "Der Nucleus pulposus geht aus den Chordasegmenten hervor.",
+   "e": "1.3",
+   "ref": "S. 112 A e"
+  },
+  {
+   "id": "f7",
+   "f": "Welche Struktur entspricht an einem Halswirbel dem Rippenrudiment?",
+   "o": [
+    "Tuberculum posterius",
+    "Tuberculum anterius",
+    "Proc. uncinatus",
+    "Proc. articularis superior"
+   ],
+   "r": 1,
+   "x": "Die vordere Spange mit dem Tuberculum anterius ist das Rippenrudiment.",
+   "e": "1.4",
+   "ref": "S. 114 C"
+  },
+  {
+   "id": "f8",
+   "f": "Durch welche Öffnung zieht die A. vertebralis an der HWS?",
+   "o": [
+    "Foramen vertebrale",
+    "Foramen intervertebrale",
+    "Foramen transversarium",
+    "Sulcus n. spinalis"
+   ],
+   "r": 2,
+   "x": "Durch die Foramina transversaria, in der Regel ab C VI.",
+   "e": "1.5",
+   "ref": "S. 116 A"
+  },
+  {
+   "id": "f9",
+   "f": "Welcher Halswirbel hat einen langen, nicht gegabelten Dornfortsatz?",
+   "o": [
+    "C II",
+    "C IV",
+    "C VI",
+    "C VII"
+   ],
+   "r": 3,
+   "x": "C VII ist die Vertebra prominens.",
+   "e": "1.5",
+   "ref": "S. 116 A"
+  },
+  {
+   "id": "f10",
+   "f": "Welche Brustwirbel haben seitlich jeweils eine komplette Fovea costalis?",
+   "o": [
+    "Th I und II",
+    "Th IX und X",
+    "Th XI und XII",
+    "Alle"
+   ],
+   "r": 2,
+   "x": "Th XI und XII artikulieren je allein mit ihrer Rippe.",
+   "e": "1.6",
+   "ref": "S. 118 A"
+  },
+  {
+   "id": "f11",
+   "f": "Wie sind die Gelenkflächen der Wirbelbogengelenke in der LWS ausgerichtet?",
+   "o": [
+    "Etwa 45° zur Horizontalen",
+    "Frontal",
+    "Nahezu sagittal und senkrecht",
+    "Horizontal"
+   ],
+   "r": 2,
+   "x": "Die LWS-Facetten stehen senkrecht und nahezu sagittal, deshalb ist kaum Rotation möglich.",
+   "e": "1.7",
+   "ref": "S. 120 A, 132 A"
+  },
+  {
+   "id": "f12",
+   "f": "Welcher Fortsatz entspricht beim Lendenwirbel dem eigentlichen Querfortsatz?",
+   "o": [
+    "Proc. costalis",
+    "Proc. accessorius",
+    "Proc. mammillaris",
+    "Proc. spinosus"
+   ],
+   "r": 1,
+   "x": "Der kleine Proc. accessorius an der Basis des Proc. costalis.",
+   "e": "1.7",
+   "ref": "S. 120 A"
+  },
+  {
+   "id": "f13",
+   "f": "Aus welchen Fortsätzen entsteht die Crista sacralis lateralis?",
+   "o": [
+    "Dornfortsätze",
+    "Gelenkfortsätze",
+    "Querfortsätze",
+    "Rippenrudimente"
+   ],
+   "r": 2,
+   "x": "Mediana aus den Dornfortsätzen, medialis aus den Gelenkfortsätzen, lateralis aus den Querfortsätzen.",
+   "e": "1.8",
+   "ref": "S. 122 B"
+  },
+  {
+   "id": "f14",
+   "f": "Wie hoch ist der Wasseranteil des Nucleus pulposus?",
+   "o": [
+    "40–50 %",
+    "60–65 %",
+    "80–85 %",
+    "95 %"
+   ],
+   "r": 2,
+   "x": "Die Glykosaminoglykane binden reversibel 80–85 % Wasser.",
+   "e": "1.9",
+   "ref": "S. 125 E"
+  },
+  {
+   "id": "f15",
+   "f": "Welche Aussage zum Lig. longitudinale anterius ist richtig?",
+   "o": [
+    "Es ist fest mit den Bandscheiben verwachsen",
+    "Es entspringt am Clivus",
+    "Es ist fest mit den Wirbelkörpern, locker mit den Bandscheiben verbunden",
+    "Es ist schwächer als das hintere Längsband"
+   ],
+   "r": 2,
+   "x": "Beim hinteren Längsband ist es umgekehrt: Es ist fest mit den Bandscheiben verwachsen.",
+   "e": "1.10",
+   "ref": "S. 127 D"
+  },
+  {
+   "id": "f16",
+   "f": "Warum kommen Bandscheibenvorfälle häufig lateral vor?",
+   "o": [
+    "Das Lig. flavum fehlt dort",
+    "Das Lig. longitudinale posterius lässt die Bandscheibe seitlich unverstärkt",
+    "Der Nucleus liegt lateral",
+    "Die Procc. costales drücken"
+   ],
+   "r": 1,
+   "x": "Das hintere Längsband dehnt sich nur zipfelförmig aus, seitliche Teile der Bandscheibe bleiben ohne Verstärkung.",
+   "e": "1.10",
+   "ref": "S. 127 D"
+  },
+  {
+   "id": "f17",
+   "f": "Welches Band ist das „Lig. flavum“ zwischen Atlas und Os occipitale?",
+   "o": [
+    "Membrana tectoria",
+    "Membrana atlantooccipitalis posterior",
+    "Lig. apicis dentis",
+    "Lig. nuchae"
+   ],
+   "r": 1,
+   "x": "Die Membrana atlantooccipitalis posterior zieht vom hinteren Atlasbogen zum Hinterrand des Foramen magnum.",
+   "e": "1.12",
+   "ref": "S. 130 A a"
+  },
+  {
+   "id": "f18",
+   "f": "Wohin ziehen die Ligg. alaria?",
+   "o": [
+    "Vom Dens zum Vorderrand des Foramen magnum",
+    "Vom Dens zu den Innenflächen der Condyli occipitales",
+    "Zwischen den Massae laterales",
+    "Vom Axis zum Clivus"
+   ],
+   "r": 1,
+   "x": "Zum Vorderrand des Foramen magnum zieht das unpaare Lig. apicis dentis.",
+   "e": "1.12",
+   "ref": "S. 130 A d"
+  },
+  {
+   "id": "f19",
+   "f": "Welches Gelenk übernimmt fast 70 % der Rotation der HWS?",
+   "o": [
+    "Art. atlantooccipitalis",
+    "Art. atlantoaxialis lateralis",
+    "Art. atlantoaxialis mediana",
+    "Unkovertebralgelenke"
+   ],
+   "r": 2,
+   "x": "Deshalb zeigt sich dort im Alter häufig eine Arthrose der vorderen Abteilung.",
+   "e": "1.12",
+   "ref": "S. 131 B"
+  },
+  {
+   "id": "f20",
+   "f": "Wie viele Bewegungssegmente hat die Wirbelsäule?",
+   "o": [
+    "23",
+    "24",
+    "25",
+    "33"
+   ],
+   "r": 2,
+   "x": "Insgesamt 25 Bewegungssegmente.",
+   "e": "1.13",
+   "ref": "S. 132 B"
+  },
+  {
+   "id": "f21",
+   "f": "Welcher Wert entspricht einem normalen Schober-Zeichen?",
+   "o": [
+    "10 → 12 cm",
+    "10 → 15 cm",
+    "30 → 34 cm",
+    "30 → 40 cm"
+   ],
+   "r": 1,
+   "x": "Schober (LWS): 10 → ca. 15 cm. Ott (BWS): 30 → ca. 34 cm.",
+   "e": "1.13",
+   "ref": "S. 133 F"
+  },
+  {
+   "id": "f22",
+   "f": "Wie groß ist die Rotation der LWS (zu jeder Seite) etwa?",
+   "o": [
+    "5°",
+    "20°",
+    "35°",
+    "50°"
+   ],
+   "r": 0,
+   "x": "Nur etwa 5°, wegen der sagittal stehenden Gelenkfacetten.",
+   "e": "1.13",
+   "ref": "S. 133 E"
+  },
+  {
+   "id": "f23",
+   "f": "Ab welchem Alter entstehen die Unkovertebralspalten?",
+   "o": [
+    "Bei Geburt",
+    "Etwa ab dem 10. Lebensjahr",
+    "In der Pubertät",
+    "Ab dem 30. Lebensjahr"
+   ],
+   "r": 1,
+   "x": "Die Procc. uncinati treten etwa um das 10. Lebensjahr in Kontakt mit dem Wirbel darüber.",
+   "e": "1.14",
+   "ref": "S. 134 A"
+  },
+  {
+   "id": "f24",
+   "f": "Auf welcher Höhe endet der Durasack?",
+   "o": [
+    "L I",
+    "L III",
+    "S II",
+    "Os coccygis"
+   ],
+   "r": 2,
+   "x": "Der Durasack endet auf Höhe von S II, der Conus medullaris meist auf Höhe von L I.",
+   "e": "1.15",
+   "ref": "S. 136 B"
+  },
+  {
+   "id": "f25",
+   "f": "Wo liegt der Conus medullaris beim Neugeborenen?",
+   "o": [
+    "Th XII",
+    "L I",
+    "L III",
+    "S I"
+   ],
+   "r": 2,
+   "x": "Bei Geburt auf Höhe von L III, bis ca. zum 10. Lebensjahr wandert er nach kranial.",
+   "e": "1.15",
+   "ref": "S. 136 A"
+  },
+  {
+   "id": "f26",
+   "f": "Was beschreibt die Claudicatio spinalis?",
+   "o": [
+    "Durch Schmerzen limitierte Gehstrecke bei Spinalkanalstenose",
+    "Durchblutungsstörung der Beine",
+    "Blockierung des ISG",
+    "Rippenbuckel"
+   ],
+   "r": 0,
+   "x": "Die Beschwerden bessern sich bei Kyphosierung der LWS, z. B. im Sitzen mit vorgeneigtem Oberkörper.",
+   "e": "1.16",
+   "ref": "S. 138 B"
+  },
+  {
+   "id": "f27",
+   "f": "Ein Patient hat einen abgeschwächten Achillessehnenreflex und eine Fußsenkerschwäche. Welche Wurzel ist betroffen?",
+   "o": [
+    "L3",
+    "L4",
+    "L5",
+    "S1"
+   ],
+   "r": 3,
+   "x": "S1: Achillessehnenreflex und Fußsenker. L5: Fußheber. L4: Patellarsehnenreflex.",
+   "e": "1.16",
+   "ref": "S. 139 E"
+  },
+  {
+   "id": "f28",
+   "f": "Welche Rippen sind Costae fluctuantes?",
+   "o": [
+    "VIII–X",
+    "XI–XII",
+    "I–VII",
+    "X–XII"
+   ],
+   "r": 1,
+   "x": "Die 11. und 12. Rippe enden frei in der seitlichen Bauchwand.",
+   "e": "1.17",
+   "ref": "S. 141 C"
+  },
+  {
+   "id": "f29",
+   "f": "Wo setzt die 2. Rippe am Sternum an?",
+   "o": [
+    "Am Manubrium oben",
+    "Am Angulus sterni",
+    "Am Proc. xiphoideus",
+    "Am Corpus sterni unten"
+   ],
+   "r": 1,
+   "x": "Am Übergang Manubrium/Corpus, dem Angulus sterni, liegt die Incisura costalis II.",
+   "e": "1.18",
+   "ref": "S. 142 A"
+  },
+  {
+   "id": "f30",
+   "f": "Welche Rippe ist normalerweise am längsten?",
+   "o": [
+    "1.",
+    "5.",
+    "7.",
+    "10."
+   ],
+   "r": 2,
+   "x": "Die 1. und 12. Rippe sind am kürzesten, die 7. am längsten.",
+   "e": "1.18",
+   "ref": "S. 143 C"
+  },
+  {
+   "id": "f31",
+   "f": "Welches Band teilt das Rippenkopfgelenk der 2.–10. Rippe in zwei Kammern?",
+   "o": [
+    "Lig. capitis costae radiatum",
+    "Lig. capitis costae intraarticulare",
+    "Lig. costotransversarium",
+    "Lig. costotransversarium laterale"
+   ],
+   "r": 1,
+   "x": "Es zieht von der Crista capitis costae zur Bandscheibe.",
+   "e": "1.19",
+   "ref": "S. 145 C"
+  },
+  {
+   "id": "f32",
+   "f": "Warum fehlt bei der 11. und 12. Rippe das Rippenhöckergelenk?",
+   "o": [
+    "Die Rippen haben keinen Hals",
+    "Die Querfortsätze von Th XI/XII haben keine Gelenkflächen",
+    "Sie sind mit dem Sternum verbunden",
+    "Sie besitzen kein Caput"
+   ],
+   "r": 1,
+   "x": "An Th XI und XII fehlt die Fovea costalis proc. transversi.",
+   "e": "1.19",
+   "ref": "S. 145 C"
+  },
+  {
+   "id": "f33",
+   "f": "Wie groß ist der untere Schambeinwinkel beim Mann etwa?",
+   "o": [
+    "50°",
+    "70°",
+    "90°",
+    "110°"
+   ],
+   "r": 1,
+   "x": "Beim Mann ca. 70° (Angulus subpubicus), bei der Frau 90–100° (Arcus pubicus).",
+   "e": "1.20",
+   "ref": "S. 147 D, 149 D"
+  },
+  {
+   "id": "f34",
+   "f": "Welches ist der kleinste gerade Durchmesser des kleinen Beckens?",
+   "o": [
+    "Conjugata diagonalis",
+    "Conjugata vera",
+    "Conjugata recta",
+    "Diameter transversa"
+   ],
+   "r": 1,
+   "x": "Die Conjugata vera (11 cm) ist geburtshilflich am wichtigsten.",
+   "e": "1.21",
+   "ref": "S. 149 C"
+  },
+  {
+   "id": "f35",
+   "f": "Zwischen welchen Punkten misst man die Conjugata diagonalis?",
+   "o": [
+    "Promontorium – Hinterrand Symphyse",
+    "Promontorium – Unterrand Symphyse",
+    "Unterrand Symphyse – Steißbeinspitze",
+    "Zwischen den Spinae ischiadicae"
+   ],
+   "r": 1,
+   "x": "12,5–13 cm, durch vaginale Untersuchung abschätzbar.",
+   "e": "1.21",
+   "ref": "S. 149 C"
+  },
+  {
+   "id": "f36",
+   "f": "Welche Struktur trennt das Foramen ischiadicum majus vom minus?",
+   "o": [
+    "Lig. sacrotuberale",
+    "Lig. sacrospinale",
+    "Lig. iliolumbale",
+    "Membrana obturatoria"
+   ],
+   "r": 1,
+   "x": "Das Lig. sacrospinale zieht zur Spina ischiadica.",
+   "e": "1.21",
+   "ref": "S. 148 A"
+  },
+  {
+   "id": "f37",
+   "f": "Was passiert bei einer Nutation des Kreuzbeins nach vorn?",
+   "o": [
+    "Conjugata recta wird kleiner",
+    "Promontorium wandert nach kranial-dorsal",
+    "Conjugata recta wird größer",
+    "Das ISG blockiert"
+   ],
+   "r": 2,
+   "x": "Das Promontorium geht nach kaudal-ventral, das Steißbein nach kranial-dorsal, dadurch wird der Beckenausgang weiter.",
+   "e": "1.22",
+   "ref": "S. 150 B"
+  },
+  {
+   "id": "f38",
+   "f": "Welche Bänder liegen in der Tiefe direkt hinter dem Iliosakralgelenk?",
+   "o": [
+    "Ligg. sacroiliaca anteriora",
+    "Ligg. sacroiliaca interossea",
+    "Lig. sacrospinale",
+    "Lig. inguinale"
+   ],
+   "r": 1,
+   "x": "Die mächtigen Ligg. sacroiliaca interossea ziehen von der Tuberositas iliaca zur Tuberositas ossis sacri.",
+   "e": "1.22",
+   "ref": "S. 151 C"
+  },
+  {
+   "id": "f39",
+   "f": "Wie wird das Iliosakralgelenk funktionell eingeordnet?",
+   "o": [
+    "Synchondrose",
+    "Syndesmose",
+    "Amphiarthrose",
+    "Kugelgelenk"
+   ],
+   "r": 2,
+   "x": "Es ist ein echtes Gelenk, das durch Kapsel und Bänder stark eingeschränkt ist.",
+   "e": "1.22",
+   "ref": "S. 151 C"
+  }
+ ],
+ "sortieren": {
+  "titel": "Welcher Wirbel?",
+  "kategorien": [
+   "Halswirbel",
+   "Brustwirbel",
+   "Lendenwirbel",
+   "Os sacrum"
+  ],
+  "ref": "S. 115 D, 116–123",
+  "items": [
+   {
+    "id": "s0",
+    "t": "Foramen transversarium",
+    "k": 0
+   },
+   {
+    "id": "s1",
+    "t": "Proc. uncinatus",
+    "k": 0
+   },
+   {
+    "id": "s2",
+    "t": "Gegabelter Dornfortsatz",
+    "k": 0
+   },
+   {
+    "id": "s3",
+    "t": "Sulcus n. spinalis",
+    "k": 0
+   },
+   {
+    "id": "s4",
+    "t": "Gelenkflächen ca. 45° zur Horizontalen",
+    "k": 0
+   },
+   {
+    "id": "s5",
+    "t": "Tuberculum anterius = Rippenrudiment",
+    "k": 0
+   },
+   {
+    "id": "s6",
+    "t": "Großes, dreieckiges Wirbelloch bei kleinem Körper",
+    "k": 0
+   },
+   {
+    "id": "s7",
+    "t": "Fovea costalis superior und inferior",
+    "k": 1
+   },
+   {
+    "id": "s8",
+    "t": "Fovea costalis proc. transversi",
+    "k": 1
+   },
+   {
+    "id": "s9",
+    "t": "Rundes Wirbelloch",
+    "k": 1
+   },
+   {
+    "id": "s10",
+    "t": "Dachziegelartig nach kaudal geneigte Dornfortsätze",
+    "k": 1
+   },
+   {
+    "id": "s11",
+    "t": "Obere Gelenkflächen weisen nach dorsal",
+    "k": 1
+   },
+   {
+    "id": "s12",
+    "t": "Proc. costalis",
+    "k": 2
+   },
+   {
+    "id": "s13",
+    "t": "Proc. mammillaris",
+    "k": 2
+   },
+   {
+    "id": "s14",
+    "t": "Proc. accessorius",
+    "k": 2
+   },
+   {
+    "id": "s15",
+    "t": "Gelenkflächen sagittal und senkrecht",
+    "k": 2
+   },
+   {
+    "id": "s16",
+    "t": "Querovaler, kräftigster Wirbelkörper",
+    "k": 2
+   },
+   {
+    "id": "s17",
+    "t": "Breiter, seitlich abgeplatteter Dornfortsatz",
+    "k": 2
+   },
+   {
+    "id": "s18",
+    "t": "Crista sacralis mediana",
+    "k": 3
+   },
+   {
+    "id": "s19",
+    "t": "Hiatus sacralis",
+    "k": 3
+   },
+   {
+    "id": "s20",
+    "t": "Facies auricularis",
+    "k": 3
+   },
+   {
+    "id": "s21",
+    "t": "Promontorium",
+    "k": 3
+   },
+   {
+    "id": "s22",
+    "t": "Lineae transversae",
+    "k": 3
+   },
+   {
+    "id": "s23",
+    "t": "Vier Lochpaare ventral und dorsal statt Zwischenwirbellöchern",
+    "k": 3
+   }
+  ]
+ },
+ "tabellen": [
+  {
+   "id": "bewegung",
+   "titel": "Bewegungsausmaß der Wirbelsäule (in Grad)",
+   "ref": "S. 133 E",
+   "einheit": "1.13",
+   "spalten": [
+    "Ventralflexion",
+    "Dorsalextension",
+    "Lateralflexion*",
+    "Rotation*"
+   ],
+   "zeilen": [
+    [
+     "oberes Kopfgelenk",
+     [
+      "20",
+      "10",
+      "5",
+      "–"
+     ]
+    ],
+    [
+     "unteres Kopfgelenk",
+     [
+      "–",
+      "–",
+      "–",
+      "35"
+     ]
+    ],
+    [
+     "gesamte HWS",
+     [
+      "65",
+      "40",
+      "35",
+      "50"
+     ]
+    ],
+    [
+     "BWS",
+     [
+      "35",
+      "25",
+      "20",
+      "35"
+     ]
+    ],
+    [
+     "LWS",
+     [
+      "50",
+      "35",
+      "20",
+      "5"
+     ]
+    ],
+    [
+     "HWS + BWS + LWS",
+     [
+      "150",
+      "100",
+      "75",
+      "90"
+     ]
+    ]
+   ],
+   "fuss": "* zu jeder Seite"
+  },
+  {
+   "id": "becken",
+   "titel": "Beckenmaße (in cm)",
+   "ref": "S. 149 C",
+   "einheit": "1.21",
+   "spalten": [
+    "Wert"
+   ],
+   "zeilen": [
+    [
+     "Conjugata vera",
+     [
+      "11"
+     ]
+    ],
+    [
+     "Conjugata diagonalis",
+     [
+      "12,5–13"
+     ]
+    ],
+    [
+     "Conjugata recta",
+     [
+      "9"
+     ]
+    ],
+    [
+     "Diameter transversa (Beckeneingang)",
+     [
+      "13"
+     ]
+    ],
+    [
+     "Diameter transversa (Beckenenge)",
+     [
+      "11"
+     ]
+    ],
+    [
+     "Diameter obliqua",
+     [
+      "12"
+     ]
+    ],
+    [
+     "Distantia interspinosa (Mann)",
+     [
+      "25–26"
+     ]
+    ],
+    [
+     "Distantia intercristalis (Mann)",
+     [
+      "28–29"
+     ]
+    ],
+    [
+     "Conjugata externa (Mann)",
+     [
+      "20–21"
+     ]
+    ]
+   ],
+   "fuss": "Conjugata recta: 9 (+2) cm, weil das Steißbein bei der Geburt nach hinten ausweicht."
+  },
+  {
+   "id": "rippen",
+   "titel": "Rippen-Wirbel-Verbindungen",
+   "ref": "S. 118 A, 145 C",
+   "einheit": "1.19",
+   "spalten": [
+    "Rippenkopf artikuliert mit …",
+    "Rippenhöckergelenk?"
+   ],
+   "zeilen": [
+    [
+     "1. Rippe",
+     [
+      "Th I",
+      "ja"
+     ]
+    ],
+    [
+     "2.–10. Rippe",
+     [
+      "zwei Wirbelkörpern",
+      "ja"
+     ]
+    ],
+    [
+     "11. Rippe",
+     [
+      "Th XI",
+      "nein"
+     ]
+    ],
+    [
+     "12. Rippe",
+     [
+      "Th XII",
+      "nein"
+     ]
+    ]
+   ],
+   "fuss": "Bei der 2.–10. Rippe teilt das Lig. capitis costae intraarticulare das Gelenk in zwei Kammern."
+  }
+ ]
+}

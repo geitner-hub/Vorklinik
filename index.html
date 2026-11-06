@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Vorklinik – Testat-Trainer</title>
+<meta name="description" content="Lerntrainer für die Vorklinik: Tafeln beschriften, Karteikarten, Testatfragen – mit Verweisen auf den Prometheus LernAtlas.">
+<meta name="theme-color" content="#F5F7F8" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0F1518" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Vorklinik">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<header class="kopf" id="kopf">
+  <div class="kopf-innen">
+    <a class="marke" href="#/" aria-label="Zur Kapitelübersicht"><span class="marke-zeichen" aria-hidden="true">V</span><span class="marke-text">Vorklinik</span></a>
+    <div class="kopf-kapitel" id="kopfKapitel" hidden>
+      <button class="kapitel-knopf" id="kapitelKnopf" type="button" aria-haspopup="dialog">
+        <span class="kk-titel" id="kkTitel"></span>
+        <span class="kk-seiten" id="kkSeiten"></span>
+        <span class="kk-pfeil" aria-hidden="true">▾</span>
+      </button>
+    </div>
+    <button class="rund" id="menuKnopf" type="button" aria-haspopup="dialog" aria-label="Menü: Teilen, Lernstand, Darstellung">⋯</button>
+  </div>
+  <nav class="reiter" id="reiter" hidden aria-label="Bereiche des Kapitels"></nav>
+</header>
+
+<main id="app" tabindex="-1"><noscript>Bitte JavaScript aktivieren.</noscript></main>
+
+<nav class="unten" id="unten" hidden aria-label="Bereiche des Kapitels"></nav>
+
+<div class="blatt-hinter" id="blattHinter" hidden></div>
+<section class="blatt" id="blatt" role="dialog" aria-modal="true" aria-labelledby="blattTitel" hidden>
+  <div class="blatt-griff" aria-hidden="true"></div>
+  <div class="blatt-kopf"><h2 id="blattTitel"></h2><button class="rund" id="blattZu" type="button" aria-label="Schließen">✕</button></div>
+  <div class="blatt-inhalt" id="blattInhalt"></div>
+</section>
+
+<footer class="fuss">
+  Seitenangaben beziehen sich auf den Prometheus LernAtlas der Anatomie (Thieme); dessen Abbildungen sind hier nicht enthalten.
+  Tafeln: gemeinfreie Abbildungen (Gray’s Anatomy, 1918) von Wikimedia Commons. Alle Texte eigene Formulierungen.
+  Der Lernstand bleibt auf diesem Gerät (Sichern über ⋯ → Lernstand exportieren).
+</footer>
+
+<script src="js/vendor/qrcode.js" defer></script>
+<script src="js/app.js" defer></script>
+</body>
+</html>

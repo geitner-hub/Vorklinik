@@ -1,0 +1,1162 @@
+{
+ "id": "allg-entwicklung",
+ "buch": "Prometheus LernAtlas – Allgemeine Anatomie und Bewegungssystem",
+ "teil": "Allgemeine Anatomie",
+ "titel": "Stammes- und Entwicklungsgeschichte",
+ "seiten": "S. 2–7, 12–21",
+ "bereiche": [
+  [
+   2,
+   7
+  ],
+  [
+   12,
+   21
+  ]
+ ],
+ "intro": "Chordaten- und Wirbeltiermerkmale, Frühentwicklung, Keimblätter und Somiten, Gefäßentwicklung sowie – als Schwerpunkt – Knochen-, Gelenk- und Extremitätenentwicklung.",
+ "einheiten": [
+  {
+   "nr": "1.1",
+   "titel": "Stammesgeschichte des Menschen",
+   "seite": 2
+  },
+  {
+   "nr": "1.2",
+   "titel": "Entwicklungsgeschichte: Überblick, Befruchtung, früheste Stadien",
+   "seite": 4
+  },
+  {
+   "nr": "1.3",
+   "titel": "Gastrulation, Neurulation und Somitenbildung",
+   "seite": 6
+  },
+  {
+   "nr": "1.6",
+   "titel": "Frühembryonaler Kreislauf und Gefäßentwicklung",
+   "seite": 12
+  },
+  {
+   "nr": "1.7",
+   "titel": "Entwicklung des Skelettsystems: Primordialskelett, Extremitäten, Gelenke",
+   "seite": 14
+  },
+  {
+   "nr": "1.8",
+   "titel": "Knochenentwicklung und Knochenumbau",
+   "seite": 16
+  },
+  {
+   "nr": "1.9",
+   "titel": "Ossifikation der Extremitäten",
+   "seite": 18
+  },
+  {
+   "nr": "1.10",
+   "titel": "Bauplan und Stellung der Extremitäten",
+   "seite": 20
+  }
+ ],
+ "strukturen": {
+  "chordata": {
+   "lat": "Chordata",
+   "de": "Chordatiere",
+   "info": "Stamm mit rund 50 000 Arten; Unterstämme: Wirbellose (Manteltiere, Schädellose) und Wirbeltiere.",
+   "ref": "S. 2 A"
+  },
+  "chorda-dorsalis": {
+   "lat": "Chorda dorsalis",
+   "de": "Rückensaite",
+   "info": "Achsenskelett der Chordaten. Beim Menschen nur embryonal angelegt; ein Rest steckt im Nucleus pulposus. Aus Resten können Chordome entstehen.",
+   "ref": "S. 3 D"
+  },
+  "branchiostoma": {
+   "lat": "Branchiostoma lanceolatum",
+   "de": "Lanzettfischchen",
+   "info": "Schädelloser Chordat; gilt als Modell für den Grundbauplan der Wirbeltiere.",
+   "ref": "S. 3 D"
+  },
+  "chordatenmerkmale": {
+   "lat": "Characteres chordatorum",
+   "de": "Chordatenmerkmale",
+   "info": "Chorda dorsalis, dorsales Neuralrohr, segmentierte Muskulatur, Kiemendarm, geschlossener Kreislauf, Schwanz hinter dem After.",
+   "ref": "S. 3 G"
+  },
+  "wirbeltiermerkmale": {
+   "lat": "Characteres vertebratorum",
+   "de": "Wirbeltiermerkmale",
+   "info": "u. a. Kopfbildung (Zephalisation), Wirbelsäule statt Chorda, meist zwei Extremitätenpaare, Neuralleiste, ventrales gekammertes Herz.",
+   "ref": "S. 3 H"
+  },
+  "haemalboegen": {
+   "lat": "Arcus haemales",
+   "de": "Hämalbögen",
+   "info": "Ventrale Wirbelbögen der Fische: im Schwanz Kanal für große Gefäße, im Rumpf Träger der Rippen.",
+   "ref": "S. 3 E"
+  },
+  "schlundboegen": {
+   "lat": "Arcus pharyngei",
+   "de": "Schlund-/Kiemenbögen",
+   "info": "Metamer angelegte Bögen der Kopf-Hals-Region; liefern Material für Kiefer, Mittelohr, Zungenbein, Kehlkopf, mimische Muskulatur und Schlunddarm.",
+   "ref": "S. 2 B, C"
+  },
+  "biogenetische-grundregel": {
+   "lat": "Regula biogenetica",
+   "de": "biogenetische Grundregel",
+   "info": "Haeckels Idee: Die Keimesentwicklung wiederholt in Kürze die Stammesentwicklung – gestützt durch die Ähnlichkeit früher Wirbeltierembryonen.",
+   "ref": "S. 2 B"
+  },
+  "amnionei": {
+   "lat": "Ovum amnioticum",
+   "de": "amniotisches Ei",
+   "info": "Embryo entwickelt sich in flüssigkeitsgefüllter Amnionhöhle; ermöglichte Reptilien, Vögeln und Säugern ein Leben ganz an Land.",
+   "ref": "S. 2 A"
+  },
+  "ontogenese": {
+   "lat": "Ontogenesis",
+   "de": "Entwicklungsgeschichte",
+   "info": "Individualentwicklung mit Histogenese (Gewebe), Organogenese (Organe) und Morphogenese (Gestalt).",
+   "ref": "S. 4"
+  },
+  "carnegie-stadien": {
+   "lat": "Stadia Carnegie",
+   "de": "Carnegie-Stadien",
+   "info": "23 Stadien für Frühentwicklung und Embryonalperiode, definiert über Befruchtungsalter, Größe (ab Woche 5 als Scheitel-Steiß-Länge) und Entwicklungsstand.",
+   "ref": "S. 4 A, C"
+  },
+  "embryonalperiode": {
+   "lat": "Periodus embryonalis",
+   "de": "Embryonalperiode",
+   "info": "4.–8. Woche: Abfaltung, Achsenorgane, Organogenese – Phase höchster Empfindlichkeit gegenüber Teratogenen.",
+   "ref": "S. 4 C, D"
+  },
+  "fetalperiode": {
+   "lat": "Periodus fetalis",
+   "de": "Fetalperiode",
+   "info": "Ab der 9. Woche: Organwachstum und funktionelle Reifung; Empfindlichkeit für Fehlbildungen nimmt ab.",
+   "ref": "S. 4 B–D"
+  },
+  "meiose": {
+   "lat": "Meiosis",
+   "de": "Reifeteilung",
+   "info": "Zwei Teilungen halbieren den Chromosomensatz und mischen das Erbgut neu; aus einer Oozyte entstehen eine Eizelle und drei Polkörperchen.",
+   "ref": "S. 5 E"
+  },
+  "befruchtung": {
+   "lat": "Fertilisatio",
+   "de": "Befruchtung",
+   "info": "Spermium durchdringt Corona radiata, Akrosom löst sich und verdaut die Zona pellucida, dann verschmelzen die Membranen.",
+   "ref": "S. 5 F"
+  },
+  "blastozyste": {
+   "lat": "Blastocystis",
+   "de": "Blastozyste",
+   "info": "Bläschenstadium (4.–5. Tag) mit Embryoblast (innere Zellmasse) und Trophoblast; Implantation ab dem 5.–6. Tag.",
+   "ref": "S. 5 G, H"
+  },
+  "morula": {
+   "lat": "Morula",
+   "de": "Maulbeerkeim",
+   "info": "Zellhaufen am 3. Tag nach der Befruchtung, noch im Eileiter.",
+   "ref": "S. 5 H"
+  },
+  "gastrulation": {
+   "lat": "Gastrulatio",
+   "de": "Gastrulation",
+   "info": "Zu Beginn der 3. Woche: aus der zweiblättrigen wird die dreiblättrige Keimscheibe (Ekto-, Meso-, Endoderm); die Körperachsen werden festgelegt.",
+   "ref": "S. 6 A"
+  },
+  "primitivstreifen": {
+   "lat": "Linea primitiva",
+   "de": "Primitivstreifen",
+   "info": "Rinne im Epiblast, über die Mesodermzellen zwischen die Keimblätter einwandern; am kranialen Ende der Primitivknoten.",
+   "ref": "S. 6 A b–d"
+  },
+  "chordafortsatz": {
+   "lat": "Processus notochordalis",
+   "de": "Chordafortsatz",
+   "info": "Wächst vom Primitivknoten nach kranial bis zur Oropharyngealmembran; Vorstufe der Chorda.",
+   "ref": "S. 6 A b–c"
+  },
+  "neurulation": {
+   "lat": "Neurulatio",
+   "de": "Neurulation",
+   "info": "Unter dem Einfluss der Chorda trennt sich das Neuroektoderm vom Oberflächenektoderm; Neuralplatte → Neuralrinne → Neuralrohr (ab Tag 19–22).",
+   "ref": "S. 6 B"
+  },
+  "neuralleiste": {
+   "lat": "Crista neuralis",
+   "de": "Neuralleiste",
+   "info": "Auswandernde Zellen am Rand des Neuralrohrs; bilden u. a. Spinalganglien, periphere Glia, Nebennierenmark, Pigmentzellen.",
+   "ref": "S. 6 B, 7 D"
+  },
+  "somit": {
+   "lat": "Somitus",
+   "de": "Somit (Ursegment)",
+   "info": "Ab Tag 20 entstehen paarige Somiten, bis Tag 30 etwa 34–35 Paare; jeder gliedert sich in Dermatom, Myotom und Sklerotom.",
+   "ref": "S. 7 C"
+  },
+  "sklerotom": {
+   "lat": "Sclerotomus",
+   "de": "Sklerotom",
+   "info": "Wandert Ende der 4. Woche zur Chorda und bildet die Anlage von Wirbelkörper, -bogen und Fortsätzen.",
+   "ref": "S. 7 C"
+  },
+  "myotom": {
+   "lat": "Myotomus",
+   "de": "Myotom",
+   "info": "Muskelanlage; dorsal Epimer (epaxone, autochthone Rückenmuskulatur), ventral Hypomer (hypaxone Muskulatur von Leibeswand und Extremitäten).",
+   "ref": "S. 7 C"
+  },
+  "dermatom-embryo": {
+   "lat": "Dermatomus",
+   "de": "Dermatom (embryonal)",
+   "info": "Liefert Dermis und Subcutis des Rückens.",
+   "ref": "S. 7 C"
+  },
+  "ramus-dorsalis-ventralis": {
+   "lat": "Ramus dorsalis / ventralis n. spinalis",
+   "de": "Spinalnervenäste",
+   "info": "Der R. dorsalis versorgt die epaxone, der R. ventralis die hypaxone Muskulatur.",
+   "ref": "S. 7 C"
+  },
+  "ektoderm": {
+   "lat": "Ectodermum",
+   "de": "Ektoderm",
+   "info": "Oberflächenektoderm: Epidermis, Haare, Nägel, Hautdrüsen, Zahnschmelz; Neuroektoderm: ZNS; Plakoden: Linse, Innenohr, Riechepithel.",
+   "ref": "S. 7 D"
+  },
+  "mesoderm": {
+   "lat": "Mesodermum",
+   "de": "Mesoderm",
+   "info": "Paraxial: Wirbelsäule, Rippen, Skelettmuskulatur; intermediär: Nieren, Keimdrüsen; Seitenplatten: Herz, Gefäße, Blut, Sternum, Extremitätenskelett.",
+   "ref": "S. 7 D"
+  },
+  "endoderm": {
+   "lat": "Endodermum",
+   "de": "Endoderm",
+   "info": "Epithel von Darmrohr, Atemwegen, Verdauungsdrüsen, Harnblase sowie Thymus, Schild- und Nebenschilddrüsen.",
+   "ref": "S. 7 D"
+  },
+  "mesenchym": {
+   "lat": "Mesenchyma",
+   "de": "Mesenchym",
+   "info": "Embryonales Bindegewebe, überwiegend aus dem Mesoderm; daraus entstehen Knorpel und Knochen.",
+   "ref": "S. 14 A"
+  },
+  "schlundbogenarterien": {
+   "lat": "Arteriae arcuum pharyngeorum",
+   "de": "Schlundbogenarterien",
+   "info": "1., 2. und 5. bilden sich zurück; 3. → A. carotis communis und Anfang der A. carotis interna; linke 4. → Aortenbogen; rechte 4. → Truncus brachiocephalicus + A. subclavia dextra; 6. → Truncus pulmonalis + Ductus arteriosus.",
+   "ref": "S. 12 B"
+  },
+  "ductus-arteriosus": {
+   "lat": "Ductus arteriosus",
+   "de": "Ductus arteriosus (Botalli)",
+   "info": "Aus der 6. Schlundbogenarterie; nach der Geburt verschlossen als Lig. arteriosum.",
+   "ref": "S. 12 B"
+  },
+  "kardinalvenen": {
+   "lat": "Venae cardinales",
+   "de": "Kardinalvenen",
+   "info": "Embryonale Rumpfvenen; aus ihnen und Supra-, Sub- und Sakrokardinalvenen entstehen V. cava superior, Azygossystem und Abschnitte der V. cava inferior.",
+   "ref": "S. 13 C"
+  },
+  "ductus-venosus": {
+   "lat": "Ductus venosus",
+   "de": "Ductus venosus",
+   "info": "Kurzschluss, über den Nabelvenenblut an der Leber vorbei zur V. cava inferior fließt.",
+   "ref": "S. 13 D"
+  },
+  "primordialskelett": {
+   "lat": "Skeleton primordiale",
+   "de": "Primordialskelett",
+   "info": "Knorpeliges Miniaturmodell des Skeletts aus hyalinem Knorpel; wird später durch Knochen ersetzt.",
+   "ref": "S. 14 A"
+  },
+  "chondrale-osteogenese": {
+   "lat": "Osteogenesis chondralis",
+   "de": "chondrale (indirekte) Osteogenese",
+   "info": "Knochen entsteht über eine Knorpelvorstufe; gilt für den größten Teil des Skeletts (Rumpf, Extremitäten, Schädelbasis).",
+   "ref": "S. 14 A, 17 E"
+  },
+  "desmale-osteogenese": {
+   "lat": "Osteogenesis desmalis",
+   "de": "desmale (direkte) Osteogenese",
+   "info": "Mesenchymzellen werden direkt zu Osteoblasten; Schädeldach, Teile des Gesichtsschädels und Schlüsselbein.",
+   "ref": "S. 14 A, 17 E"
+  },
+  "perichondrale-ossifikation": {
+   "lat": "Ossificatio perichondralis",
+   "de": "perichondrale Ossifikation",
+   "info": "Knochenmanschette um die Diaphyse, direkt aus dem Mesenchym gebildet; sorgt für das Dickenwachstum (appositionell).",
+   "ref": "S. 14 A, 16 A"
+  },
+  "enchondrale-ossifikation": {
+   "lat": "Ossificatio enchondralis",
+   "de": "enchondrale Ossifikation",
+   "info": "Knochenbildung im Inneren der Knorpelanlage; sorgt über die Epiphysenfugen für das Längenwachstum (interstitiell).",
+   "ref": "S. 14 A, 17 E"
+  },
+  "primaerer-knochenkern": {
+   "lat": "Centrum ossificationis primarium",
+   "de": "primärer Knochenkern",
+   "info": "Entsteht fetal in der Diaphyse; bis zur 12. Woche in allen Röhrenknochen vorhanden.",
+   "ref": "S. 14 A, 18 A"
+  },
+  "sekundaerer-knochenkern": {
+   "lat": "Centrum ossificationis secundarium",
+   "de": "sekundärer Knochenkern",
+   "info": "Entsteht meist nach der Geburt in Epi- und Apophysen; schon bei Geburt vorhanden: distale Femur- und proximale Tibiaepiphyse.",
+   "ref": "S. 14 A, 18 A"
+  },
+  "extremitaetenknospe": {
+   "lat": "Gemma membri",
+   "de": "Extremitätenknospe",
+   "info": "Ende der 4. Woche paddelförmig; mesenchymaler Kern mit ektodermaler Hülle und apikaler Randleiste.",
+   "ref": "S. 14 B"
+  },
+  "syndaktylie": {
+   "lat": "Syndactylia",
+   "de": "Syndaktylie",
+   "info": "Verschmelzung von Fingern oder Zehen, wenn die interdigitale Apoptose ausbleibt.",
+   "ref": "S. 14 B"
+  },
+  "amelie-meromelie": {
+   "lat": "Amelia / Meromelia",
+   "de": "Amelie und Meromelie",
+   "info": "Amelie: Gliedmaße fehlt ganz; Meromelie: nur Teile fehlen.",
+   "ref": "S. 14 B"
+  },
+  "achondroplasie": {
+   "lat": "Achondroplasia",
+   "de": "Achondroplasie",
+   "info": "Erbliche Störung der enchondralen Ossifikation: kurze Gliedmaßen, relativ großer Schädel; desmale Knochenbildung bleibt normal.",
+   "ref": "S. 14 B"
+  },
+  "gelenkzwischenzone": {
+   "lat": "Zona interzonalis",
+   "de": "Gelenkzwischenzone",
+   "info": "Ab Woche 6 verdichtete Zone dreier Schichten; ab Woche 8 entsteht durch Apoptose der Gelenkspalt; bis Woche 12 ist die Gelenkentwicklung abgeschlossen.",
+   "ref": "S. 15 C"
+  },
+  "gelenk-abgliederung": {
+   "lat": "Articulatio per segmentationem",
+   "de": "Gelenkbildung durch Abgliederung",
+   "info": "Häufigster Weg: Spaltbildung in einer zunächst einheitlichen Skelettanlage (z. B. Hüft-, Schulter-, Ellenbogengelenk).",
+   "ref": "S. 15 C"
+  },
+  "gelenk-anlagerung": {
+   "lat": "Articulatio per appositionem",
+   "de": "Gelenkbildung durch Anlagerung",
+   "info": "Zwei getrennte Anlagen wachsen aufeinander zu (Kiefer-, Sternoklavikular-, Iliosakralgelenk); typisch mit Discus, außer im ISG.",
+   "ref": "S. 15 C"
+  },
+  "epiphysenfuge": {
+   "lat": "Lamina epiphysialis",
+   "de": "Epiphysenfuge (Wachstumsfuge)",
+   "info": "Knorpelplatte zwischen Epi- und Metaphyse für das Längenwachstum; schließt bei den meisten Röhrenknochen zwischen 18 und 23 Jahren.",
+   "ref": "S. 16 A–B"
+  },
+  "saeulenknorpel": {
+   "lat": "Zona proliferativa",
+   "de": "Säulenknorpelzone",
+   "info": "Proliferationszone der Wachstumsfuge, in der sich die Chondrozyten in Säulen teilen.",
+   "ref": "S. 16 B b, C"
+  },
+  "blasenknorpel": {
+   "lat": "Zona hypertrophica",
+   "de": "Blasenknorpelzone",
+   "info": "Hypertrophe Chondrozyten; die Längssepten der Matrix mineralisieren, danach Eröffnung durch Gefäße.",
+   "ref": "S. 16 B b, C"
+  },
+  "geflechtknochen": {
+   "lat": "Os membranaceum reticulofibrosum",
+   "de": "Geflechtknochen",
+   "info": "Unreifer, zuerst gebildeter Knochen; wird beim Umbau durch Lamellenknochen ersetzt.",
+   "ref": "S. 16, 17 D"
+  },
+  "remodelling": {
+   "lat": "Remodelling ossis",
+   "de": "Knochenumbau",
+   "info": "Lebenslanger Umbau – beim Erwachsenen etwa 10 % des Skeletts pro Jahr; dient Anpassung, Reparatur von Mikroschäden und Calciumbereitstellung.",
+   "ref": "S. 16"
+  },
+  "osteoid": {
+   "lat": "Osteoidum",
+   "de": "Osteoid",
+   "info": "Noch unverkalkte Knochenmatrix, von Osteoblasten abgelagert.",
+   "ref": "S. 17 D, F"
+  },
+  "howship-lakune": {
+   "lat": "Lacuna resorptionis (Howship)",
+   "de": "Howship-Lakune",
+   "info": "Resorptionsbucht, in der ein Osteoklast Knochen abbaut.",
+   "ref": "S. 17 F"
+  },
+  "osteon-entwicklung": {
+   "lat": "Osteogenesis osteonis",
+   "de": "Entwicklung eines Osteons",
+   "info": "Osteoklasten bohren mit einem Gefäß einen Resorptionskanal; dahinter bauen Osteoblasten die Lamellen konzentrisch auf.",
+   "ref": "S. 17 D"
+  },
+  "skelettalter": {
+   "lat": "Aetas ossea",
+   "de": "Skelettalter (Knochenalter)",
+   "info": "Aus dem Auftreten der Knochenkerne ablesbar; zeigt die biologische Reife. Geröntgt wird die linke bzw. Nicht-Gebrauchshand.",
+   "ref": "S. 18 A, 19"
+  },
+  "handwurzel-ossifikation": {
+   "lat": "Ossificatio carpi",
+   "de": "Verknöcherung der Handwurzel",
+   "info": "Über etwa neun Jahre: zuerst Os capitatum (1. Lebensjahr), zuletzt Os pisiforme (ca. 9. Jahr).",
+   "ref": "S. 18 B, 19"
+  },
+  "synostosierung": {
+   "lat": "Synostosis laminae epiphysialis",
+   "de": "Fugenschluss",
+   "info": "Mit der knöchernen Überbrückung der Epiphysenfuge endet das Längenwachstum; danach wächst der Knochen nur noch appositionell.",
+   "ref": "S. 18 A"
+  },
+  "stylopodium": {
+   "lat": "Stylopodium",
+   "de": "Stylopodium",
+   "info": "Proximales Extremitätensegment aus einem Knochen: Humerus bzw. Femur.",
+   "ref": "S. 20 A–B"
+  },
+  "zeugopodium": {
+   "lat": "Zeugopodium",
+   "de": "Zeugopodium",
+   "info": "Mittleres Segment aus zwei Knochen: Radius und Ulna bzw. Tibia und Fibula.",
+   "ref": "S. 20 A–B"
+  },
+  "autopodium": {
+   "lat": "Autopodium",
+   "de": "Autopodium",
+   "info": "Hand bzw. Fuß; gegliedert in Basi-, Meta- und Acropodium.",
+   "ref": "S. 20 A, C"
+  },
+  "praeaxial-postaxial": {
+   "lat": "Pars praeaxialis / postaxialis",
+   "de": "prä- und postaxial",
+   "info": "Am Arm: Radius und Strahlen 1–3 präaxial (kranial), Ulna und Strahlen 4–5 postaxial (kaudal).",
+   "ref": "S. 14 B"
+  },
+  "extremitaetenrotation": {
+   "lat": "Rotatio membrorum",
+   "de": "Rotation der Gliedmaßen",
+   "info": "Bei den Säuger-Vorfahren drehte sich das Bein nach vorn (Knie kopfwärts), der Arm nach hinten (Ellenbogen schwanzwärts).",
+   "ref": "S. 21 E"
+  },
+  "pronation-unterarm": {
+   "lat": "Pronatio antebrachii",
+   "de": "Pronationsstellung des Unterarms",
+   "info": "Damit die Hand trotz rückwärts zeigendem Ellenbogen mit den Fingern nach vorn aufsetzt, überkreuzen sich Radius und Ulna.",
+   "ref": "S. 21 F"
+  },
+  "extensoren-bein": {
+   "lat": "Extensores membri inferioris",
+   "de": "Streckerlage am Bein",
+   "info": "Durch die Vorwärtsdrehung liegen die genetisch dorsalen Strecker am Bein vorn – daher dort besser „vorn/hinten“ statt „ventral/dorsal“.",
+   "ref": "S. 21 F"
+  }
+ },
+ "karten": [
+  {
+   "id": "k0",
+   "f": "Welche Merkmale haben alle Chordaten?",
+   "a": "Chorda dorsalis, dorsales Neuralrohr, segmentierte Muskulatur, Kiemendarm, geschlossener Kreislauf und ein Schwanz hinter dem After.",
+   "e": "1.1",
+   "ref": "S. 3 G"
+  },
+  {
+   "id": "k1",
+   "f": "Wo findet sich beim Erwachsenen ein Rest der Chorda dorsalis?",
+   "a": "Im Nucleus pulposus der Bandscheiben.",
+   "e": "1.1",
+   "ref": "S. 3 D"
+  },
+  {
+   "id": "k2",
+   "f": "Was liefern die Schlundbögen?",
+   "a": "Material für Kiefer, Mittelohr, Zungenbein, Kehlkopf, die zugehörige Gesichtsmuskulatur und den Schlunddarm.",
+   "e": "1.1",
+   "ref": "S. 2 C"
+  },
+  {
+   "id": "k3",
+   "f": "Wie gliedert man die Entwicklung zeitlich?",
+   "a": "1.–3. Woche Frühentwicklung, 4.–8. Woche Embryonalperiode, ab 9. Woche Fetalperiode.",
+   "e": "1.2",
+   "ref": "S. 4 C"
+  },
+  {
+   "id": "k4",
+   "f": "Wann ist der Keim am empfindlichsten für Teratogene?",
+   "a": "In der Embryonalperiode (4.–8. Woche), weil jedes Organsystem dann seine sensible Phase hat.",
+   "e": "1.2",
+   "ref": "S. 4 D"
+  },
+  {
+   "id": "k5",
+   "f": "Was entsteht aus einer primären Oozyte durch die Meiose?",
+   "a": "Eine reife Eizelle und drei Polkörperchen, alle haploid (22 X).",
+   "e": "1.2",
+   "ref": "S. 5 E"
+  },
+  {
+   "id": "k6",
+   "f": "Was geschieht am 5.–6. Tag nach der Befruchtung?",
+   "a": "Die Blastozyste beginnt sich in die Uterusschleimhaut einzunisten.",
+   "e": "1.2",
+   "ref": "S. 5 G–H"
+  },
+  {
+   "id": "k7",
+   "f": "Was ist das Ergebnis der Gastrulation?",
+   "a": "Die dreiblättrige Keimscheibe aus Ekto-, Meso- und Endoderm; außerdem sind alle Körperachsen festgelegt.",
+   "e": "1.3",
+   "ref": "S. 6 A"
+  },
+  {
+   "id": "k8",
+   "f": "In welche drei Teile gliedert sich ein Somit?",
+   "a": "Dermatom (Haut), Myotom (Muskel), Sklerotom (Wirbel).",
+   "e": "1.3",
+   "ref": "S. 7 C"
+  },
+  {
+   "id": "k9",
+   "f": "Welcher Spinalnervenast versorgt die autochthone Rückenmuskulatur?",
+   "a": "Der R. dorsalis (epaxone Muskulatur); der R. ventralis versorgt die hypaxone Muskulatur.",
+   "e": "1.3",
+   "ref": "S. 7 C"
+  },
+  {
+   "id": "k10",
+   "f": "Was bildet die Neuralleiste?",
+   "a": "u. a. Spinal- und autonome Ganglien, periphere Glia, Nebennierenmark, Pigmentzellen, im Kopf auch Knochen und Bindegewebe.",
+   "e": "1.3",
+   "ref": "S. 7 D"
+  },
+  {
+   "id": "k11",
+   "f": "Was wird aus der linken 4. Schlundbogenarterie, was aus der 6.?",
+   "a": "Links 4.: Aortenbogen. 6.: Truncus pulmonalis und Ductus arteriosus.",
+   "e": "1.6",
+   "ref": "S. 12 B"
+  },
+  {
+   "id": "k12",
+   "f": "Woraus entsteht die A. subclavia sinistra?",
+   "a": "Aus der 7. Segmentarterie.",
+   "e": "1.6",
+   "ref": "S. 12 B"
+  },
+  {
+   "id": "k13",
+   "f": "Was ist das Primordialskelett?",
+   "a": "Ein knorpeliges Modell des Skeletts aus hyalinem Knorpel, das später durch Knochen ersetzt wird.",
+   "e": "1.7",
+   "ref": "S. 14 A"
+  },
+  {
+   "id": "k14",
+   "f": "Welche Knochen entstehen desmal?",
+   "a": "Schädeldach, Teile des Gesichtsschädels und die Clavicula; außerdem die perichondrale Knochenmanschette der Röhrenknochen.",
+   "e": "1.7",
+   "ref": "S. 14 A, 17 E"
+  },
+  {
+   "id": "k15",
+   "f": "Welche Epiphysenkerne sind bei der Geburt schon vorhanden?",
+   "a": "Distale Femur- und proximale Tibiaepiphyse (Reifezeichen).",
+   "e": "1.7",
+   "ref": "S. 14 A"
+  },
+  {
+   "id": "k16",
+   "f": "Was ist Achondroplasie?",
+   "a": "Eine erbliche Störung der enchondralen Ossifikation mit kurzen Gliedmaßen und relativ großem Schädel; desmale Knochen wachsen normal.",
+   "e": "1.7",
+   "ref": "S. 14 B"
+  },
+  {
+   "id": "k17",
+   "f": "Wie entsteht ein Gelenk – zwei Wege?",
+   "a": "Meist durch Abgliederung (Spalt in einer Anlage), selten durch Anlagerung zweier Anlagen (Kiefer-, Sternoklavikular-, Iliosakralgelenk).",
+   "e": "1.7",
+   "ref": "S. 15 C"
+  },
+  {
+   "id": "k18",
+   "f": "Wann ist die Gelenkentwicklung abgeschlossen?",
+   "a": "Am Ende der 12. Woche; der Gelenkspalt entsteht um die 8. Woche durch Apoptose.",
+   "e": "1.7",
+   "ref": "S. 15 C"
+  },
+  {
+   "id": "k19",
+   "f": "Osteogenese vs. Ossifikation?",
+   "a": "Osteogenese = Bildung eines einzelnen Knochens. Ossifikation = Bildung von Knochengewebe.",
+   "e": "1.8",
+   "ref": "S. 16 A"
+  },
+  {
+   "id": "k20",
+   "f": "Wofür sorgen perichondrale und enchondrale Ossifikation?",
+   "a": "Perichondral: Dickenwachstum (appositionell). Enchondral: Längenwachstum (interstitiell) über die Epiphysenfugen.",
+   "e": "1.8",
+   "ref": "S. 17 E"
+  },
+  {
+   "id": "k21",
+   "f": "Wann schließen die meisten Epiphysenfugen?",
+   "a": "Etwa zwischen 18 und 23 Jahren.",
+   "e": "1.8",
+   "ref": "S. 16 A"
+  },
+  {
+   "id": "k22",
+   "f": "Wie viel Skelett wird beim Erwachsenen jährlich umgebaut?",
+   "a": "Etwa 10 % – das ganze Skelett also in rund zehn Jahren.",
+   "e": "1.8",
+   "ref": "S. 16"
+  },
+  {
+   "id": "k23",
+   "f": "Wie entsteht ein Osteon?",
+   "a": "Osteoklasten bohren zusammen mit einem Gefäß einen Resorptionskanal; Osteoblasten bauen dahinter die Lamellen auf.",
+   "e": "1.8",
+   "ref": "S. 17 D"
+  },
+  {
+   "id": "k24",
+   "f": "Welcher Handwurzelknochen verknöchert zuerst, welcher zuletzt?",
+   "a": "Zuerst Os capitatum (1. Lebensjahr), zuletzt Os pisiforme (ca. 9. Jahr).",
+   "e": "1.9",
+   "ref": "S. 19"
+  },
+  {
+   "id": "k25",
+   "f": "Wozu bestimmt man das Skelettalter?",
+   "a": "Es zeigt die biologische Reife und Wachstumsreserve – wichtig für Kinderorthopädie und die Vorhersage der Endgröße.",
+   "e": "1.9",
+   "ref": "S. 19"
+  },
+  {
+   "id": "k26",
+   "f": "Welche drei Segmente hat jede Tetrapodenextremität?",
+   "a": "Stylopodium (1 Knochen), Zeugopodium (2 Knochen), Autopodium (Hand/Fuß).",
+   "e": "1.10",
+   "ref": "S. 20 A"
+  },
+  {
+   "id": "k27",
+   "f": "Warum liegen die Strecker am Bein vorn, am Arm hinten?",
+   "a": "Das Bein wurde stammesgeschichtlich nach vorn gedreht, der Arm behielt die ursprüngliche dorsale Streckerlage.",
+   "e": "1.10",
+   "ref": "S. 21 E–F"
+  }
+ ],
+ "fragen": [
+  {
+   "id": "f0",
+   "f": "Welches Merkmal ist KEIN Chordatenmerkmal?",
+   "o": [
+    "dorsales Neuralrohr",
+    "Chorda dorsalis",
+    "ventral gelegenes Nervensystem",
+    "postanaler Schwanz"
+   ],
+   "r": 2,
+   "x": "Bei Chordaten liegt das Neuralrohr dorsal.",
+   "e": "1.1",
+   "ref": "S. 3 G"
+  },
+  {
+   "id": "f1",
+   "f": "In welcher Struktur ist beim Erwachsenen ein Chorda-Rest erhalten?",
+   "o": [
+    "Anulus fibrosus",
+    "Nucleus pulposus",
+    "Lig. longitudinale anterius",
+    "Wirbelbogen"
+   ],
+   "r": 1,
+   "x": "Der Gallertkern der Bandscheibe enthält Chordareste.",
+   "e": "1.1",
+   "ref": "S. 3 D"
+  },
+  {
+   "id": "f2",
+   "f": "Welcher Zeitraum ist die Embryonalperiode?",
+   "o": [
+    "1.–3. Woche",
+    "4.–8. Woche",
+    "9.–12. Woche",
+    "13.–38. Woche"
+   ],
+   "r": 1,
+   "x": "Danach beginnt die Fetalperiode.",
+   "e": "1.2",
+   "ref": "S. 4 C"
+  },
+  {
+   "id": "f3",
+   "f": "Was entsteht bei der Oogenese aus einer primären Oozyte?",
+   "o": [
+    "vier Eizellen",
+    "eine Eizelle und drei Polkörperchen",
+    "zwei Eizellen",
+    "eine Eizelle und ein Polkörperchen"
+   ],
+   "r": 1,
+   "x": "Die Spermatogenese liefert dagegen vier Spermatiden.",
+   "e": "1.2",
+   "ref": "S. 5 E"
+  },
+  {
+   "id": "f4",
+   "f": "Wann beginnt die Implantation?",
+   "o": [
+    "am 1. Tag",
+    "am 3. Tag",
+    "am 5.–6. Tag",
+    "in der 3. Woche"
+   ],
+   "r": 2,
+   "x": "Die Blastozyste nistet sich ab Tag 5–6 ein.",
+   "e": "1.2",
+   "ref": "S. 5 G–H"
+  },
+  {
+   "id": "f5",
+   "f": "Aus welchem Somitenteil entstehen die Wirbel?",
+   "o": [
+    "Dermatom",
+    "Myotom",
+    "Sklerotom",
+    "Neuralleiste"
+   ],
+   "r": 2,
+   "x": "Sklerotomzellen wandern zur Chorda.",
+   "e": "1.3",
+   "ref": "S. 7 C"
+  },
+  {
+   "id": "f6",
+   "f": "Welche Struktur stammt aus der Neuralleiste?",
+   "o": [
+    "Nebennierenrinde",
+    "Nebennierenmark",
+    "Schilddrüsenepithel",
+    "Linse"
+   ],
+   "r": 1,
+   "x": "Die Rinde stammt aus dem Mesoderm, die Linse aus einer ektodermalen Plakode.",
+   "e": "1.3",
+   "ref": "S. 7 D"
+  },
+  {
+   "id": "f7",
+   "f": "Aus welchem Keimblatt stammt das Brustbein?",
+   "o": [
+    "Ektoderm",
+    "Mesoderm (Seitenplatten)",
+    "Endoderm",
+    "Neuralleiste"
+   ],
+   "r": 1,
+   "x": "Sternum und Extremitätenskelett entstehen aus dem parietalen Seitenplattenmesoderm.",
+   "e": "1.3",
+   "ref": "S. 7 D"
+  },
+  {
+   "id": "f8",
+   "f": "Was wird aus der 3. Schlundbogenarterie?",
+   "o": [
+    "Aortenbogen",
+    "A. carotis communis",
+    "Ductus arteriosus",
+    "A. subclavia sinistra"
+   ],
+   "r": 1,
+   "x": "Zusätzlich der Anfangsteil der A. carotis interna.",
+   "e": "1.6",
+   "ref": "S. 12 B"
+  },
+  {
+   "id": "f9",
+   "f": "Welcher Knochen entsteht überwiegend desmal?",
+   "o": [
+    "Femur",
+    "Clavicula",
+    "Wirbelkörper",
+    "Os coxae"
+   ],
+   "r": 1,
+   "x": "Neben Schädeldach und Teilen des Gesichtsschädels.",
+   "e": "1.7",
+   "ref": "S. 14 A"
+  },
+  {
+   "id": "f10",
+   "f": "Bis wann haben alle Röhrenknochen primäre Knochenkerne?",
+   "o": [
+    "bis zur 8. Woche",
+    "bis zur 12. Woche",
+    "bis zur Geburt",
+    "bis zum 1. Lebensjahr"
+   ],
+   "r": 1,
+   "x": "Die Verknöcherung beginnt in der 8. Woche.",
+   "e": "1.7",
+   "ref": "S. 14 A"
+  },
+  {
+   "id": "f11",
+   "f": "Welches Gelenk entsteht durch Anlagerung?",
+   "o": [
+    "Hüftgelenk",
+    "Schultergelenk",
+    "Kiefergelenk",
+    "Ellenbogengelenk"
+   ],
+   "r": 2,
+   "x": "Ebenso Sternoklavikular- und Iliosakralgelenk.",
+   "e": "1.7",
+   "ref": "S. 15 C"
+  },
+  {
+   "id": "f12",
+   "f": "Wodurch entsteht der Gelenkspalt?",
+   "o": [
+    "Nekrose nach Verletzung",
+    "Apoptose in der Intermediärschicht",
+    "Einwachsen von Gefäßen",
+    "Muskelzug"
+   ],
+   "r": 1,
+   "x": "Um die 8. Woche.",
+   "e": "1.7",
+   "ref": "S. 15 C"
+  },
+  {
+   "id": "f13",
+   "f": "Wofür ist die perichondrale Knochenmanschette verantwortlich?",
+   "o": [
+    "Längenwachstum",
+    "Dickenwachstum",
+    "Bildung des roten Marks",
+    "Gelenkbildung"
+   ],
+   "r": 1,
+   "x": "Sie wächst appositionell.",
+   "e": "1.8",
+   "ref": "S. 16 A, 17 E"
+  },
+  {
+   "id": "f14",
+   "f": "In welcher Zone der Epiphysenfuge teilen sich die Chondrozyten?",
+   "o": [
+    "Reservezone",
+    "Säulenknorpel-(Proliferations-)zone",
+    "Blasenknorpelzone",
+    "Eröffnungszone"
+   ],
+   "r": 1,
+   "x": "In der Blasenknorpelzone hypertrophieren sie.",
+   "e": "1.8",
+   "ref": "S. 16 B"
+  },
+  {
+   "id": "f15",
+   "f": "Welche Zellen „bohren“ beim Osteonumbau den Resorptionskanal?",
+   "o": [
+    "Osteoblasten",
+    "Osteozyten",
+    "Osteoklasten",
+    "Chondrozyten"
+   ],
+   "r": 2,
+   "x": "Osteoblasten bauen danach die Lamellen auf.",
+   "e": "1.8",
+   "ref": "S. 17 D"
+  },
+  {
+   "id": "f16",
+   "f": "Welcher Handwurzelknochen verknöchert als letzter?",
+   "o": [
+    "Os capitatum",
+    "Os hamatum",
+    "Os scaphoideum",
+    "Os pisiforme"
+   ],
+   "r": 3,
+   "x": "Etwa im 9. Lebensjahr.",
+   "e": "1.9",
+   "ref": "S. 19"
+  },
+  {
+   "id": "f17",
+   "f": "Was bildet das Zeugopodium der oberen Extremität?",
+   "o": [
+    "Humerus",
+    "Radius und Ulna",
+    "Handwurzel",
+    "Schultergürtel"
+   ],
+   "r": 1,
+   "x": "Das Stylopodium ist der Humerus.",
+   "e": "1.10",
+   "ref": "S. 20 A–B"
+  },
+  {
+   "id": "f18",
+   "f": "Wohin zeigt nach der Rotation der Hinterextremität das Knie?",
+   "o": [
+    "nach hinten",
+    "nach außen",
+    "kopfwärts",
+    "nach medial"
+   ],
+   "r": 2,
+   "x": "Der Ellenbogen zeigt dagegen nach hinten.",
+   "e": "1.10",
+   "ref": "S. 21 E"
+  }
+ ],
+ "sortieren": {
+  "titel": "Aus welchem Keimblatt?",
+  "ref": "S. 7 D",
+  "kategorien": [
+   "Ektoderm",
+   "Mesoderm",
+   "Endoderm",
+   "Neuralleiste"
+  ],
+  "items": [
+   {
+    "id": "s0",
+    "t": "Epidermis, Haare, Nägel",
+    "k": 0
+   },
+   {
+    "id": "s1",
+    "t": "Augenlinse",
+    "k": 0
+   },
+   {
+    "id": "s2",
+    "t": "Innenohr",
+    "k": 0
+   },
+   {
+    "id": "s3",
+    "t": "Zahnschmelz",
+    "k": 0
+   },
+   {
+    "id": "s4",
+    "t": "Wirbelsäule und Rippen",
+    "k": 1
+   },
+   {
+    "id": "s5",
+    "t": "Skelettmuskulatur",
+    "k": 1
+   },
+   {
+    "id": "s6",
+    "t": "Nieren und Keimdrüsen",
+    "k": 1
+   },
+   {
+    "id": "s7",
+    "t": "Herz und Blut",
+    "k": 1
+   },
+   {
+    "id": "s8",
+    "t": "Nebennierenrinde",
+    "k": 1
+   },
+   {
+    "id": "s9",
+    "t": "Sternum und Extremitätenskelett",
+    "k": 1
+   },
+   {
+    "id": "s10",
+    "t": "Darmepithel",
+    "k": 2
+   },
+   {
+    "id": "s11",
+    "t": "Epithel der Atemwege",
+    "k": 2
+   },
+   {
+    "id": "s12",
+    "t": "Schilddrüse",
+    "k": 2
+   },
+   {
+    "id": "s13",
+    "t": "Thymus",
+    "k": 2
+   },
+   {
+    "id": "s14",
+    "t": "Harnblasenepithel",
+    "k": 2
+   },
+   {
+    "id": "s15",
+    "t": "Spinalganglien",
+    "k": 3
+   },
+   {
+    "id": "s16",
+    "t": "Nebennierenmark",
+    "k": 3
+   },
+   {
+    "id": "s17",
+    "t": "Pigmentzellen",
+    "k": 3
+   },
+   {
+    "id": "s18",
+    "t": "periphere Glia",
+    "k": 3
+   }
+  ]
+ },
+ "tabellen": [
+  {
+   "id": "carnegie",
+   "titel": "Carnegie-Stadien (Auswahl)",
+   "ref": "S. 4 A",
+   "einheit": "1.2",
+   "spalten": [
+    "Woche",
+    "SSL (mm)"
+   ],
+   "zeilen": [
+    [
+     "Stadium 14",
+     [
+      "5",
+      "8"
+     ]
+    ],
+    [
+     "Stadium 17",
+     [
+      "6",
+      "13"
+     ]
+    ],
+    [
+     "Stadium 20",
+     [
+      "7",
+      "18"
+     ]
+    ],
+    [
+     "Stadium 23",
+     [
+      "8",
+      "30"
+     ]
+    ]
+   ],
+   "fuss": "SSL = Scheitel-Steiß-Länge; Alter als Befruchtungsalter (p. o.)."
+  },
+  {
+   "id": "extremitaet",
+   "titel": "Bauplan der Extremitäten",
+   "ref": "S. 20 A–B",
+   "einheit": "1.10",
+   "spalten": [
+    "obere Extremität",
+    "untere Extremität"
+   ],
+   "zeilen": [
+    [
+     "Stylopodium",
+     [
+      "Humerus",
+      "Femur"
+     ]
+    ],
+    [
+     "Zeugopodium",
+     [
+      "Radius und Ulna",
+      "Tibia und Fibula"
+     ]
+    ],
+    [
+     "Autopodium",
+     [
+      "Hand",
+      "Fuß"
+     ]
+    ]
+   ],
+   "fuss": "Das Autopodium gliedert sich in Basi-, Meta- und Acropodium."
+  },
+  {
+   "id": "zeiten",
+   "titel": "Zeitpunkte der Entwicklung",
+   "ref": "S. 4 C, 5 H, 7 C, 14 A, 15 C, 16 A",
+   "einheit": "1.7",
+   "spalten": [
+    "Zeitpunkt"
+   ],
+   "zeilen": [
+    [
+     "Morula (Tag)",
+     [
+      "3"
+     ]
+    ],
+    [
+     "Beginn der Implantation (Tag)",
+     [
+      "5–6"
+     ]
+    ],
+    [
+     "erste Somiten (Tag)",
+     [
+      "20"
+     ]
+    ],
+    [
+     "Beginn der Verknöcherung (Woche)",
+     [
+      "8"
+     ]
+    ],
+    [
+     "Gelenkentwicklung abgeschlossen (Woche)",
+     [
+      "12"
+     ]
+    ],
+    [
+     "Schluss der meisten Epiphysenfugen (Jahre)",
+     [
+      "18–23"
+     ]
+    ]
+   ],
+   "fuss": "Tage und Wochen nach der Befruchtung."
+  }
+ ]
+}

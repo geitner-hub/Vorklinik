@@ -1,0 +1,1248 @@
+{
+ "id": "allg-knochen",
+ "buch": "Prometheus LernAtlas – Allgemeine Anatomie und Bewegungssystem",
+ "teil": "Allgemeine Anatomie",
+ "titel": "Knochen und Knochenverbindungen",
+ "seiten": "S. 40–49",
+ "bereiche": [
+  [
+   40,
+   49
+  ]
+ ],
+ "intro": "Knochentypen und Bau des Röhrenknochens, unechte und echte Gelenke, Gelenkkapsel, Gelenkknorpel und Synovia sowie die Arthrose.",
+ "einheiten": [
+  {
+   "nr": "4.1",
+   "titel": "Knöchernes Skelett und Bau eines Röhrenknochens",
+   "seite": 40
+  },
+  {
+   "nr": "4.2",
+   "titel": "Knochenverbindungen: Übersicht und unechte Gelenke",
+   "seite": 42
+  },
+  {
+   "nr": "4.3",
+   "titel": "Echte Gelenke: Bauelemente, intra- und extraartikuläre Strukturen",
+   "seite": 44
+  },
+  {
+   "nr": "4.4",
+   "titel": "Echte Gelenke: Gelenkkapsel und hyaliner Gelenkknorpel",
+   "seite": 46
+  },
+  {
+   "nr": "4.5",
+   "titel": "Degenerative Gelenkerkrankungen am Beispiel der Koxarthrose",
+   "seite": 48
+  }
+ ],
+ "strukturen": {
+  "ossa-longa": {
+   "lat": "Ossa longa",
+   "de": "lange Knochen",
+   "info": "Röhrenknochen der Gliedmaßen mit Schaft und zwei Enden, z. B. Femur oder Humerus.",
+   "ref": "S. 40 C"
+  },
+  "ossa-brevia": {
+   "lat": "Ossa brevia",
+   "de": "kurze Knochen",
+   "info": "Würfel- oder klötzchenförmige Knochen, typisch für Hand- und Fußwurzel.",
+   "ref": "S. 40 C"
+  },
+  "ossa-plana": {
+   "lat": "Ossa plana",
+   "de": "platte Knochen",
+   "info": "Flächige Knochen wie Schulterblatt, Darmbein oder die Knochen des Schädeldachs.",
+   "ref": "S. 40 C"
+  },
+  "ossa-irregularia": {
+   "lat": "Ossa irregularia",
+   "de": "unregelmäßige Knochen",
+   "info": "Knochen ohne regelhafte Grundform, als Beispiel nennt das Buch Knochen der Schädelbasis.",
+   "ref": "S. 40 C"
+  },
+  "ossa-pneumatica": {
+   "lat": "Ossa pneumatica",
+   "de": "lufthaltige Knochen",
+   "info": "Knochen mit luftgefüllten, schleimhautausgekleideten Räumen, z. B. Gesichtsschädel mit Nasennebenhöhlen.",
+   "ref": "S. 40 C"
+  },
+  "ossa-sesamoidea": {
+   "lat": "Ossa sesamoidea",
+   "de": "Sesambeine",
+   "info": "In Sehnen eingelagerte Knochen; größtes Beispiel ist die Kniescheibe.",
+   "ref": "S. 40 C"
+  },
+  "ossa-accessoria": {
+   "lat": "Ossa accessoria",
+   "de": "akzessorische Knochen",
+   "info": "Überzählige Knochen, meist weil einzelne Knochenkerne nicht miteinander verschmelzen; häufig an Schädeldach und Fuß.",
+   "ref": "S. 40 C"
+  },
+  "epiphysis": {
+   "lat": "Epiphysis",
+   "de": "Epiphyse (Knochenende)",
+   "info": "Gelenknahes Ende eines Röhrenknochens: innen Spongiosa mit rotem Mark, außen dünne Compacta, an der Gelenkfläche hyaliner Knorpel.",
+   "ref": "S. 41 D a"
+  },
+  "diaphysis": {
+   "lat": "Diaphysis",
+   "de": "Diaphyse (Schaft)",
+   "info": "Mittelstück des Röhrenknochens mit dicker Compacta und Markhöhle voller Fettmark.",
+   "ref": "S. 41 D a"
+  },
+  "apophysis": {
+   "lat": "Apophysis",
+   "de": "Apophyse",
+   "info": "Knochenvorsprung mit eigenem Knochenkern, an dem Sehnen und Bänder ansetzen, z. B. Trochanter major.",
+   "ref": "S. 41 D a, 19 D"
+  },
+  "linea-epiphysialis": {
+   "lat": "Linea epiphysialis",
+   "de": "knöcherne Epiphysenlinie",
+   "info": "Verknöcherter Rest der Wachstumsfuge nach Abschluss des Längenwachstums.",
+   "ref": "S. 41 D a"
+  },
+  "substantia-compacta": {
+   "lat": "Substantia compacta",
+   "de": "Kompakta",
+   "info": "Dichte Rindenschicht, aus Osteonen aufgebaut; besonders kräftig im Schaft.",
+   "ref": "S. 41 D a, c"
+  },
+  "substantia-spongiosa": {
+   "lat": "Substantia spongiosa",
+   "de": "Spongiosa",
+   "info": "Schwammartiges Bälkchenwerk aus Lamellenknochen. Die Trabekel sind nur 200–300 µm dick, weil sie ohne eigene Gefäße per Diffusion aus dem Markraum ernährt werden.",
+   "ref": "S. 41 D b"
+  },
+  "medulla-ossium-rubra": {
+   "lat": "Medulla ossium rubra",
+   "de": "rotes Knochenmark",
+   "info": "Blutbildendes Mark in den Räumen der Spongiosa, z. B. in den Epiphysen.",
+   "ref": "S. 41 D a"
+  },
+  "medulla-ossium-flava": {
+   "lat": "Medulla ossium flava",
+   "de": "gelbes Knochenmark (Fettmark)",
+   "info": "Fettmark in der Markhöhle des Schafts beim Erwachsenen.",
+   "ref": "S. 41 D a"
+  },
+  "osteon": {
+   "lat": "Osteon",
+   "de": "Osteon (Havers-System)",
+   "info": "Baueinheit der Compacta: etwa 1 cm lang, 250–350 µm dick, aus 5–20 konzentrischen Lamellen um einen zentralen Kanal.",
+   "ref": "S. 41 D c–d"
+  },
+  "canalis-haversi": {
+   "lat": "Canalis centralis (Havers-Kanal)",
+   "de": "Havers-Kanal",
+   "info": "Zentraler, überwiegend längs laufender Gefäßkanal eines Osteons.",
+   "ref": "S. 41 D c–d"
+  },
+  "canalis-volkmanni": {
+   "lat": "Canalis perforans (Volkmann-Kanal)",
+   "de": "Volkmann-Kanal",
+   "info": "Quer oder schräg laufender Kanal; verbindet Havers-Kanäle untereinander sowie mit Periost- und Markgefäßen.",
+   "ref": "S. 41 D c"
+  },
+  "lamellae": {
+   "lat": "Lamellae generales et interstitiales",
+   "de": "General- und Schaltlamellen",
+   "info": "Äußere und innere Generallamellen ziehen parallel unter dem Periost bzw. an der Markhöhle entlang; Schaltlamellen sind Reste umgebauter Osteone.",
+   "ref": "S. 41 D c"
+  },
+  "periosteum": {
+   "lat": "Periosteum",
+   "de": "Knochenhaut",
+   "info": "Außen das kollagenreiche Stratum fibrosum, innen die Kambiumschicht mit Osteoblasten; am Knochen über Sharpey-Fasern verankert.",
+   "ref": "S. 41 D e"
+  },
+  "fibrae-perforantes": {
+   "lat": "Fibrae perforantes (Sharpey-Fasern)",
+   "de": "Sharpey-Fasern",
+   "info": "Kollagenfasern, die vom Periost in die Compacta einstrahlen und die Knochenhaut fest verankern.",
+   "ref": "S. 41 D e"
+  },
+  "foramen-nutricium": {
+   "lat": "Foramen nutricium",
+   "de": "Ernährungsloch",
+   "info": "Öffnung im Schaft, durch die A. und V. nutricia in die Markhöhle ziehen.",
+   "ref": "S. 41 D a"
+  },
+  "osteoblast": {
+   "lat": "Osteoblastus",
+   "de": "Osteoblast",
+   "info": "Knochenbildende Zelle, z. B. in der Kambiumschicht des Periosts; legt neue Matrix (zunächst Osteoid) an.",
+   "ref": "S. 41 D e, 17 D"
+  },
+  "osteozyt": {
+   "lat": "Osteocytus",
+   "de": "Osteozyt",
+   "info": "In die Matrix eingemauerter, ehemaliger Osteoblast; steht über feine Fortsätze mit Nachbarzellen in Verbindung.",
+   "ref": "S. 41 D d"
+  },
+  "osteoklast": {
+   "lat": "Osteoclastus",
+   "de": "Osteoklast",
+   "info": "Mehrkernige Abbauzelle („Knochenfresszelle“); liegt in Resorptionsbuchten (Howship-Lakunen).",
+   "ref": "S. 17 D, F"
+  },
+  "synarthrosis": {
+   "lat": "Synarthrosis",
+   "de": "unechtes Gelenk (Haft)",
+   "info": "Kontinuierliche Verbindung über Bindegewebe, Knorpel oder Knochen ohne Gelenkspalt; höchstens mäßig beweglich.",
+   "ref": "S. 42 A"
+  },
+  "syndesmosis": {
+   "lat": "Syndesmosis",
+   "de": "Bandhaft",
+   "info": "Verbindung durch kollagenes oder elastisches Bindegewebe, z. B. Membrana interossea, Syndesmosis tibiofibularis, Fontanellen, Ligg. flava.",
+   "ref": "S. 42 A, 43 E"
+  },
+  "membrana-interossea": {
+   "lat": "Membrana interossea",
+   "de": "Zwischenknochenmembran",
+   "info": "Straffe Bindegewebsplatte zwischen zwei Röhrenknochen (z. B. Radius und Ulna) – eine Syndesmose.",
+   "ref": "S. 43 E a"
+  },
+  "fonticuli": {
+   "lat": "Fonticuli cranii",
+   "de": "Fontanellen",
+   "info": "Bindegewebige Lücken zwischen den Schädelknochen des Neugeborenen – Syndesmosen.",
+   "ref": "S. 42 A, 43 E c"
+  },
+  "gomphosis": {
+   "lat": "Gomphosis",
+   "de": "Einzapfung",
+   "info": "Sonderform der Syndesmose: der Zahn ist über den Zahnhalteapparat in seiner Alveole verankert.",
+   "ref": "S. 43 E d"
+  },
+  "synchondrosis": {
+   "lat": "Synchondrosis",
+   "de": "Knorpelhaft",
+   "info": "Verbindung durch Knorpel, z. B. Epiphysenfugen vor dem Schluss, Y-Fuge des Hüftbeins, Rippenknorpel.",
+   "ref": "S. 42 A, 43 F"
+  },
+  "symphysis": {
+   "lat": "Symphysis",
+   "de": "Symphyse",
+   "info": "Knorpelhaft, deren Füllgewebe überwiegend aus Faserknorpel besteht: Symphysis pubica und Bandscheiben.",
+   "ref": "S. 42 A, 43 F d"
+  },
+  "synostosis": {
+   "lat": "Synostosis",
+   "de": "Knochenhaft",
+   "info": "Knöcherne Verschmelzung, unbeweglich, z. B. Kreuzbein, Hüftbein, geschlossene Epiphysenfugen.",
+   "ref": "S. 42 A, 43 G"
+  },
+  "diarthrosis": {
+   "lat": "Diarthrosis",
+   "de": "echtes Gelenk",
+   "info": "Diskontinuierliche Verbindung mit Gelenkspalt; eingeteilt nach Form der Gelenkkörper, Zahl der Achsen und Freiheitsgrade.",
+   "ref": "S. 42 A, 44 A"
+  },
+  "amphiarthrosis": {
+   "lat": "Amphiarthrosis",
+   "de": "straffes Gelenk",
+   "info": "Echtes Gelenk, dessen Beweglichkeit durch straffe Bänder fast aufgehoben ist, z. B. Iliosakralgelenk.",
+   "ref": "S. 42 A"
+  },
+  "pseudarthrose": {
+   "lat": "Pseudarthrosis",
+   "de": "Falschgelenk",
+   "info": "Instabile, nicht knöchern verheilte Stelle nach missglückter Frakturheilung.",
+   "ref": "S. 42 B"
+  },
+  "ankylose": {
+   "lat": "Ankylosis",
+   "de": "Ankylose",
+   "info": "Krankhafte knöcherne Versteifung eines echten Gelenks; der Gelenkspalt füllt sich nach Knorpelverlust mit Knochen.",
+   "ref": "S. 42 B, C"
+  },
+  "arthrodese": {
+   "lat": "Arthrodesis",
+   "de": "Arthrodese",
+   "info": "Operative Gelenkversteifung (an der Wirbelsäule: Spondylodese) in Funktionsstellung – Schmerzfreiheit und Stabilität statt Beweglichkeit.",
+   "ref": "S. 42 B, D"
+  },
+  "arthroskopie": {
+   "lat": "Arthroscopia",
+   "de": "Gelenkspiegelung",
+   "info": "Endoskopische Untersuchung eines Gelenks, meist zugleich mit Behandlung (z. B. Bandrekonstruktion, Entfernung freier Gelenkkörper).",
+   "ref": "S. 42 B"
+  },
+  "synovektomie": {
+   "lat": "Synovectomia",
+   "de": "Synovektomie",
+   "info": "Operative Entfernung der Gelenkinnenhaut, z. B. bei chronischer Polyarthritis; die Membran bildet sich danach neu.",
+   "ref": "S. 42 B, 46 A"
+  },
+  "cavitas-articularis": {
+   "lat": "Cavitas articularis",
+   "de": "Gelenkhöhle",
+   "info": "Von der Kapsel umschlossener Raum mit Ausbuchtungen (Recessus), gefüllt mit Synovia.",
+   "ref": "S. 44 A"
+  },
+  "facies-articularis": {
+   "lat": "Facies articularis",
+   "de": "Gelenkfläche",
+   "info": "Mit hyalinem Knorpel überzogene Fläche der Gelenkkörper; die Flächen sind durch einen Spalt von wenigen Zehntelmillimetern getrennt.",
+   "ref": "S. 44 A"
+  },
+  "capsula-articularis": {
+   "lat": "Capsula articularis",
+   "de": "Gelenkkapsel",
+   "info": "Allseits geschlossene Hülle aus Membrana fibrosa und Membrana synovialis; bildet die Synovia.",
+   "ref": "S. 44 A, 46 A"
+  },
+  "plicae-villi": {
+   "lat": "Plicae et villi synoviales",
+   "de": "Synovialfalten und -zotten",
+   "info": "Oberflächenvergrößerungen der Kapselinnenseite (Wülste wie Plicae alares, Falten, Zotten).",
+   "ref": "S. 44 A"
+  },
+  "meniscus-articularis": {
+   "lat": "Meniscus articularis",
+   "de": "Gelenkmeniskus",
+   "info": "Sichelförmig, im Querschnitt keilförmig; regelmäßig nur im Kniegelenk. Außen über Kapselgefäße, innen über die Synovia ernährt.",
+   "ref": "S. 44 B a"
+  },
+  "discus-articularis": {
+   "lat": "Discus articularis",
+   "de": "Gelenkzwischenscheibe",
+   "info": "Scheibe aus Bindegewebe und Faserknorpel, die das Gelenk in zwei Kammern teilt: Kiefer-, Sternoklavikular- und proximales Handgelenk.",
+   "ref": "S. 44 B b"
+  },
+  "labrum-articulare": {
+   "lat": "Labrum articulare",
+   "de": "Gelenklippe",
+   "info": "Faserknorpeliger Keil am Pfannenrand von Hüft- und Schultergelenk (Labrum acetabuli bzw. glenoidale); vergrößert die Pfanne.",
+   "ref": "S. 44 B c"
+  },
+  "bursa-synovialis": {
+   "lat": "Bursa synovialis",
+   "de": "Schleimbeutel",
+   "info": "Gelenknaher, mit Synovia gefüllter Beutel; kann mit der Gelenkhöhle verbunden sein.",
+   "ref": "S. 44 A"
+  },
+  "ligg-intracapsularia": {
+   "lat": "Ligamenta intracapsularia",
+   "de": "Kapselbänder",
+   "info": "Bänder in der Membrana fibrosa (z. B. Ligg. iliofemorale, ischiofemorale, pubofemorale) oder in der Subintima (Kreuzbänder); führen und hemmen das Gelenk.",
+   "ref": "S. 45 C"
+  },
+  "ligg-extracapsularia": {
+   "lat": "Ligamenta extracapsularia",
+   "de": "kapselferne Bänder",
+   "info": "Bänder ohne direkten Kontakt zur Kapsel, z. B. Lig. collaterale fibulare des Kniegelenks.",
+   "ref": "S. 45 C"
+  },
+  "ligg-cruciata-lage": {
+   "lat": "Ligamenta cruciata genus (Lage)",
+   "de": "Kreuzbänder – Lage",
+   "info": "Liegen scheinbar in der Gelenkhöhle, sind aber von synovialer Intima überzogen: intrakapsulär, aber extraartikulär.",
+   "ref": "S. 45 C"
+  },
+  "synovia": {
+   "lat": "Synovia",
+   "de": "Gelenkflüssigkeit",
+   "info": "Klar, gelblich und zäh (pH 7,4–7,7); im Kniegelenk nur 3–5 ml. Enthält Hyaluronat, Lubricin, Phospholipide, Plasmabestandteile und wenige Abwehrzellen.",
+   "ref": "S. 45 D"
+  },
+  "kontraktur": {
+   "lat": "Contractura articularis",
+   "de": "Gelenkkontraktur",
+   "info": "Bewegungseinschränkung, weil Bänder und Kapsel bei Ruhigstellung oder Fehlhaltung schrumpfen.",
+   "ref": "S. 45 C"
+  },
+  "membrana-fibrosa": {
+   "lat": "Membrana fibrosa",
+   "de": "äußere Kapselschicht",
+   "info": "Straffes kollagenes Bindegewebe, geht ins Periost über und wird oft durch Kapselbänder verstärkt („Wand“).",
+   "ref": "S. 46 A"
+  },
+  "membrana-synovialis": {
+   "lat": "Membrana synovialis",
+   "de": "innere Kapselschicht",
+   "info": "Kleidet die Kapsel innen aus und haftet am Knorpelrand („Tapete“); aus Intima und Subintima, sehr regenerationsfähig.",
+   "ref": "S. 46 A"
+  },
+  "synovialozyten-a": {
+   "lat": "Synoviocyti A",
+   "de": "A-Synovialozyten",
+   "info": "Makrophagenähnliche Deckzellen an der Grenze zur Gelenkhöhle: räumen verbrauchte Synovia, Bakterien und Zelltrümmer ab.",
+   "ref": "S. 46 A"
+  },
+  "synovialozyten-b": {
+   "lat": "Synoviocyti B",
+   "de": "B-Synovialozyten",
+   "info": "Fibroblastenähnliche Zellen unter den A-Zellen: bilden vor allem die Synovia.",
+   "ref": "S. 46 A"
+  },
+  "subintima": {
+   "lat": "Subintima (Subsynovialis)",
+   "de": "Subintima",
+   "info": "Bindegewebe mit Blut- und Lymphgefäßen, Schmerz- und Mechanorezeptoren (Pacini, Ruffini); areolär, adipös oder fibrös gebaut.",
+   "ref": "S. 46 A"
+  },
+  "cartilago-articularis": {
+   "lat": "Cartilago articularis",
+   "de": "Gelenkknorpel",
+   "info": "Meist hyalin, gefäßfrei und ohne Perichondrium, daher kaum regenerationsfähig; 1–2 mm (Finger) bis 5–7 mm (Patella) dick.",
+   "ref": "S. 46 A"
+  },
+  "knorpel-faserknorpel": {
+   "lat": "Cartilago fibrosa articularis",
+   "de": "Faserknorpel als Gelenküberzug",
+   "info": "Ausnahme vom hyalinen Überzug: Kiefer- und Sternoklavikulargelenk tragen Faserknorpel.",
+   "ref": "S. 46 A"
+  },
+  "knorpelzonen": {
+   "lat": "Zonae cartilaginis I–IV",
+   "de": "Zonen des Gelenkknorpels",
+   "info": "Kollagenfibrillen verlaufen arkadenförmig: in Zone IV am Knochen verankert, in III radiär, in II umbiegend, in I tangential zur Oberfläche.",
+   "ref": "S. 46 A a"
+  },
+  "chondrozyt": {
+   "lat": "Chondrocytus",
+   "de": "Knorpelzelle",
+   "info": "Macht nur etwa 5 % des Knorpelvolumens aus; ernährt sich ausschließlich aus der Synovia (Diffusion, Konvektion).",
+   "ref": "S. 46 A"
+  },
+  "ezm-knorpel": {
+   "lat": "Matrix extracellularis",
+   "de": "Extrazellulärmatrix des Knorpels",
+   "info": "Kollagen Typ II, IX und XI, Proteoglykane (v. a. Aggrekan), Glykoproteine wie Chondronektin sowie Wasser mit Kationen.",
+   "ref": "S. 47 B"
+  },
+  "kollagen-tripelhelix": {
+   "lat": "Tropocollagenum",
+   "de": "Kollagenmolekül",
+   "info": "Drei α-Ketten bilden eine rechtsgängige Tripelhelix; Quervernetzung macht die Fibrillen sehr zugfest.",
+   "ref": "S. 47 B"
+  },
+  "aggrekan": {
+   "lat": "Aggrecanum",
+   "de": "Aggrekan",
+   "info": "Wichtigstes Proteoglykan des Gelenkknorpels: „Flaschenbürste“ aus über 100 Glykosaminoglykan-Ketten an einem Hyaluronat-Faden; bindet viel Wasser.",
+   "ref": "S. 47 C"
+  },
+  "schwellungsdruck": {
+   "lat": "Modellum biphasicum",
+   "de": "biphasisches viskoelastisches Modell",
+   "info": "Kollagen begrenzt die Quellung der Proteoglykane auf etwa ein Fünftel; Belastung presst Flüssigkeit heraus, Entlastung saugt sie zurück (Konvektion).",
+   "ref": "S. 47 D"
+  },
+  "arthrose": {
+   "lat": "Arthrosis deformans",
+   "de": "Arthrose",
+   "info": "Degenerative Gelenkerkrankung durch ein Missverhältnis von Belastung und Belastbarkeit des Knorpels; Knorpelschäden sind nicht umkehrbar.",
+   "ref": "S. 48 A"
+  },
+  "arthrose-primaer-sekundaer": {
+   "lat": "Arthrosis primaria / secundaria",
+   "de": "primäre und sekundäre Arthrose",
+   "info": "Primär: keine erkennbare Ursache. Sekundär: Folge ungünstiger Biomechanik, z. B. Dysplasie, Achsfehlstellung, Instabilität, Unfallfolgen.",
+   "ref": "S. 48 A"
+  },
+  "arthritis-abgrenzung": {
+   "lat": "Arthritis (Abgrenzung)",
+   "de": "Arthritis",
+   "info": "Bei der Arthritis geht der Knorpel erst sekundär als Folge einer Entzündung der Gelenkkapsel verloren.",
+   "ref": "S. 48 A"
+  },
+  "osteophyten": {
+   "lat": "Osteophyta marginalia",
+   "de": "Randosteophyten",
+   "info": "Knöcherne Randanbauten, die die Kraft aufnehmende Fläche vergrößern; ab Stadium III.",
+   "ref": "S. 49 D, E"
+  },
+  "subchondrale-sklerose": {
+   "lat": "Sclerosis subchondralis",
+   "de": "subchondrale Sklerosierung",
+   "info": "Verdichtung des Knochens unter dem schwindenden Knorpel; im Röntgenbild hell.",
+   "ref": "S. 49 D, E"
+  },
+  "geroellzysten": {
+   "lat": "Cystae subchondrales",
+   "de": "Geröllzysten",
+   "info": "Resorptionshöhlen im Knochen unter der Gelenkfläche; im Röntgenbild Aufhellungen.",
+   "ref": "S. 49 D, E"
+  },
+  "tep": {
+   "lat": "Endoprothesis totalis",
+   "de": "Totalendoprothese (TEP)",
+   "info": "Ersatz von Gelenkkopf und Pfanne; zementiert sofort belastbar, zementfrei erst nach Wochen, dafür leichter zu wechseln.",
+   "ref": "S. 48 C"
+  }
+ },
+ "karten": [
+  {
+   "id": "k0",
+   "f": "Welche sieben Knochentypen werden unterschieden?",
+   "a": "Lange, kurze, platte, unregelmäßige, lufthaltige Knochen, Sesambeine und akzessorische Knochen.",
+   "e": "4.1",
+   "ref": "S. 40 C"
+  },
+  {
+   "id": "k1",
+   "f": "Wie entstehen akzessorische Knochen?",
+   "a": "Meist dadurch, dass einzelne Knochenkerne bei der Verknöcherung nicht miteinander verschmelzen.",
+   "e": "4.1",
+   "ref": "S. 40 C"
+  },
+  {
+   "id": "k2",
+   "f": "Nenne ein Sesambein und seine Lage.",
+   "a": "Die Patella – sie ist in die Sehne des M. quadriceps femoris eingelagert.",
+   "e": "4.1",
+   "ref": "S. 40 C"
+  },
+  {
+   "id": "k3",
+   "f": "Welche Abschnitte hat ein Röhrenknochen?",
+   "a": "Zwei Epiphysen (Enden), die Diaphyse (Schaft) und Apophysen als Knochenvorsprünge; dazwischen beim Erwachsenen die Epiphysenlinie.",
+   "e": "4.1",
+   "ref": "S. 41 D a"
+  },
+  {
+   "id": "k4",
+   "f": "Wo liegt rotes, wo gelbes Knochenmark?",
+   "a": "Rotes, blutbildendes Mark in der Spongiosa (z. B. Epiphysen), Fettmark in der Markhöhle des Schafts.",
+   "e": "4.1",
+   "ref": "S. 41 D a"
+  },
+  {
+   "id": "k5",
+   "f": "Warum sind Spongiosabälkchen höchstens 200–300 µm dick?",
+   "a": "Sie haben keine eigenen Gefäße und werden per Diffusion aus dem Markraum ernährt.",
+   "e": "4.1",
+   "ref": "S. 41 D b"
+  },
+  {
+   "id": "k6",
+   "f": "Beschreibe ein Osteon.",
+   "a": "Ca. 1 cm lang, 250–350 µm dick, 5–20 konzentrische Lamellen um einen Havers-Kanal; Osteozyten in den Lamellen über Fortsätze verbunden.",
+   "e": "4.1",
+   "ref": "S. 41 D c–d"
+  },
+  {
+   "id": "k7",
+   "f": "Wie unterscheiden sich Havers- und Volkmann-Kanäle?",
+   "a": "Havers-Kanäle laufen längs im Zentrum der Osteone; Volkmann-Kanäle laufen quer/schräg und verbinden sie untereinander sowie mit Periost- und Markgefäßen.",
+   "e": "4.1",
+   "ref": "S. 41 D c"
+  },
+  {
+   "id": "k8",
+   "f": "Wie ist das Periost aufgebaut?",
+   "a": "Außen Stratum fibrosum, innen die Kambiumschicht mit Osteoblasten; Sharpey-Fasern verankern es im Knochen.",
+   "e": "4.1",
+   "ref": "S. 41 D e"
+  },
+  {
+   "id": "k9",
+   "f": "Unechte vs. echte Gelenke – der Kernunterschied?",
+   "a": "Unechte (Synarthrosen) sind kontinuierlich über Gewebe verbunden; echte (Diarthrosen) haben einen Gelenkspalt.",
+   "e": "4.2",
+   "ref": "S. 42 A"
+  },
+  {
+   "id": "k10",
+   "f": "Welche drei Formen von Synarthrosen gibt es?",
+   "a": "Syndesmosen (Bandhaften), Synchondrosen (Knorpelhaften, Sonderform Symphyse) und Synostosen (Knochenhaften).",
+   "e": "4.2",
+   "ref": "S. 42 A"
+  },
+  {
+   "id": "k11",
+   "f": "Nenne fünf Beispiele für Syndesmosen.",
+   "a": "Membrana interossea, Syndesmosis tibiofibularis, Fontanellen, Gomphosis (Zahn), Ligg. flava/interspinalia/supraspinale.",
+   "e": "4.2",
+   "ref": "S. 43 E"
+  },
+  {
+   "id": "k12",
+   "f": "Was ist eine Symphyse?",
+   "a": "Eine Knorpelhaft mit überwiegend Faserknorpel – z. B. Symphysis pubica und die Bandscheiben.",
+   "e": "4.2",
+   "ref": "S. 42 A, 43 F d"
+  },
+  {
+   "id": "k13",
+   "f": "Nenne drei Synostosen.",
+   "a": "Kreuzbein (verschmolzene Sakralwirbel), Hüftbein (Ilium + Ischium + Pubis), geschlossene Epiphysenfugen.",
+   "e": "4.2",
+   "ref": "S. 43 G"
+  },
+  {
+   "id": "k14",
+   "f": "Ankylose, Arthrodese, Pseudarthrose – was ist was?",
+   "a": "Ankylose: krankhafte knöcherne Gelenkversteifung. Arthrodese: operative Versteifung. Pseudarthrose: Falschgelenk nach missglückter Frakturheilung.",
+   "e": "4.2",
+   "ref": "S. 42 B"
+  },
+  {
+   "id": "k15",
+   "f": "In welcher Stellung wird bei einer Arthrodese versteift?",
+   "a": "In Funktionsstellung: am Arm zum Greifen, am Bein zum Stehen und Gehen.",
+   "e": "4.2",
+   "ref": "S. 42 B"
+  },
+  {
+   "id": "k16",
+   "f": "Welche Bauelemente hat ein echtes Gelenk?",
+   "a": "Knorpelüberzogene Gelenkflächen, Gelenkspalt und -höhle, Kapsel, Synovia, ggf. Menisken/Disci/Labra, Bänder, Muskeln, Schleimbeutel.",
+   "e": "4.3",
+   "ref": "S. 44 A"
+  },
+  {
+   "id": "k17",
+   "f": "Wo kommen Disci articulares regelmäßig vor?",
+   "a": "Im Kiefergelenk, Sternoklavikulargelenk und im proximalen Handgelenk.",
+   "e": "4.3",
+   "ref": "S. 44 B b"
+  },
+  {
+   "id": "k18",
+   "f": "Wie werden Menisken ernährt?",
+   "a": "Der äußere, mit der Kapsel verwachsene Teil über Kapselgefäße, der innere faserknorpelige Teil über die Synovia.",
+   "e": "4.3",
+   "ref": "S. 44 B a"
+  },
+  {
+   "id": "k19",
+   "f": "Wozu dienen intraartikuläre Hilfseinrichtungen?",
+   "a": "Sie gleichen Inkongruenzen aus, vergrößern die Kraft aufnehmende Fläche und senken so die Knorpelbelastung.",
+   "e": "4.3",
+   "ref": "S. 44 B"
+  },
+  {
+   "id": "k20",
+   "f": "Liegen die Kreuzbänder in der Gelenkhöhle?",
+   "a": "Nein – sie sind von synovialer Intima bedeckt, liegen also intrakapsulär, aber extraartikulär.",
+   "e": "4.3",
+   "ref": "S. 45 C"
+  },
+  {
+   "id": "k21",
+   "f": "Drei Aufgaben der Synovia?",
+   "a": "Ernährung des gefäßfreien Knorpels, Schmierung der Gelenkflächen, Stoßdämpfung durch Druckverteilung.",
+   "e": "4.3",
+   "ref": "S. 45 D"
+  },
+  {
+   "id": "k22",
+   "f": "Was ist eine Gelenkkontraktur?",
+   "a": "Eine Bewegungseinschränkung, weil sich Bänder bei Ruhigstellung oder Fehlhaltung verkürzen.",
+   "e": "4.3",
+   "ref": "S. 45 C"
+  },
+  {
+   "id": "k23",
+   "f": "Aus welchen Schichten besteht die Gelenkkapsel?",
+   "a": "Membrana fibrosa („Wand“, straffes Bindegewebe) und Membrana synovialis („Tapete“, mit Intima und Subintima).",
+   "e": "4.4",
+   "ref": "S. 46 A"
+  },
+  {
+   "id": "k24",
+   "f": "A- vs. B-Synovialozyten?",
+   "a": "A: makrophagenähnlich, resorbieren und phagozytieren. B: fibroblastenähnlich, produzieren die Synovia.",
+   "e": "4.4",
+   "ref": "S. 46 A"
+  },
+  {
+   "id": "k25",
+   "f": "Warum regeneriert sich Gelenkknorpel kaum?",
+   "a": "Er ist gefäßfrei, hat kein Perichondrium und ernährt sich nur aus der Synovia.",
+   "e": "4.4",
+   "ref": "S. 46 A"
+  },
+  {
+   "id": "k26",
+   "f": "Welche Gelenke sind mit Faserknorpel statt hyalinem Knorpel überzogen?",
+   "a": "Kiefergelenk und Sternoklavikulargelenk.",
+   "e": "4.4",
+   "ref": "S. 46 A"
+  },
+  {
+   "id": "k27",
+   "f": "Wie verlaufen die Kollagenfibrillen im Gelenkknorpel?",
+   "a": "Arkadenförmig: aus Zone IV radiär nach oben (III), umbiegend (II), tangential an der Oberfläche (I) und wieder in die Tiefe.",
+   "e": "4.4",
+   "ref": "S. 46 A a"
+  },
+  {
+   "id": "k28",
+   "f": "Wie ist Aggrekan aufgebaut?",
+   "a": "Wie eine Flaschenbürste: zahlreiche Glykosaminoglykan-Ketten an einem zentralen Hyaluronat; viele negative Ladungen binden Kationen und Wasser.",
+   "e": "4.4",
+   "ref": "S. 47 C"
+  },
+  {
+   "id": "k29",
+   "f": "Wie federt Gelenkknorpel Druck ab?",
+   "a": "Belastung presst Flüssigkeit aus der Matrix, bis Gegendruck entsteht; bei Entlastung quillt sie wieder auf – dieser Wechsel (Konvektion) ernährt zugleich den Knorpel.",
+   "e": "4.4",
+   "ref": "S. 47 D"
+  },
+  {
+   "id": "k30",
+   "f": "Hauptursache der Arthrose?",
+   "a": "Ein Missverhältnis zwischen Belastung und Belastbarkeit des Gelenkknorpels.",
+   "e": "4.5",
+   "ref": "S. 48 A"
+  },
+  {
+   "id": "k31",
+   "f": "Vier typische Röntgenzeichen der Arthrose?",
+   "a": "Gelenkspaltverschmälerung, subchondrale Sklerosierung, Geröllzysten, Osteophyten.",
+   "e": "4.5",
+   "ref": "S. 49 E"
+  },
+  {
+   "id": "k32",
+   "f": "Zementierte vs. zementfreie Hüft-TEP?",
+   "a": "Zementiert: sofort belastbar. Zementfrei: braucht Wochen zum Einwachsen, ist aber leichter zu wechseln.",
+   "e": "4.5",
+   "ref": "S. 48 C"
+  }
+ ],
+ "fragen": [
+  {
+   "id": "f0",
+   "f": "Zu welchem Knochentyp gehört das Schulterblatt?",
+   "o": [
+    "Os breve",
+    "Os planum",
+    "Os pneumaticum",
+    "Os sesamoideum"
+   ],
+   "r": 1,
+   "x": "Scapula, Darmbein und Schädeldach sind platte Knochen.",
+   "e": "4.1",
+   "ref": "S. 40 C"
+  },
+  {
+   "id": "f1",
+   "f": "Welche Aussage zur Spongiosa trifft zu?",
+   "o": [
+    "Sie enthält Osteone mit Havers-Kanälen",
+    "Ihre Bälkchen werden per Diffusion ernährt",
+    "Sie liegt vor allem im Schaft",
+    "Sie enthält nur Fettmark"
+   ],
+   "r": 1,
+   "x": "Die Trabekel haben keine eigenen Gefäße; deshalb bleiben sie dünn.",
+   "e": "4.1",
+   "ref": "S. 41 D b"
+  },
+  {
+   "id": "f2",
+   "f": "Wie viele Lamellen umgeben den Havers-Kanal eines Osteons etwa?",
+   "o": [
+    "1–2",
+    "5–20",
+    "50–100",
+    "über 200"
+   ],
+   "r": 1,
+   "x": "Etwa 5–20 konzentrische Lamellen.",
+   "e": "4.1",
+   "ref": "S. 41 D d"
+  },
+  {
+   "id": "f3",
+   "f": "Was verbinden die Volkmann-Kanäle?",
+   "o": [
+    "Osteozyten untereinander",
+    "Havers-Kanäle untereinander und mit Periost- und Markgefäßen",
+    "Epiphyse und Diaphyse",
+    "Gelenkknorpel und Knochen"
+   ],
+   "r": 1,
+   "x": "Sie laufen quer bzw. schräg zur Längsachse.",
+   "e": "4.1",
+   "ref": "S. 41 D c"
+  },
+  {
+   "id": "f4",
+   "f": "Welche Struktur verankert das Periost im Knochen?",
+   "o": [
+    "Sharpey-Fasern",
+    "Ligg. intracapsularia",
+    "Volkmann-Kanäle",
+    "Generallamellen"
+   ],
+   "r": 0,
+   "x": "Kollagenfasern strahlen vom Periost in die Compacta ein.",
+   "e": "4.1",
+   "ref": "S. 41 D e"
+  },
+  {
+   "id": "f5",
+   "f": "Welche Verbindung ist eine Syndesmose?",
+   "o": [
+    "Symphysis pubica",
+    "Membrana interossea antebrachii",
+    "Epiphysenfuge vor dem Schluss",
+    "Os sacrum"
+   ],
+   "r": 1,
+   "x": "Bandhaft zwischen Radius und Ulna.",
+   "e": "4.2",
+   "ref": "S. 43 E a"
+  },
+  {
+   "id": "f6",
+   "f": "Die Gomphosis ist eine …",
+   "o": [
+    "Synchondrose",
+    "Synostose",
+    "Syndesmose",
+    "Diarthrose"
+   ],
+   "r": 2,
+   "x": "Die Einzapfung des Zahns ist eine Sonderform der Bandhaft.",
+   "e": "4.2",
+   "ref": "S. 43 E d"
+  },
+  {
+   "id": "f7",
+   "f": "Woraus besteht das Füllgewebe einer Symphyse überwiegend?",
+   "o": [
+    "hyalinem Knorpel",
+    "Faserknorpel",
+    "elastischem Knorpel",
+    "straffem Bindegewebe"
+   ],
+   "r": 1,
+   "x": "Symphysen sind Knorpelhaften aus vorwiegend Faserknorpel.",
+   "e": "4.2",
+   "ref": "S. 42 A"
+  },
+  {
+   "id": "f8",
+   "f": "Das Iliosakralgelenk ist funktionell eine …",
+   "o": [
+    "Synostose",
+    "Amphiarthrose",
+    "Syndesmose",
+    "Symphyse"
+   ],
+   "r": 1,
+   "x": "Ein echtes, aber durch Bänder sehr straffes Gelenk.",
+   "e": "4.2",
+   "ref": "S. 42 A"
+  },
+  {
+   "id": "f9",
+   "f": "Was bezeichnet „Ankylose“?",
+   "o": [
+    "operative Gelenkversteifung",
+    "krankhafte knöcherne Gelenkversteifung",
+    "Falschgelenk nach Fraktur",
+    "Gelenkspiegelung"
+   ],
+   "r": 1,
+   "x": "Nach vollständigem Knorpelabbau wächst der Gelenkspalt knöchern zu.",
+   "e": "4.2",
+   "ref": "S. 42 B, C"
+  },
+  {
+   "id": "f10",
+   "f": "In welchem Gelenk gibt es regelmäßig einen Discus articularis?",
+   "o": [
+    "Hüftgelenk",
+    "Schultergelenk",
+    "Sternoklavikulargelenk",
+    "Ellenbogengelenk"
+   ],
+   "r": 2,
+   "x": "Disci: Kiefer-, Sternoklavikular- und proximales Handgelenk.",
+   "e": "4.3",
+   "ref": "S. 44 B b"
+  },
+  {
+   "id": "f11",
+   "f": "Wo liegt ein Labrum articulare?",
+   "o": [
+    "am Tibiaplateau",
+    "am Rand der Hüft- und Schulterpfanne",
+    "im Kiefergelenk",
+    "zwischen den Wirbelkörpern"
+   ],
+   "r": 1,
+   "x": "Labrum acetabuli und Labrum glenoidale vergrößern die Pfannen.",
+   "e": "4.3",
+   "ref": "S. 44 B c"
+  },
+  {
+   "id": "f12",
+   "f": "Das Lig. collaterale fibulare des Kniegelenks ist ein …",
+   "o": [
+    "intrakapsuläres Band in der Membrana fibrosa",
+    "subintimales Band",
+    "extrakapsuläres Band",
+    "intraartikuläres Band"
+   ],
+   "r": 2,
+   "x": "Es hat keinen direkten Kontakt zur Gelenkkapsel.",
+   "e": "4.3",
+   "ref": "S. 45 C"
+  },
+  {
+   "id": "f13",
+   "f": "Wie viel Synovia enthält ein Kniegelenk etwa?",
+   "o": [
+    "unter 0,5 ml",
+    "3–5 ml",
+    "20–30 ml",
+    "100 ml"
+   ],
+   "r": 1,
+   "x": "Selbst große Gelenke enthalten nur wenige Milliliter.",
+   "e": "4.3",
+   "ref": "S. 45 D"
+  },
+  {
+   "id": "f14",
+   "f": "Welche Zellen bilden vor allem die Synovialflüssigkeit?",
+   "o": [
+    "A-Synovialozyten",
+    "B-Synovialozyten",
+    "Chondrozyten",
+    "Osteoblasten"
+   ],
+   "r": 1,
+   "x": "Die fibroblastenähnlichen B-Zellen sezernieren; die A-Zellen resorbieren.",
+   "e": "4.4",
+   "ref": "S. 46 A"
+  },
+  {
+   "id": "f15",
+   "f": "Wodurch wird hyaliner Gelenkknorpel ernährt?",
+   "o": [
+    "eigene Kapillaren",
+    "Perichondrium",
+    "Synovia per Diffusion und Konvektion",
+    "Markraumgefäße"
+   ],
+   "r": 2,
+   "x": "Er ist gefäßfrei und hat kein Perichondrium.",
+   "e": "4.4",
+   "ref": "S. 46 A, 47 D"
+  },
+  {
+   "id": "f16",
+   "f": "Welcher Kollagentyp überwiegt im hyalinen Gelenkknorpel?",
+   "o": [
+    "Typ I",
+    "Typ II",
+    "Typ III",
+    "Typ IV"
+   ],
+   "r": 1,
+   "x": "Vor allem Kollagen II, daneben IX und XI.",
+   "e": "4.4",
+   "ref": "S. 47 B"
+  },
+  {
+   "id": "f17",
+   "f": "Was bewirken die negativen Ladungen der Proteoglykane?",
+   "o": [
+    "Sie lösen Kollagen auf",
+    "Sie binden Kationen und damit Wasser",
+    "Sie verkalken den Knorpel",
+    "Sie leiten Schmerz"
+   ],
+   "r": 1,
+   "x": "Daraus entsteht der Schwellungsdruck des Knorpels.",
+   "e": "4.4",
+   "ref": "S. 47 C–D"
+  },
+  {
+   "id": "f18",
+   "f": "Welche Arthrose betrifft das Daumensattelgelenk?",
+   "o": [
+    "Heberden-Arthrose",
+    "Bouchard-Arthrose",
+    "Rhizarthrose",
+    "Omarthrose"
+   ],
+   "r": 2,
+   "x": "Heberden: Fingerendgelenke, Bouchard: Mittelgelenke, Omarthrose: Schulter.",
+   "e": "4.5",
+   "ref": "S. 48 B"
+  },
+  {
+   "id": "f19",
+   "f": "Was gehört NICHT zu den typischen Röntgenzeichen der Arthrose?",
+   "o": [
+    "Gelenkspaltverschmälerung",
+    "subchondrale Sklerosierung",
+    "Gelenkspaltverbreiterung",
+    "Osteophyten"
+   ],
+   "r": 2,
+   "x": "Der Spalt wird durch Knorpelverlust schmaler, nicht breiter.",
+   "e": "4.5",
+   "ref": "S. 49 E"
+  },
+  {
+   "id": "f20",
+   "f": "Was spricht für eine zementierte TEP?",
+   "o": [
+    "einfacherer Prothesenwechsel",
+    "sofortige Belastbarkeit",
+    "kein Infektionsrisiko",
+    "hält garantiert lebenslang"
+   ],
+   "r": 1,
+   "x": "Die zementfreie braucht Wochen zum Einwachsen.",
+   "e": "4.5",
+   "ref": "S. 48 C"
+  }
+ ],
+ "sortieren": {
+  "titel": "Welche Art von Knochenverbindung?",
+  "ref": "S. 42 A, 43 E–G",
+  "kategorien": [
+   "Syndesmose",
+   "Synchondrose / Symphyse",
+   "Synostose",
+   "echtes Gelenk"
+  ],
+  "items": [
+   {
+    "id": "s0",
+    "t": "Membrana interossea antebrachii",
+    "k": 0
+   },
+   {
+    "id": "s1",
+    "t": "Fontanellen des Neugeborenen",
+    "k": 0
+   },
+   {
+    "id": "s2",
+    "t": "Zahn in der Alveole (Gomphosis)",
+    "k": 0
+   },
+   {
+    "id": "s3",
+    "t": "Syndesmosis tibiofibularis",
+    "k": 0
+   },
+   {
+    "id": "s4",
+    "t": "Lig. flavum",
+    "k": 0
+   },
+   {
+    "id": "s5",
+    "t": "Epiphysenfuge vor dem Schluss",
+    "k": 1
+   },
+   {
+    "id": "s6",
+    "t": "Y-Fuge des Hüftbeins beim Kind",
+    "k": 1
+   },
+   {
+    "id": "s7",
+    "t": "Rippenknorpel",
+    "k": 1
+   },
+   {
+    "id": "s8",
+    "t": "Symphysis pubica",
+    "k": 1
+   },
+   {
+    "id": "s9",
+    "t": "Bandscheibe",
+    "k": 1
+   },
+   {
+    "id": "s10",
+    "t": "Os sacrum beim Erwachsenen",
+    "k": 2
+   },
+   {
+    "id": "s11",
+    "t": "Os coxae beim Erwachsenen",
+    "k": 2
+   },
+   {
+    "id": "s12",
+    "t": "geschlossene Epiphysenfuge",
+    "k": 2
+   },
+   {
+    "id": "s13",
+    "t": "Hüftgelenk",
+    "k": 3
+   },
+   {
+    "id": "s14",
+    "t": "Kniegelenk",
+    "k": 3
+   },
+   {
+    "id": "s15",
+    "t": "Iliosakralgelenk (Amphiarthrose)",
+    "k": 3
+   }
+  ]
+ },
+ "tabellen": [
+  {
+   "id": "knochentypen",
+   "titel": "Knochentypen",
+   "ref": "S. 40 C",
+   "einheit": "4.1",
+   "spalten": [
+    "Fachbegriff",
+    "Beispiel"
+   ],
+   "zeilen": [
+    [
+     "lange Knochen",
+     [
+      "Ossa longa",
+      "Femur"
+     ]
+    ],
+    [
+     "kurze Knochen",
+     [
+      "Ossa brevia",
+      "Handwurzel"
+     ]
+    ],
+    [
+     "platte Knochen",
+     [
+      "Ossa plana",
+      "Scapula"
+     ]
+    ],
+    [
+     "lufthaltige Knochen",
+     [
+      "Ossa pneumatica",
+      "Maxilla"
+     ]
+    ],
+    [
+     "Sesambeine",
+     [
+      "Ossa sesamoidea",
+      "Patella"
+     ]
+    ]
+   ],
+   "fuss": "Weitere Beispiele zählen inhaltlich ebenso (Prüfen vergleicht aber mit dem hinterlegten Wort)."
+  },
+  {
+   "id": "gelenkzahlen",
+   "titel": "Zahlen zu Gelenk und Knorpel",
+   "ref": "S. 45 D, 46 A",
+   "einheit": "4.3",
+   "spalten": [
+    "Wert"
+   ],
+   "zeilen": [
+    [
+     "Synovia im Kniegelenk (ml)",
+     [
+      "3–5"
+     ]
+    ],
+    [
+     "pH-Wert der Synovia",
+     [
+      "7,4–7,7"
+     ]
+    ],
+    [
+     "Abwehrzellen in der Synovia (pro µl)",
+     [
+      "60–150"
+     ]
+    ],
+    [
+     "Knorpeldicke Fingergelenk (mm)",
+     [
+      "1–2"
+     ]
+    ],
+    [
+     "Knorpeldicke Patella (mm)",
+     [
+      "5–7"
+     ]
+    ],
+    [
+     "Volumenanteil der Chondrozyten (%)",
+     [
+      "5"
+     ]
+    ]
+   ],
+   "fuss": "Bereiche mit Bindestrich eingeben, z. B. 3-5."
+  },
+  {
+   "id": "arthrosen",
+   "titel": "Arthrose: Bezeichnung nach Gelenk",
+   "ref": "S. 48 B",
+   "einheit": "4.5",
+   "spalten": [
+    "Bezeichnung"
+   ],
+   "zeilen": [
+    [
+     "Schultergelenk",
+     [
+      "Omarthrose"
+     ]
+    ],
+    [
+     "Hüftgelenk",
+     [
+      "Koxarthrose"
+     ]
+    ],
+    [
+     "Wirbelgelenke",
+     [
+      "Spondylarthrose"
+     ]
+    ],
+    [
+     "Daumensattelgelenk",
+     [
+      "Rhizarthrose"
+     ]
+    ],
+    [
+     "Fingermittelgelenke (PIP)",
+     [
+      "Bouchard-Arthrose"
+     ]
+    ],
+    [
+     "Fingerendgelenke (DIP)",
+     [
+      "Heberden-Arthrose"
+     ]
+    ]
+   ],
+   "fuss": "PIP = proximale, DIP = distale Interphalangealgelenke."
+  }
+ ]
+}

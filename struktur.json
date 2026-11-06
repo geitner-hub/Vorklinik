@@ -1,0 +1,25 @@
+{
+  "titel": "Vorklinik",
+  "hinweis": "Zuordnung hier ändern: Kapitel-IDs zwischen Gruppen verschieben, Gruppen umbenennen oder neu anlegen. Die Kapitel selbst liegen unter kapitel/<id>/.",
+  "themengebiete": [
+    {
+      "id": "anatomie",
+      "titel": "Anatomie",
+      "farbe": "petrol",
+      "gruppen": [
+        {
+          "id": "allgemeine-anatomie",
+          "titel": "Allgemeine Anatomie",
+          "untertitel": "Grundlagen",
+          "kapitel": ["allg-entwicklung", "allg-koerper", "allg-knochen", "allg-faszien-gefaesse"]
+        },
+        {
+          "id": "testat-knochen-baender-gelenke",
+          "titel": "Testat: Knochen, Bänder, Gelenke",
+          "untertitel": "Bewegungsapparat",
+          "kapitel": ["rumpf-knochen"]
+        }
+      ]
+    }
+  ]
+}
