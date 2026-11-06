@@ -57,7 +57,8 @@ a { color: var(--petrol-text); }
 .marke-zeichen { width: 34px; height: 34px; border-radius: 10px; background: var(--petrol); color: var(--auf-petrol); display: grid; place-items: center; font-weight: 700; }
 .kopf-kapitel { flex: 1; min-width: 0; display: flex; }
 .kopf-kapitel:not([hidden]) ~ .rund { margin-left: 0; }
-.kopf-kapitel[hidden] + .rund, .kopf-innen > .rund { margin-left: auto; }
+.kopf-kapitel[hidden] + .rund { margin-left: auto; }
+#themaKnopf { font-size: 20px; }
 .kapitel-knopf { min-width: 0; max-width: 100%; display: flex; gap: 10px; align-items: center; border: 1.5px solid var(--petrol); background: var(--petrol-hell); color: var(--text); border-radius: 12px; padding: 6px 12px; min-height: 46px; text-align: left; }
 .kk-titel { font-weight: 700; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
 .kk-seiten { flex: none; font: 700 13px var(--mono); color: var(--ocker); background: var(--ocker-hell); padding: 3px 8px; border-radius: 7px; }
@@ -118,6 +119,31 @@ h3 { font-size: 17px; margin: 0; }
 .ring .bahn { stroke: var(--flaeche2); }
 .ring .wert { stroke: var(--petrol); stroke-linecap: round; transform: rotate(-90deg); transform-origin: 50% 50%; }
 .ring text { font: 700 15px var(--schrift); fill: var(--text); text-anchor: middle; dominant-baseline: central; }
+
+/* Inhaltsverzeichnis nach Buchseiten (Aufklappmenü) */
+.toc-start { margin: 4px 0 14px; }
+.toc { display: grid; gap: 6px; }
+.toc-kap { background: var(--flaeche2); border-radius: 12px; }
+.toc-kap summary { list-style: none; display: grid; grid-template-columns: 118px minmax(0, 1fr) 24px; gap: 10px; align-items: center; padding: 12px; min-height: 52px; cursor: pointer; font-weight: 700; }
+.toc-kap summary::-webkit-details-marker { display: none; }
+.toc-kap .seiten { font: 700 14px var(--mono); color: var(--ocker); }
+.toc-pfeil { color: var(--petrol-text); transition: transform .2s; text-align: center; }
+.toc-kap[open] .toc-pfeil { transform: rotate(180deg); }
+.toc-kap ul { list-style: none; margin: 0; padding: 0 8px 8px; display: grid; gap: 4px; }
+.toc-kap a { display: grid; grid-template-columns: 64px 44px minmax(0, 1fr); gap: 8px; align-items: baseline; text-decoration: none; color: var(--text); background: var(--flaeche); border-radius: 9px; padding: 10px; min-height: 44px; }
+.toc-kap a:hover { outline: 1.5px solid var(--petrol); }
+.toc-kap .pg { font: 700 13px var(--mono); color: var(--ocker); }
+.toc-kap .nr { font: 700 13px var(--mono); color: var(--petrol-text); }
+@media (prefers-reduced-motion: reduce) { .toc-pfeil { transition: none; } }
+@media (max-width: 560px) {
+  .toc-kap summary { grid-template-columns: minmax(0, 1fr) 24px; row-gap: 2px; }
+  .toc-kap summary .seiten { grid-column: 1 / -1; }
+  .toc-kap a { grid-template-columns: 58px minmax(0, 1fr); }
+  .toc-kap a .nr { display: none; }
+  .blatt-liste a, .blatt-liste button { grid-template-columns: minmax(0, 1fr) auto; }
+  .blatt-liste .seiten { grid-column: 1 / -1; }
+  .menue-knopf { grid-template-columns: 32px minmax(0, 1fr) !important; }
+}
 
 /* Blatt (Kapitel wechseln, Menü) */
 .blatt-hinter { position: fixed; inset: 0; z-index: 40; background: rgba(8, 20, 24, .45); }
