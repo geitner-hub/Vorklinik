@@ -832,6 +832,363 @@
    "info": "Bis 2 cm dicke Fettkammern mit derben Septen zwischen Plantaraponeurose und Lederhaut; verteilen den Druck.",
    "ref": "S. 490 A–C",
    "rubrik": "weitere"
+  },
+  "os-ilium": {
+   "lat": "Os ilium",
+   "de": "Darmbein",
+   "info": "Oberer, flügelartiger Teil des Hüftbeins; bildet den oberen Teil des Acetabulums.",
+   "ref": "S. 426 A, 427 F",
+   "rubrik": "knochen"
+  },
+  "os-ischii": {
+   "lat": "Os ischii",
+   "de": "Sitzbein",
+   "info": "Hinterer unterer Teil des Hüftbeins mit Tuber ischiadicum.",
+   "ref": "S. 426 A, 427 F",
+   "rubrik": "knochen"
+  },
+  "os-pubis": {
+   "lat": "Os pubis",
+   "de": "Schambein",
+   "info": "Vorderer unterer Teil des Hüftbeins; beide Schambeine sind in der Symphyse verbunden.",
+   "ref": "S. 426 A, 427 F",
+   "rubrik": "knochen"
+  },
+  "crista-iliaca": {
+   "lat": "Crista iliaca",
+   "de": "Darmbeinkamm",
+   "info": "Oberer, tastbarer Rand des Darmbeins zwischen vorderem und hinterem oberen Darmbeinstachel.",
+   "ref": "S. 427 F–G",
+   "rubrik": "knochen"
+  },
+  "spina-iliaca-anterior-superior": {
+   "lat": "Spina iliaca anterior superior",
+   "de": "Vorderer oberer Darmbeinstachel",
+   "info": "Gut tastbarer Knochenpunkt; Ursprung von M. sartorius und Leistenband.",
+   "ref": "S. 427 F",
+   "rubrik": "knochen"
+  },
+  "spina-iliaca-anterior-inferior": {
+   "lat": "Spina iliaca anterior inferior",
+   "de": "Vorderer unterer Darmbeinstachel",
+   "info": "Ursprung des M. rectus femoris und des Lig. iliofemorale.",
+   "ref": "S. 427 F, 442 A",
+   "rubrik": "knochen"
+  },
+  "spina-iliaca-posterior-superior": {
+   "lat": "Spina iliaca posterior superior",
+   "de": "Hinterer oberer Darmbeinstachel",
+   "info": "Hinteres Ende der Crista iliaca; als Grübchen über dem Kreuzbein sichtbar.",
+   "ref": "S. 427 F",
+   "rubrik": "knochen"
+  },
+  "spina-iliaca-posterior-inferior": {
+   "lat": "Spina iliaca posterior inferior",
+   "de": "Hinterer unterer Darmbeinstachel",
+   "info": "Knochenvorsprung oberhalb der Incisura ischiadica major.",
+   "ref": "S. 427 F",
+   "rubrik": "knochen"
+  },
+  "incisura-ischiadica-major": {
+   "lat": "Incisura ischiadica major",
+   "de": "Großer Sitzbeinausschnitt",
+   "info": "Tiefe Einkerbung am Hinterrand; wird durch das Lig. sacrospinale zum Foramen ischiadicum majus.",
+   "ref": "S. 427 F",
+   "rubrik": "knochen"
+  },
+  "incisura-ischiadica-minor": {
+   "lat": "Incisura ischiadica minor",
+   "de": "Kleiner Sitzbeinausschnitt",
+   "info": "Einkerbung zwischen Spina und Tuber ischiadicum; wird zum Foramen ischiadicum minus.",
+   "ref": "S. 427 F",
+   "rubrik": "knochen"
+  },
+  "spina-ischiadica": {
+   "lat": "Spina ischiadica",
+   "de": "Sitzbeinstachel",
+   "info": "Spitzer Fortsatz zwischen großem und kleinem Sitzbeinausschnitt; Ansatz des Lig. sacrospinale.",
+   "ref": "S. 427 F–G",
+   "rubrik": "knochen"
+  },
+  "tuber-ischiadicum": {
+   "lat": "Tuber ischiadicum",
+   "de": "Sitzbeinhöcker",
+   "info": "Kräftiger Höcker, auf dem man sitzt; Ursprung der ischiokruralen Muskeln.",
+   "ref": "S. 427 F–G",
+   "rubrik": "knochen"
+  },
+  "foramen-obturatum": {
+   "lat": "Foramen obturatum",
+   "de": "Hüftbeinloch",
+   "info": "Großes, von Scham- und Sitzbein umrahmtes Loch; bis auf den Canalis obturatorius durch die Membrana obturatoria verschlossen.",
+   "ref": "S. 427 F–G",
+   "rubrik": "knochen"
+  },
+  "ramus-superior-ossis-pubis": {
+   "lat": "Ramus superior ossis pubis",
+   "de": "Oberer Schambeinast",
+   "info": "Zieht vom Acetabulum zum Corpus ossis pubis; begrenzt das Foramen obturatum oben.",
+   "ref": "S. 427 F",
+   "rubrik": "knochen"
+  },
+  "ramus-inferior-ossis-pubis": {
+   "lat": "Ramus inferior ossis pubis",
+   "de": "Unterer Schambeinast",
+   "info": "Geht in den Ramus ossis ischii über; begrenzt das Foramen obturatum unten.",
+   "ref": "S. 427 F",
+   "rubrik": "knochen"
+  },
+  "ramus-ossis-ischii": {
+   "lat": "Ramus ossis ischii",
+   "de": "Sitzbeinast",
+   "info": "Schmaler Knochenast vom Tuber ischiadicum nach vorn zum unteren Schambeinast.",
+   "ref": "S. 427 F",
+   "rubrik": "knochen"
+  },
+  "incisura-acetabuli": {
+   "lat": "Incisura acetabuli",
+   "de": "Pfannenkerbe",
+   "info": "Unterer Einschnitt im Pfannenrand; vom Lig. transversum acetabuli überbrückt.",
+   "ref": "S. 445 B",
+   "rubrik": "knochen"
+  },
+  "eminentia-iliopubica": {
+   "lat": "Eminentia iliopubica",
+   "de": "Darmbein-Schambein-Höcker",
+   "info": "Leichte Erhebung an der Verschmelzungsstelle von Darm- und Schambein vor dem Acetabulum.",
+   "ref": "S. 427 F",
+   "rubrik": "knochen"
+  },
+  "linea-glutea-anterior": {
+   "lat": "Linea glutea anterior",
+   "de": "Vordere Gesäßlinie",
+   "info": "Rauigkeitslinie auf der Außenfläche des Darmbeins; trennt die Ursprünge von M. gluteus medius und minimus.",
+   "ref": "S. 427 F",
+   "rubrik": "knochen"
+  },
+  "linea-glutea-posterior": {
+   "lat": "Linea glutea posterior",
+   "de": "Hintere Gesäßlinie",
+   "info": "Kurze Linie nahe dem Hinterrand; hinter ihr entspringt der M. gluteus maximus.",
+   "ref": "S. 427 F",
+   "rubrik": "knochen"
+  },
+  "linea-glutea-inferior": {
+   "lat": "Linea glutea inferior",
+   "de": "Untere Gesäßlinie",
+   "info": "Linie oberhalb des Acetabulums; Unterrand des Ursprungs des M. gluteus minimus.",
+   "ref": "S. 427 F",
+   "rubrik": "knochen"
+  },
+  "trochanter-minor": {
+   "lat": "Trochanter minor",
+   "de": "Kleiner Rollhügel",
+   "info": "Medial-dorsaler Knochenvorsprung unterhalb des Schenkelhalses; Ansatz des M. iliopsoas.",
+   "ref": "S. 428 A–B",
+   "rubrik": "knochen"
+  },
+  "fovea-capitis-femoris": {
+   "lat": "Fovea capitis femoris",
+   "de": "Grube am Hüftkopf",
+   "info": "Kleine Vertiefung auf dem Caput femoris; Ansatz des Lig. capitis femoris.",
+   "ref": "S. 428 A, 445 C",
+   "rubrik": "knochen"
+  },
+  "linea-intertrochanterica": {
+   "lat": "Linea intertrochanterica",
+   "de": "Linie zwischen den Rollhügeln (vorn)",
+   "info": "Raue Linie vorn zwischen Trochanter major und minor; Ansatz der Hüftgelenkkapsel und des Lig. iliofemorale.",
+   "ref": "S. 428 A, 442 A",
+   "rubrik": "knochen"
+  },
+  "crista-intertrochanterica": {
+   "lat": "Crista intertrochanterica",
+   "de": "Kamm zwischen den Rollhügeln (hinten)",
+   "info": "Kräftige Knochenleiste hinten zwischen Trochanter major und minor.",
+   "ref": "S. 428 B",
+   "rubrik": "knochen"
+  },
+  "fossa-trochanterica": {
+   "lat": "Fossa trochanterica",
+   "de": "Rollhügelgrube",
+   "info": "Grube an der Innenseite des Trochanter major; Ansatz des M. obturatorius externus.",
+   "ref": "S. 428 B",
+   "rubrik": "knochen"
+  },
+  "linea-aspera": {
+   "lat": "Linea aspera",
+   "de": "Raue Linie",
+   "info": "Doppelleiste auf der Rückseite des Femurschafts; Ursprung und Ansatz vieler Oberschenkelmuskeln.",
+   "ref": "S. 428 B",
+   "rubrik": "knochen"
+  },
+  "facies-poplitea": {
+   "lat": "Facies poplitea",
+   "de": "Kniekehlenfläche",
+   "info": "Dreieckige glatte Fläche hinten am distalen Femur zwischen den auseinanderweichenden Lippen der Linea aspera.",
+   "ref": "S. 428 B",
+   "rubrik": "knochen"
+  },
+  "fossa-intercondylaris": {
+   "lat": "Fossa intercondylaris",
+   "de": "Zwischenknorrengrube",
+   "info": "Grube zwischen den Femurkondylen; hier entspringen die Kreuzbänder.",
+   "ref": "S. 428 B, 455 B",
+   "rubrik": "knochen"
+  },
+  "epicondylus-medialis-femoris": {
+   "lat": "Epicondylus medialis femoris",
+   "de": "Innerer Oberschenkel-Epikondylus",
+   "info": "Vorsprung über dem medialen Kondylus; Ursprung des Lig. collaterale tibiale.",
+   "ref": "S. 428 A–B",
+   "rubrik": "knochen"
+  },
+  "epicondylus-lateralis-femoris": {
+   "lat": "Epicondylus lateralis femoris",
+   "de": "Äußerer Oberschenkel-Epikondylus",
+   "info": "Vorsprung über dem lateralen Kondylus; Ursprung des Lig. collaterale fibulare.",
+   "ref": "S. 428 A–B",
+   "rubrik": "knochen"
+  },
+  "tuberculum-adductorium": {
+   "lat": "Tuberculum adductorium",
+   "de": "Adduktorenhöcker",
+   "info": "Kleiner Höcker oberhalb des Epicondylus medialis; Ansatz des M. adductor magnus.",
+   "ref": "S. 428 A",
+   "rubrik": "knochen"
+  },
+  "capsula-art-coxae": {
+   "lat": "Capsula articularis (Hüftgelenk)",
+   "de": "Hüftgelenkkapsel",
+   "info": "Straffe Kapsel vom Pfannenrand zum Schenkelhals; vorn bis zur Linea intertrochanterica, hinten nur bis zur Mitte des Halses.",
+   "ref": "S. 442 A–B",
+   "rubrik": "gelenk"
+  },
+  "condyli-tibiae": {
+   "lat": "Condyli medialis et lateralis tibiae",
+   "de": "Schienbeinkondylen",
+   "info": "Verbreitertes proximales Ende der Tibia; tragen die Gelenkflächen des Tibiaplateaus.",
+   "ref": "S. 434 A–B",
+   "rubrik": "knochen"
+  },
+  "eminentia-intercondylaris": {
+   "lat": "Eminentia intercondylaris",
+   "de": "Zwischenhöckerhügel",
+   "info": "Knöcherne Erhebung zwischen den Gelenkflächen des Tibiaplateaus; hier setzen Kreuzbänder und Menisken an.",
+   "ref": "S. 434 A, 455 B",
+   "rubrik": "knochen"
+  },
+  "tuberositas-tibiae": {
+   "lat": "Tuberositas tibiae",
+   "de": "Schienbeinrauigkeit",
+   "info": "Rauer Höcker vorn unterhalb der Kondylen; Ansatz des Lig. patellae.",
+   "ref": "S. 434 A",
+   "rubrik": "knochen"
+  },
+  "caput-fibulae": {
+   "lat": "Caput fibulae",
+   "de": "Wadenbeinkopf",
+   "info": "Proximales Ende der Fibula; Gelenk mit der Tibia und Ansatz des Lig. collaterale fibulare.",
+   "ref": "S. 434 A–B",
+   "rubrik": "knochen"
+  },
+  "margo-anterior-tibiae": {
+   "lat": "Margo anterior tibiae",
+   "de": "Schienbeinkante",
+   "info": "Scharfe, direkt unter der Haut tastbare Vorderkante der Tibia.",
+   "ref": "S. 434 A",
+   "rubrik": "knochen"
+  },
+  "facies-medialis-tibiae": {
+   "lat": "Facies medialis tibiae",
+   "de": "Innenfläche des Schienbeins",
+   "info": "Breite, nur von Haut bedeckte Fläche der Tibia.",
+   "ref": "S. 434 A",
+   "rubrik": "knochen"
+  },
+  "malleolus-medialis": {
+   "lat": "Malleolus medialis",
+   "de": "Innenknöchel",
+   "info": "Distaler Fortsatz der Tibia; mediale Wange der Malleolengabel.",
+   "ref": "S. 434 A, 435 E",
+   "rubrik": "knochen"
+  },
+  "malleolus-lateralis": {
+   "lat": "Malleolus lateralis",
+   "de": "Außenknöchel",
+   "info": "Distales Ende der Fibula; reicht tiefer als der Innenknöchel und bildet die laterale Wange der Malleolengabel.",
+   "ref": "S. 434 A, 435 E",
+   "rubrik": "knochen"
+  },
+  "caput-tali": {
+   "lat": "Caput tali",
+   "de": "Taluskopf",
+   "info": "Vorderes, gerundetes Ende des Talus; Gelenkkopf für das Os naviculare.",
+   "ref": "S. 436 A–B",
+   "rubrik": "knochen"
+  },
+  "collum-tali": {
+   "lat": "Collum tali",
+   "de": "Talushals",
+   "info": "Eingeschnürter Abschnitt zwischen Corpus und Caput tali.",
+   "ref": "S. 436 A–B",
+   "rubrik": "knochen"
+  },
+  "trochlea-tali": {
+   "lat": "Trochlea tali",
+   "de": "Talusrolle",
+   "info": "Obere Gelenkfläche des Talus; vorn breiter als hinten, artikuliert in der Malleolengabel.",
+   "ref": "S. 436 A, 474 A",
+   "rubrik": "knochen"
+  },
+  "tuber-calcanei": {
+   "lat": "Tuber calcanei",
+   "de": "Fersenbeinhöcker",
+   "info": "Hinteres Ende des Calcaneus; Ansatz der Achillessehne.",
+   "ref": "S. 437 D, 438 A",
+   "rubrik": "knochen"
+  },
+  "phalanges-pedis": {
+   "lat": "Phalanges (Fuß)",
+   "de": "Zehenglieder",
+   "info": "Grund-, Mittel- und Endglieder der Zehen; die Großzehe hat nur zwei Glieder.",
+   "ref": "S. 436 A",
+   "rubrik": "knochen"
+  },
+  "tuberositas-ossis-metatarsi-v": {
+   "lat": "Tuberositas ossis metatarsi V",
+   "de": "Höcker des 5. Mittelfußknochens",
+   "info": "Seitlich vorspringender Höcker an der Basis des Os metatarsi V; Ansatz des M. fibularis brevis.",
+   "ref": "S. 436 A, 438 B",
+   "rubrik": "knochen"
+  },
+  "symphysis-pubica": {
+   "lat": "Symphysis pubica",
+   "de": "Schambeinfuge",
+   "info": "Faserknorpelige Verbindung der beiden Schambeine (Discus interpubicus); schließt den Beckenring vorn.",
+   "ref": "S. 426 A, 427 E",
+   "rubrik": "gelenk"
+  },
+  "membrana-obturatoria": {
+   "lat": "Membrana obturatoria",
+   "de": "Verschlussmembran",
+   "info": "Bindegewebsplatte im Foramen obturatum; lässt oben den Canalis obturatorius frei.",
+   "ref": "S. 427 F",
+   "rubrik": "band"
+  },
+  "canalis-obturatorius": {
+   "lat": "Canalis obturatorius",
+   "de": "Obturatorkanal",
+   "info": "Lücke am Oberrand der Membrana obturatoria; Durchtritt der Vasa obturatoria und des N. obturatorius.",
+   "ref": "S. 427 F",
+   "rubrik": "weitere"
+  },
+  "lig-transversum-genus": {
+   "lat": "Ligamentum transversum genus",
+   "de": "Querband des Knies",
+   "info": "Verbindet vorn die Vorderhörner von Innen- und Außenmeniskus.",
+   "ref": "S. 460 A",
+   "rubrik": "band"
   }
  },
  "karten": [

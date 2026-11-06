@@ -891,6 +891,363 @@
    "info": "Enthält das Os pisiforme als Sesambein.",
    "ref": "S. 266 A, 299",
    "rubrik": "sehne"
+  },
+  "angulus-superior-scapulae": {
+   "lat": "Angulus superior scapulae",
+   "de": "Oberer Schulterblattwinkel",
+   "info": "Oberer, medialer Winkel der Scapula zwischen Margo superior und Margo medialis.",
+   "ref": "S. 255 B–D",
+   "rubrik": "knochen"
+  },
+  "angulus-lateralis-scapulae": {
+   "lat": "Angulus lateralis scapulae",
+   "de": "Seitlicher Schulterblattwinkel",
+   "info": "Verdickter seitlicher Winkel der Scapula; trägt Collum scapulae und Cavitas glenoidalis.",
+   "ref": "S. 255 B–D",
+   "rubrik": "knochen"
+  },
+  "margo-medialis-scapulae": {
+   "lat": "Margo medialis scapulae",
+   "de": "Medialer (wirbelsäulennaher) Rand",
+   "info": "Langer, der Wirbelsäule zugewandter Rand des Schulterblatts.",
+   "ref": "S. 255 B–D",
+   "rubrik": "knochen"
+  },
+  "margo-lateralis-scapulae": {
+   "lat": "Margo lateralis scapulae",
+   "de": "Seitlicher (achselnaher) Rand",
+   "info": "Kräftiger, zur Achsel weisender Rand zwischen Cavitas glenoidalis und Angulus inferior.",
+   "ref": "S. 255 B–D",
+   "rubrik": "knochen"
+  },
+  "margo-superior-scapulae": {
+   "lat": "Margo superior scapulae",
+   "de": "Oberer Rand",
+   "info": "Kurzer, dünner Oberrand der Scapula mit der Incisura scapulae.",
+   "ref": "S. 255 B–E",
+   "rubrik": "knochen"
+  },
+  "fossa-subscapularis": {
+   "lat": "Fossa subscapularis",
+   "de": "Vordere Schulterblattgrube",
+   "info": "Flache, zum Thorax gewandte Grube auf der Vorderfläche der Scapula; Ursprung des M. subscapularis.",
+   "ref": "S. 255 C",
+   "rubrik": "knochen"
+  },
+  "fossa-supraspinata": {
+   "lat": "Fossa supraspinata",
+   "de": "Obergrätengrube",
+   "info": "Grube der Scapula-Rückfläche oberhalb der Spina; Ursprung des M. supraspinatus.",
+   "ref": "S. 255 D",
+   "rubrik": "knochen"
+  },
+  "fossa-infraspinata": {
+   "lat": "Fossa infraspinata",
+   "de": "Untergrätengrube",
+   "info": "Große Grube der Scapula-Rückfläche unterhalb der Spina; Ursprung des M. infraspinatus.",
+   "ref": "S. 255 D",
+   "rubrik": "knochen"
+  },
+  "collum-scapulae": {
+   "lat": "Collum scapulae",
+   "de": "Schulterblatthals",
+   "info": "Leicht eingeschnürter Abschnitt direkt medial der Cavitas glenoidalis.",
+   "ref": "S. 255 B–D",
+   "rubrik": "knochen"
+  },
+  "tuberculum-infraglenoidale": {
+   "lat": "Tuberculum infraglenoidale",
+   "de": "Höcker unter der Pfanne",
+   "info": "Rauigkeit unterhalb der Cavitas glenoidalis; Ursprung des langen Trizepskopfes.",
+   "ref": "S. 255 B",
+   "rubrik": "knochen"
+  },
+  "tuberculum-supraglenoidale": {
+   "lat": "Tuberculum supraglenoidale",
+   "de": "Höcker über der Pfanne",
+   "info": "Kleiner Höcker oberhalb der Cavitas glenoidalis; Ursprung der langen Bizepssehne.",
+   "ref": "S. 255 B",
+   "rubrik": "knochen"
+  },
+  "fossa-coronoidea": {
+   "lat": "Fossa coronoidea",
+   "de": "Grube für den Kronenfortsatz",
+   "info": "Vertiefung vorn oberhalb der Trochlea humeri; nimmt bei starker Beugung den Proc. coronoideus ulnae auf.",
+   "ref": "S. 256 A, 289 B",
+   "rubrik": "knochen"
+  },
+  "fossa-radialis": {
+   "lat": "Fossa radialis",
+   "de": "Grube für den Radiuskopf",
+   "info": "Kleine Vertiefung vorn oberhalb des Capitulum humeri; nimmt bei Beugung den Radiuskopf auf.",
+   "ref": "S. 256 A",
+   "rubrik": "knochen"
+  },
+  "tuberositas-deltoidea": {
+   "lat": "Tuberositas deltoidea",
+   "de": "Deltamuskel-Rauigkeit",
+   "info": "Raue Fläche seitlich in der Schaftmitte des Humerus; Ansatz des M. deltoideus.",
+   "ref": "S. 256 A–B",
+   "rubrik": "knochen"
+  },
+  "crista-tuberculi-majoris": {
+   "lat": "Crista tuberculi majoris",
+   "de": "Leiste des großen Höckers",
+   "info": "Knochenleiste, die vom Tuberculum majus nach distal zieht (lateraler Rand des Sulcus intertubercularis).",
+   "ref": "S. 257 D",
+   "rubrik": "knochen"
+  },
+  "crista-tuberculi-minoris": {
+   "lat": "Crista tuberculi minoris",
+   "de": "Leiste des kleinen Höckers",
+   "info": "Knochenleiste, die vom Tuberculum minus nach distal zieht (medialer Rand des Sulcus intertubercularis).",
+   "ref": "S. 257 D",
+   "rubrik": "knochen"
+  },
+  "collum-radii": {
+   "lat": "Collum radii",
+   "de": "Radiushals",
+   "info": "Schmaler Abschnitt zwischen Caput radii und Tuberositas radii.",
+   "ref": "S. 260 A",
+   "rubrik": "knochen"
+  },
+  "tuberositas-ulnae": {
+   "lat": "Tuberositas ulnae",
+   "de": "Ulna-Rauigkeit",
+   "info": "Raue Fläche unterhalb des Proc. coronoideus; Ansatz des M. brachialis.",
+   "ref": "S. 260 A",
+   "rubrik": "knochen"
+  },
+  "caput-ulnae": {
+   "lat": "Caput ulnae",
+   "de": "Ellenkopf",
+   "info": "Distales Ende der Ulna; Gelenkpartner des Radius im distalen Radioulnargelenk.",
+   "ref": "S. 260 A, 294 A",
+   "rubrik": "knochen"
+  },
+  "incisura-ulnaris-radii": {
+   "lat": "Incisura ulnaris radii",
+   "de": "Ulnare Gelenkkerbe des Radius",
+   "info": "Gelenkfläche am distalen Radius für das Caput ulnae.",
+   "ref": "S. 263 D",
+   "rubrik": "knochen"
+  },
+  "facies-articularis-carpalis": {
+   "lat": "Facies articularis carpalis radii",
+   "de": "Handwurzel-Gelenkfläche des Radius",
+   "info": "Distale Gelenkfläche des Radius für Scaphoid und Lunatum.",
+   "ref": "S. 263 D, 267 C",
+   "rubrik": "knochen"
+  },
+  "margo-interosseus": {
+   "lat": "Margo interosseus",
+   "de": "Zwischenknochenrand",
+   "info": "Scharfe, einander zugewandte Kanten von Radius und Ulna; hier ist die Membrana interossea befestigt.",
+   "ref": "S. 260 A, 263 C",
+   "rubrik": "knochen"
+  },
+  "hamulus-ossis-hamati": {
+   "lat": "Hamulus ossis hamati",
+   "de": "Haken des Hakenbeins",
+   "info": "Palmarer Fortsatz des Os hamatum; ulnare Begrenzung des Karpaltunnels.",
+   "ref": "S. 266 A, 303 C",
+   "rubrik": "knochen"
+  },
+  "tuberculum-ossis-scaphoidei": {
+   "lat": "Tuberculum ossis scaphoidei",
+   "de": "Kahnbeinhöcker",
+   "info": "Palmar tastbarer Höcker des Scaphoids; radialer Ansatzpunkt des Retinaculum flexorum.",
+   "ref": "S. 266 A, 303 C",
+   "rubrik": "knochen"
+  },
+  "tuberculum-ossis-trapezii": {
+   "lat": "Tuberculum ossis trapezii",
+   "de": "Höcker des großen Vielecksbeins",
+   "info": "Palmarer Höcker des Trapezium; radialer Ansatzpunkt des Retinaculum flexorum.",
+   "ref": "S. 266 A, 303 C",
+   "rubrik": "knochen"
+  },
+  "capsula-art-humeri": {
+   "lat": "Capsula articularis (Schultergelenk)",
+   "de": "Schultergelenkkapsel",
+   "info": "Weite, schlaffe Kapsel vom Pfannenrand zum Collum anatomicum; unten als Recessus axillaris ausgesackt.",
+   "ref": "S. 275 C",
+   "rubrik": "gelenk"
+  },
+  "capsula-art-cubiti": {
+   "lat": "Capsula articularis (Ellenbogengelenk)",
+   "de": "Ellenbogengelenkkapsel",
+   "info": "Gemeinsame Kapsel der drei Teilgelenke; vorn und hinten dünn, seitlich durch Kollateralbänder verstärkt.",
+   "ref": "S. 290 A, 291 C",
+   "rubrik": "gelenk"
+  },
+  "lig-trapezoideum": {
+   "lat": "Ligamentum trapezoideum",
+   "de": "Trapezband",
+   "info": "Lateraler, breiter Teil des Lig. coracoclaviculare.",
+   "ref": "S. 272 B",
+   "rubrik": "band"
+  },
+  "lig-conoideum": {
+   "lat": "Ligamentum conoideum",
+   "de": "Kegelband",
+   "info": "Medialer, kegelförmiger Teil des Lig. coracoclaviculare.",
+   "ref": "S. 272 B",
+   "rubrik": "band"
+  },
+  "lig-quadratum": {
+   "lat": "Ligamentum quadratum",
+   "de": "Viereckband",
+   "info": "Kurzes Band vom unteren Rand der Incisura radialis ulnae zum Collum radii; sichert das proximale Radioulnargelenk.",
+   "ref": "S. 291 D",
+   "rubrik": "band"
+  },
+  "chorda-obliqua": {
+   "lat": "Chorda obliqua",
+   "de": "Schräger Strang",
+   "info": "Schmaler Faserzug proximal der Membrana interossea, von der Tuberositas ulnae zum Radius.",
+   "ref": "S. 294 A",
+   "rubrik": "band"
+  },
+  "lig-radiocarpale-palmare": {
+   "lat": "Ligamentum radiocarpale palmare",
+   "de": "Palmares Speichen-Handwurzel-Band",
+   "info": "Extrinsisches Band vom distalen Radius schräg nach ulnar-distal zu proximalen Handwurzelknochen und Capitatum.",
+   "ref": "S. 298 A",
+   "rubrik": "band"
+  },
+  "lig-radiocarpale-dorsale": {
+   "lat": "Ligamentum radiocarpale dorsale",
+   "de": "Dorsales Speichen-Handwurzel-Band",
+   "info": "Extrinsisches Band auf der Handrückseite vom Radius zu Lunatum und Triquetrum.",
+   "ref": "S. 299",
+   "rubrik": "band"
+  },
+  "lig-ulnocarpale-palmare": {
+   "lat": "Ligamentum ulnocarpale palmare",
+   "de": "Palmares Ellen-Handwurzel-Band",
+   "info": "Extrinsisches Band vom Discus/Ulna zu Lunatum und Triquetrum; Teil des ulnokarpalen Komplexes.",
+   "ref": "S. 298 A, 301 B",
+   "rubrik": "band"
+  },
+  "lig-carpi-radiatum": {
+   "lat": "Ligamentum carpi radiatum",
+   "de": "Strahlenband",
+   "info": "Sternförmig vom Capitatum ausstrahlende palmare Bänder.",
+   "ref": "S. 298 A",
+   "rubrik": "band"
+  },
+  "lig-pisohamatum": {
+   "lat": "Ligamentum pisohamatum",
+   "de": "Erbsenbein-Hakenbein-Band",
+   "info": "Fortsetzung der Sehne des M. flexor carpi ulnaris vom Pisiforme zum Hamulus ossis hamati.",
+   "ref": "S. 298 A, 299",
+   "rubrik": "band"
+  },
+  "lig-pisometacarpale": {
+   "lat": "Ligamentum pisometacarpale",
+   "de": "Erbsenbein-Mittelhand-Band",
+   "info": "Fortsetzung der FCU-Sehne vom Pisiforme zur Basis des Os metacarpi V.",
+   "ref": "S. 298 A, 299",
+   "rubrik": "band"
+  },
+  "ligg-carpometacarpalia": {
+   "lat": "Ligamenta carpometacarpalia palmaria et dorsalia",
+   "de": "Handwurzel-Mittelhand-Bänder",
+   "info": "Straffe Bänder zwischen distaler Handwurzelreihe und Mittelhandbasen; machen die CMC-Gelenke II–V fast unbeweglich.",
+   "ref": "S. 298 A, 299",
+   "rubrik": "band"
+  },
+  "ligg-metacarpalia": {
+   "lat": "Ligamenta metacarpalia palmaria et dorsalia",
+   "de": "Mittelhand-Basis-Bänder",
+   "info": "Querbänder zwischen den Basen benachbarter Mittelhandknochen.",
+   "ref": "S. 298 A, 299",
+   "rubrik": "band"
+  },
+  "ligg-intercarpalia-dorsalia": {
+   "lat": "Ligamenta intercarpalia dorsalia",
+   "de": "Dorsale Zwischenhandwurzelbänder",
+   "info": "Querverlaufende Bänder auf der Handrückseite zwischen den Handwurzelknochen.",
+   "ref": "S. 299",
+   "rubrik": "band"
+  },
+  "basis-phalangis": {
+   "lat": "Basis phalangis",
+   "de": "Fingergliedbasis",
+   "info": "Proximales, verbreitertes Ende eines Fingerglieds mit Gelenkpfanne.",
+   "ref": "S. 264 A",
+   "rubrik": "knochen"
+  },
+  "caput-ossis-metacarpi": {
+   "lat": "Caput ossis metacarpi",
+   "de": "Mittelhandköpfchen",
+   "info": "Distales, kugeliges Ende eines Mittelhandknochens; Gelenkkopf des Grundgelenks (MCP).",
+   "ref": "S. 264 A",
+   "rubrik": "knochen"
+  },
+  "phalanx-distalis": {
+   "lat": "Phalanx distalis",
+   "de": "Endglied",
+   "info": "Distales Fingerglied mit der Tuberositas phalangis distalis.",
+   "ref": "S. 264 A",
+   "rubrik": "knochen"
+  },
+  "phalanx-media": {
+   "lat": "Phalanx media",
+   "de": "Mittelglied",
+   "info": "Mittleres Fingerglied (fehlt am Daumen).",
+   "ref": "S. 264 A",
+   "rubrik": "knochen"
+  },
+  "phalanx-proximalis": {
+   "lat": "Phalanx proximalis",
+   "de": "Grundglied",
+   "info": "Proximales Fingerglied, gelenkig mit dem Mittelhandköpfchen verbunden.",
+   "ref": "S. 264 A",
+   "rubrik": "knochen"
+  },
+  "lig-interclaviculare": {
+   "lat": "Ligamentum interclaviculare",
+   "de": "Zwischenschlüsselbeinband",
+   "info": "Zieht über die Incisura jugularis von einer Clavicula zur anderen und verstärkt beide Sternoklavikulargelenke von oben.",
+   "ref": "S. 272 A",
+   "rubrik": "band"
+  },
+  "discus-art-sternoclavicularis": {
+   "lat": "Discus articularis (Sternoklavikulargelenk)",
+   "de": "Gelenkscheibe des Sternoklavikulargelenks",
+   "info": "Faserknorpelige Scheibe, die das Gelenk in zwei Kammern teilt und die ungleichen Gelenkflächen ausgleicht.",
+   "ref": "S. 271 B, 272 A",
+   "rubrik": "gelenk"
+  },
+  "manubrium-sterni": {
+   "lat": "Manubrium sterni",
+   "de": "Brustbeingriff",
+   "info": "Oberer Teil des Brustbeins; trägt seitlich die Gelenkflächen für die Claviculae.",
+   "ref": "S. 252 A, 271 B",
+   "rubrik": "knochen"
+  },
+  "cartilago-costalis-1": {
+   "lat": "Cartilago costalis I",
+   "de": "Knorpel der 1. Rippe",
+   "info": "Rippenknorpel der ersten Rippe; unterhalb des Sternoklavikulargelenks, Ansatz des Lig. costoclaviculare.",
+   "ref": "S. 271 B, 272 A",
+   "rubrik": "knochen"
+  },
+  "lig-transversum-humeri": {
+   "lat": "Ligamentum transversum humeri",
+   "de": "Querband des Oberarms",
+   "info": "Überbrückt den Sulcus intertubercularis zwischen den beiden Tubercula und hält die lange Bizepssehne in ihrer Rinne.",
+   "ref": "S. 276 A",
+   "rubrik": "band"
+  },
+  "ligg-collateralia-ip": {
+   "lat": "Ligamenta collateralia articulationum interphalangearum",
+   "de": "Seitenbänder der Fingermittel- und -endgelenke",
+   "info": "Seitliche Bänder der PIP- und DIP-Gelenke; in jeder Stellung etwa gleich gespannt, daher nur Beugung und Streckung.",
+   "ref": "S. 305 D",
+   "rubrik": "band"
   }
  },
  "karten": [
